@@ -1,0 +1,5 @@
+DROP SPACE Twitter2010;
+CREATE SPACE Twitter2010;
+USE Twitter2010;
+CREATE TAG ve(id int);
+CREATE EDGE ed();

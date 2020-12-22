@@ -1,0 +1,63 @@
+[2020-12-16 14:31:13] [INFO]	-- Start LabelPropagation
+[2020-12-16 14:34:17] [DEBUG]		1	Schedule: 100.00%	Time: 3m 4s 40ms 581us 748ns	Sample: null	Result null
+[2020-12-16 14:34:17] [INFO]	-- Result Statistics
+[2020-12-16 14:34:17] [INFO]	minTime: 3m 4s 40ms 581us 748ns(184040.58ms)
+[2020-12-16 14:34:17] [INFO]	maxTime: 3m 4s 40ms 581us 748ns(184040.58ms)
+[2020-12-16 14:34:17] [INFO]	AvgTime: 3m 4s 40ms 581us 748ns(184040.58ms)
+[2020-12-16 14:34:17] [INFO]	P99: 3m 4s 40ms 581us 748ns(184040.58ms)
+[2020-12-16 14:34:17] [INFO]	P999: 3m 4s 40ms 581us 748ns(184040.58ms)
+[2020-12-16 14:34:17] [INFO]	Throughput: 0.01
+[2020-12-16 14:34:17] [INFO]	SuccessNum: 1
+[2020-12-16 14:34:17] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:34:17] [INFO]	ErrorNum: 0
+[2020-12-16 14:34:17] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:34:17] [INFO]	TimeoutNum: 0
+[2020-12-16 14:34:17] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:34:17] [INFO]	-- End LabelPropagation
+[2020-12-16 14:34:17] [INFO]	-- Start LabelPropagation
+[2020-12-16 14:37:08] [DEBUG]		1	Schedule: 100.00%	Time: 2m 50s 985ms 835us 825ns	Sample: null	Result null
+[2020-12-16 14:37:08] [INFO]	-- Result Statistics
+[2020-12-16 14:37:08] [INFO]	minTime: 2m 50s 985ms 835us 825ns(170985.84ms)
+[2020-12-16 14:37:08] [INFO]	maxTime: 2m 50s 985ms 835us 825ns(170985.84ms)
+[2020-12-16 14:37:08] [INFO]	AvgTime: 2m 50s 985ms 835us 825ns(170985.84ms)
+[2020-12-16 14:37:08] [INFO]	P99: 2m 50s 985ms 835us 825ns(170985.84ms)
+[2020-12-16 14:37:08] [INFO]	P999: 2m 50s 985ms 835us 825ns(170985.84ms)
+[2020-12-16 14:37:08] [INFO]	Throughput: 0.01
+[2020-12-16 14:37:08] [INFO]	SuccessNum: 1
+[2020-12-16 14:37:08] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:37:08] [INFO]	ErrorNum: 0
+[2020-12-16 14:37:08] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:37:08] [INFO]	TimeoutNum: 0
+[2020-12-16 14:37:08] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:37:08] [INFO]	-- End LabelPropagation
+[2020-12-16 14:37:08] [INFO]	-- Start LabelPropagation
+[2020-12-16 14:40:09] [DEBUG]		1	Schedule: 100.00%	Time: 3m 1s 192ms 203us 51ns	Sample: null	Result null
+[2020-12-16 14:40:09] [INFO]	-- Result Statistics
+[2020-12-16 14:40:09] [INFO]	minTime: 3m 1s 192ms 203us 51ns(181192.20ms)
+[2020-12-16 14:40:09] [INFO]	maxTime: 3m 1s 192ms 203us 51ns(181192.20ms)
+[2020-12-16 14:40:09] [INFO]	AvgTime: 3m 1s 192ms 203us 51ns(181192.20ms)
+[2020-12-16 14:40:09] [INFO]	P99: 3m 1s 192ms 203us 51ns(181192.20ms)
+[2020-12-16 14:40:09] [INFO]	P999: 3m 1s 192ms 203us 51ns(181192.20ms)
+[2020-12-16 14:40:09] [INFO]	Throughput: 0.01
+[2020-12-16 14:40:09] [INFO]	SuccessNum: 1
+[2020-12-16 14:40:09] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:40:09] [INFO]	ErrorNum: 0
+[2020-12-16 14:40:09] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:40:09] [INFO]	TimeoutNum: 0
+[2020-12-16 14:40:09] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:40:09] [INFO]	-- End LabelPropagation
+[2020-12-16 14:40:09] [INFO]	***********************
+[2020-12-16 14:40:09] [INFO]	** Summary of LabelPropagation Test 2 - 3
+[2020-12-16 14:40:09] [INFO]	minTime: 2m 50s 985ms 835us 825ns(170985.84ms)
+[2020-12-16 14:40:09] [INFO]	maxTime: 3m 1s 192ms 203us 51ns(181192.20ms)
+[2020-12-16 14:40:09] [INFO]	AvgTime: 2m 56s 89ms 19us 438ns(176089.02ms)
+[2020-12-16 14:40:09] [INFO]	P99: 3m 1s 90ms 139us 378ns(181090.14ms)
+[2020-12-16 14:40:09] [INFO]	P999: 3m 1s 181ms 996us 683ns(181182.00ms)
+[2020-12-16 14:40:09] [INFO]	Throughput: 0.01
+[2020-12-16 14:40:09] [INFO]	SuccessNum: 2
+[2020-12-16 14:40:09] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:40:09] [INFO]	ErrorNum: 0
+[2020-12-16 14:40:09] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:40:09] [INFO]	TimeoutNum: 0
+[2020-12-16 14:40:09] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:40:09] [INFO]	***********************

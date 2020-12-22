@@ -1,0 +1,63 @@
+[2020-12-21 00:34:27] [INFO]	-- Start PageRank
+[2020-12-21 00:44:20] [DEBUG]		1	Schedule: 100.00%	Time: 9m 53s 288ms 813us 201ns	Sample: [0, 10, 0.85, true, 1]	Result {"version":{"edition":"developer","api":"v2","schema":0},"error":false,"message":"","results":[{"@@maxDifference":3.14159}]}
+[2020-12-21 00:44:20] [INFO]	-- Result Statistics
+[2020-12-21 00:44:20] [INFO]	minTime: 9m 53s 288ms 813us 201ns(593288.81ms)
+[2020-12-21 00:44:20] [INFO]	maxTime: 9m 53s 288ms 813us 201ns(593288.81ms)
+[2020-12-21 00:44:20] [INFO]	AvgTime: 9m 53s 288ms 813us 201ns(593288.81ms)
+[2020-12-21 00:44:20] [INFO]	P99: 9m 53s 288ms 813us 201ns(593288.81ms)
+[2020-12-21 00:44:20] [INFO]	P999: 9m 53s 288ms 813us 201ns(593288.81ms)
+[2020-12-21 00:44:20] [INFO]	Throughput: 0.00
+[2020-12-21 00:44:20] [INFO]	SuccessNum: 1
+[2020-12-21 00:44:20] [INFO]	SuccessRate: 100.00%
+[2020-12-21 00:44:20] [INFO]	ErrorNum: 0
+[2020-12-21 00:44:20] [INFO]	ErrorRate: 0.00%
+[2020-12-21 00:44:20] [INFO]	TimeoutNum: 0
+[2020-12-21 00:44:20] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 00:44:20] [INFO]	-- End PageRank
+[2020-12-21 00:44:20] [INFO]	-- Start PageRank
+[2020-12-21 00:54:04] [DEBUG]		1	Schedule: 100.00%	Time: 9m 44s 98ms 128us 680ns	Sample: [0, 10, 0.85, true, 1]	Result {"version":{"edition":"developer","api":"v2","schema":0},"error":false,"message":"","results":[{"@@maxDifference":3.14159}]}
+[2020-12-21 00:54:04] [INFO]	-- Result Statistics
+[2020-12-21 00:54:04] [INFO]	minTime: 9m 44s 98ms 128us 680ns(584098.13ms)
+[2020-12-21 00:54:04] [INFO]	maxTime: 9m 44s 98ms 128us 680ns(584098.13ms)
+[2020-12-21 00:54:04] [INFO]	AvgTime: 9m 44s 98ms 128us 680ns(584098.13ms)
+[2020-12-21 00:54:04] [INFO]	P99: 9m 44s 98ms 128us 680ns(584098.13ms)
+[2020-12-21 00:54:04] [INFO]	P999: 9m 44s 98ms 128us 680ns(584098.13ms)
+[2020-12-21 00:54:04] [INFO]	Throughput: 0.00
+[2020-12-21 00:54:04] [INFO]	SuccessNum: 1
+[2020-12-21 00:54:04] [INFO]	SuccessRate: 100.00%
+[2020-12-21 00:54:04] [INFO]	ErrorNum: 0
+[2020-12-21 00:54:04] [INFO]	ErrorRate: 0.00%
+[2020-12-21 00:54:04] [INFO]	TimeoutNum: 0
+[2020-12-21 00:54:04] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 00:54:04] [INFO]	-- End PageRank
+[2020-12-21 00:54:04] [INFO]	-- Start PageRank
+[2020-12-21 01:03:49] [DEBUG]		1	Schedule: 100.00%	Time: 9m 45s 6ms 648us 929ns	Sample: [0, 10, 0.85, true, 1]	Result {"version":{"edition":"developer","api":"v2","schema":0},"error":false,"message":"","results":[{"@@maxDifference":3.14159}]}
+[2020-12-21 01:03:49] [INFO]	-- Result Statistics
+[2020-12-21 01:03:49] [INFO]	minTime: 9m 45s 6ms 648us 929ns(585006.65ms)
+[2020-12-21 01:03:49] [INFO]	maxTime: 9m 45s 6ms 648us 929ns(585006.65ms)
+[2020-12-21 01:03:49] [INFO]	AvgTime: 9m 45s 6ms 648us 929ns(585006.65ms)
+[2020-12-21 01:03:49] [INFO]	P99: 9m 45s 6ms 648us 929ns(585006.65ms)
+[2020-12-21 01:03:49] [INFO]	P999: 9m 45s 6ms 648us 929ns(585006.65ms)
+[2020-12-21 01:03:49] [INFO]	Throughput: 0.00
+[2020-12-21 01:03:49] [INFO]	SuccessNum: 1
+[2020-12-21 01:03:49] [INFO]	SuccessRate: 100.00%
+[2020-12-21 01:03:49] [INFO]	ErrorNum: 0
+[2020-12-21 01:03:49] [INFO]	ErrorRate: 0.00%
+[2020-12-21 01:03:49] [INFO]	TimeoutNum: 0
+[2020-12-21 01:03:49] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 01:03:49] [INFO]	-- End PageRank
+[2020-12-21 01:03:49] [INFO]	***********************
+[2020-12-21 01:03:49] [INFO]	** Summary of PageRank Test 2 - 3
+[2020-12-21 01:03:49] [INFO]	minTime: 9m 44s 98ms 128us 680ns(584098.13ms)
+[2020-12-21 01:03:49] [INFO]	maxTime: 9m 45s 6ms 648us 929ns(585006.65ms)
+[2020-12-21 01:03:49] [INFO]	AvgTime: 9m 44s 552ms 388us 804ns(584552.39ms)
+[2020-12-21 01:03:49] [INFO]	P99: 9m 44s 997ms 563us 726ns(584997.56ms)
+[2020-12-21 01:03:49] [INFO]	P999: 9m 45s 5ms 740us 408ns(585005.74ms)
+[2020-12-21 01:03:49] [INFO]	Throughput: 0.00
+[2020-12-21 01:03:49] [INFO]	SuccessNum: 2
+[2020-12-21 01:03:49] [INFO]	SuccessRate: 100.00%
+[2020-12-21 01:03:49] [INFO]	ErrorNum: 0
+[2020-12-21 01:03:49] [INFO]	ErrorRate: 0.00%
+[2020-12-21 01:03:49] [INFO]	TimeoutNum: 0
+[2020-12-21 01:03:49] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 01:03:49] [INFO]	***********************

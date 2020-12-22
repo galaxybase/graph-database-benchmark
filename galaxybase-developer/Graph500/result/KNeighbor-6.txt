@@ -1,0 +1,73 @@
+[2020-12-13 18:40:07] [INFO]	-- start KNeighbor 6度
+[2020-12-13 18:40:08] [DEBUG]		1	Schedule:  10.00%	Time: 594ms 448us 492ns	sample: [3600312]	Result 点数量：1649283
+[2020-12-13 18:40:08] [DEBUG]		2	Schedule:  20.00%	Time: 147ms 52us 426ns	sample: [2677094]	Result 点数量：512850
+[2020-12-13 18:40:09] [DEBUG]		3	Schedule:  30.00%	Time: 685ms 690us 760ns	sample: [2038005]	Result 点数量：1814774
+[2020-12-13 18:40:09] [DEBUG]		4	Schedule:  40.00%	Time: 872ms 932us 135ns	sample: [3301167]	Result 点数量：2060913
+[2020-12-13 18:40:10] [DEBUG]		5	Schedule:  50.00%	Time: 108ms 435us 75ns	sample: [704219]	Result 点数量：393974
+[2020-12-13 18:40:10] [DEBUG]		6	Schedule:  60.00%	Time: 592ms 223us 688ns	sample: [1779962]	Result 点数量：1639074
+[2020-12-13 18:40:11] [DEBUG]		7	Schedule:  70.00%	Time: 854ms 805us 277ns	sample: [2681401]	Result 点数量：2092779
+[2020-12-13 18:40:12] [DEBUG]		8	Schedule:  80.00%	Time: 720ms 639us 20ns	sample: [2277366]	Result 点数量：1819350
+[2020-12-13 18:40:13] [DEBUG]		9	Schedule:  90.00%	Time: 926ms 782us 176ns	sample: [1649130]	Result 点数量：2149195
+[2020-12-13 18:40:13] [DEBUG]		10	Schedule:  100.00%	Time: 579ms 292us 12ns	sample: [806220]	Result 点数量：1628905
+[2020-12-13 18:40:13] [INFO]	-- Result Statistics
+[2020-12-13 18:40:13] [INFO]	minTime: 108ms 435us 75ns(108.44ms)
+[2020-12-13 18:40:13] [INFO]	maxTime: 926ms 782us 176ns(926.78ms)
+[2020-12-13 18:40:13] [INFO]	AvgTime: 608ms 230us 106ns(608.23ms)
+[2020-12-13 18:40:13] [INFO]	P99：921ms 935us 672ns(921.94ms)
+[2020-12-13 18:40:13] [INFO]	P999：926ms 297us 525ns(926.30ms)
+[2020-12-13 18:40:13] [INFO]	Throughput: 1.64
+[2020-12-13 18:40:13] [INFO]	SuccessNum: 10
+[2020-12-13 18:40:13] [INFO]	vertexCount Average: 1576109.70
+[2020-12-13 18:40:13] [INFO]	-- end KNeighbor 6度
+[2020-12-13 18:40:13] [INFO]	-- start KNeighbor 6度
+[2020-12-13 18:40:14] [DEBUG]		1	Schedule:  10.00%	Time: 585ms 881us 510ns	sample: [3600312]	Result 点数量：1649283
+[2020-12-13 18:40:14] [DEBUG]		2	Schedule:  20.00%	Time: 145ms 822us 664ns	sample: [2677094]	Result 点数量：512850
+[2020-12-13 18:40:15] [DEBUG]		3	Schedule:  30.00%	Time: 688ms 503us 435ns	sample: [2038005]	Result 点数量：1814774
+[2020-12-13 18:40:16] [DEBUG]		4	Schedule:  40.00%	Time: 858ms 445us 18ns	sample: [3301167]	Result 点数量：2060913
+[2020-12-13 18:40:16] [DEBUG]		5	Schedule:  50.00%	Time: 107ms 776us 357ns	sample: [704219]	Result 点数量：393974
+[2020-12-13 18:40:16] [DEBUG]		6	Schedule:  60.00%	Time: 587ms 126us 36ns	sample: [1779962]	Result 点数量：1639074
+[2020-12-13 18:40:17] [DEBUG]		7	Schedule:  70.00%	Time: 882ms 205us 369ns	sample: [2681401]	Result 点数量：2092779
+[2020-12-13 18:40:18] [DEBUG]		8	Schedule:  80.00%	Time: 683ms 878us 975ns	sample: [2277366]	Result 点数量：1819350
+[2020-12-13 18:40:19] [DEBUG]		9	Schedule:  90.00%	Time: 949ms 969us 913ns	sample: [1649130]	Result 点数量：2149195
+[2020-12-13 18:40:19] [DEBUG]		10	Schedule:  100.00%	Time: 580ms 788us 950ns	sample: [806220]	Result 点数量：1628905
+[2020-12-13 18:40:19] [INFO]	-- Result Statistics
+[2020-12-13 18:40:19] [INFO]	minTime: 107ms 776us 357ns(107.78ms)
+[2020-12-13 18:40:19] [INFO]	maxTime: 949ms 969us 913ns(949.97ms)
+[2020-12-13 18:40:19] [INFO]	AvgTime: 607ms 39us 822ns(607.04ms)
+[2020-12-13 18:40:19] [INFO]	P99：943ms 871us 104ns(943.87ms)
+[2020-12-13 18:40:19] [INFO]	P999：949ms 360us 32ns(949.36ms)
+[2020-12-13 18:40:19] [INFO]	Throughput: 1.65
+[2020-12-13 18:40:19] [INFO]	SuccessNum: 10
+[2020-12-13 18:40:19] [INFO]	vertexCount Average: 1576109.70
+[2020-12-13 18:40:19] [INFO]	-- end KNeighbor 6度
+[2020-12-13 18:40:19] [INFO]	-- start KNeighbor 6度
+[2020-12-13 18:40:20] [DEBUG]		1	Schedule:  10.00%	Time: 597ms 280us 111ns	sample: [3600312]	Result 点数量：1649283
+[2020-12-13 18:40:20] [DEBUG]		2	Schedule:  20.00%	Time: 155ms 586us 189ns	sample: [2677094]	Result 点数量：512850
+[2020-12-13 18:40:21] [DEBUG]		3	Schedule:  30.00%	Time: 676ms 484us 536ns	sample: [2038005]	Result 点数量：1814774
+[2020-12-13 18:40:22] [DEBUG]		4	Schedule:  40.00%	Time: 880ms 568us 693ns	sample: [3301167]	Result 点数量：2060913
+[2020-12-13 18:40:22] [DEBUG]		5	Schedule:  50.00%	Time: 109ms 306us 326ns	sample: [704219]	Result 点数量：393974
+[2020-12-13 18:40:22] [DEBUG]		6	Schedule:  60.00%	Time: 591ms 598us 914ns	sample: [1779962]	Result 点数量：1639074
+[2020-12-13 18:40:23] [DEBUG]		7	Schedule:  70.00%	Time: 868ms 126us 241ns	sample: [2681401]	Result 点数量：2092779
+[2020-12-13 18:40:24] [DEBUG]		8	Schedule:  80.00%	Time: 672ms 891us 894ns	sample: [2277366]	Result 点数量：1819350
+[2020-12-13 18:40:25] [DEBUG]		9	Schedule:  90.00%	Time: 992ms 434us 108ns	sample: [1649130]	Result 点数量：2149195
+[2020-12-13 18:40:25] [DEBUG]		10	Schedule:  100.00%	Time: 580ms 546us 572ns	sample: [806220]	Result 点数量：1628905
+[2020-12-13 18:40:25] [INFO]	-- Result Statistics
+[2020-12-13 18:40:25] [INFO]	minTime: 109ms 306us 326ns(109.31ms)
+[2020-12-13 18:40:25] [INFO]	maxTime: 992ms 434us 108ns(992.43ms)
+[2020-12-13 18:40:25] [INFO]	AvgTime: 612ms 482us 358ns(612.48ms)
+[2020-12-13 18:40:25] [INFO]	P99：982ms 366us 220ns(982.37ms)
+[2020-12-13 18:40:25] [INFO]	P999：991ms 427us 319ns(991.43ms)
+[2020-12-13 18:40:25] [INFO]	Throughput: 1.63
+[2020-12-13 18:40:25] [INFO]	SuccessNum: 10
+[2020-12-13 18:40:25] [INFO]	vertexCount Average: 1576109.70
+[2020-12-13 18:40:25] [INFO]	-- end KNeighbor 6度
+[2020-12-13 18:40:25] [INFO]	***********************
+[2020-12-13 18:40:25] [INFO]	** Summary of KNeighbor 6度 Test 2 - 3
+[2020-12-13 18:40:25] [INFO]	minTime: 107ms 776us 357ns(107.78ms)
+[2020-12-13 18:40:25] [INFO]	maxTime: 992ms 434us 108ns(992.43ms)
+[2020-12-13 18:40:25] [INFO]	AvgTime: 609ms 761us 90ns(609.76ms)
+[2020-12-13 18:40:25] [INFO]	P99：984ms 365us 910ns(984.37ms)
+[2020-12-13 18:40:25] [INFO]	P999：991ms 627us 288ns(991.63ms)
+[2020-12-13 18:40:25] [INFO]	Throughput: 1.64
+[2020-12-13 18:40:25] [INFO]	SuccessNum: 20
+[2020-12-13 18:40:25] [INFO]	***********************

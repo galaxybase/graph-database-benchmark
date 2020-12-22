@@ -1,0 +1,289 @@
+[2020-12-15 23:35:37] [INFO]	-- Start KNeighbor 6 Depth
+[2020-12-15 23:35:47] [ERROR]	There was an error executing item 1!
+java.util.concurrent.ExecutionException: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:20, 1:53, 1:57, 1:58, 1:107, 1:150, 1:238, 1:257, 1:291, 1:314, 1:324, 1:356, 1:456, 1:501, 1:509, 1:531, 1:541, 1:544, 1:586, 1:613, 1:648, 1:675, 1:681, 1:747, 1:769, 1:780, 1:842, 1:861, 1:874, 1:875, 1:880, 1...
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.hugegraph.AutoMain.main(AutoMain.java:11)
+Caused by: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:20, 1:53, 1:57, 1:58, 1:107, 1:150, 1:238, 1:257, 1:291, 1:314, 1:324, 1:356, 1:456, 1:501, 1:509, 1:531, 1:541, 1:544, 1:586, 1:613, 1:648, 1:675, 1:681, 1:747, 1:769, 1:780, 1:842, 1:861, 1:874, 1:875, 1:880, 1...
+	at com.baidu.hugegraph.exception.ServerException.fromResponse(ServerException.java:44)
+	at com.baidu.hugegraph.client.RestClient.checkStatus(RestClient.java:100)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:156)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:133)
+	at com.baidu.hugegraph.api.gremlin.GremlinAPI.post(GremlinAPI.java:41)
+	at com.baidu.hugegraph.driver.GremlinManager.execute(GremlinManager.java:51)
+	at com.baidu.hugegraph.api.gremlin.GremlinRequest$Builder.execute(GremlinRequest.java:55)
+	at com.galaxybase.benchmark.hugegraph.database.Huge$HugeConnect.executeGremlin(Huge.java:99)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:28)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: [com.baidu.hugegraph.exception.LimitExceedException]
+[2020-12-15 23:35:47] [DEBUG]		1	Schedule: 10.00%	Time: 10s 633ms 777us 636ns	Sample: [20727483]	Result Execute error.
+[2020-12-15 23:36:03] [ERROR]	There was an error executing item 2!
+java.util.concurrent.ExecutionException: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.hugegraph.AutoMain.main(AutoMain.java:11)
+Caused by: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at com.baidu.hugegraph.exception.ServerException.fromResponse(ServerException.java:44)
+	at com.baidu.hugegraph.client.RestClient.checkStatus(RestClient.java:100)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:156)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:133)
+	at com.baidu.hugegraph.api.gremlin.GremlinAPI.post(GremlinAPI.java:41)
+	at com.baidu.hugegraph.driver.GremlinManager.execute(GremlinManager.java:51)
+	at com.baidu.hugegraph.api.gremlin.GremlinRequest$Builder.execute(GremlinRequest.java:55)
+	at com.galaxybase.benchmark.hugegraph.database.Huge$HugeConnect.executeGremlin(Huge.java:99)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:28)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: [com.baidu.hugegraph.exception.LimitExceedException]
+[2020-12-15 23:36:03] [DEBUG]		2	Schedule: 20.00%	Time: 16s 155ms 489us 287ns	Sample: [50329304]	Result Execute error.
+[2020-12-15 23:40:10] [ERROR]	There was an error executing item 3!
+java.util.concurrent.ExecutionException: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.hugegraph.AutoMain.main(AutoMain.java:11)
+Caused by: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at com.baidu.hugegraph.exception.ServerException.fromResponse(ServerException.java:44)
+	at com.baidu.hugegraph.client.RestClient.checkStatus(RestClient.java:100)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:156)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:133)
+	at com.baidu.hugegraph.api.gremlin.GremlinAPI.post(GremlinAPI.java:41)
+	at com.baidu.hugegraph.driver.GremlinManager.execute(GremlinManager.java:51)
+	at com.baidu.hugegraph.api.gremlin.GremlinRequest$Builder.execute(GremlinRequest.java:55)
+	at com.galaxybase.benchmark.hugegraph.database.Huge$HugeConnect.executeGremlin(Huge.java:99)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:28)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: [com.baidu.hugegraph.exception.LimitExceedException]
+[2020-12-15 23:40:10] [DEBUG]		3	Schedule: 30.00%	Time: 4m 6s 796ms 511us 276ns	Sample: [26199460]	Result Execute error.
+[2020-12-15 23:40:17] [ERROR]	There was an error executing item 4!
+java.util.concurrent.ExecutionException: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.hugegraph.AutoMain.main(AutoMain.java:11)
+Caused by: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at com.baidu.hugegraph.exception.ServerException.fromResponse(ServerException.java:44)
+	at com.baidu.hugegraph.client.RestClient.checkStatus(RestClient.java:100)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:156)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:133)
+	at com.baidu.hugegraph.api.gremlin.GremlinAPI.post(GremlinAPI.java:41)
+	at com.baidu.hugegraph.driver.GremlinManager.execute(GremlinManager.java:51)
+	at com.baidu.hugegraph.api.gremlin.GremlinRequest$Builder.execute(GremlinRequest.java:55)
+	at com.galaxybase.benchmark.hugegraph.database.Huge$HugeConnect.executeGremlin(Huge.java:99)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:28)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: [com.baidu.hugegraph.exception.LimitExceedException]
+[2020-12-15 23:40:17] [DEBUG]		4	Schedule: 40.00%	Time: 6s 358ms 180us 13ns	Sample: [1177521]	Result Execute error.
+[2020-12-15 23:40:31] [ERROR]	There was an error executing item 5!
+java.util.concurrent.ExecutionException: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:20, 1:61, 1:87, 1:222, 1:238, 1:299, 1:324, 1:338, 1:541, 1:556, 1:633, 1:681, 1:888, 1:934, 1:1083, 1:1086, 1:1153, 1:1173, 1:1227, 1:1325, 1:1467, 1:1507, 1:1598, 1:1623, 1:1688, 1:1737, 1:1974, 1:2053, 1:2159, 1:216...
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.hugegraph.AutoMain.main(AutoMain.java:11)
+Caused by: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:20, 1:61, 1:87, 1:222, 1:238, 1:299, 1:324, 1:338, 1:541, 1:556, 1:633, 1:681, 1:888, 1:934, 1:1083, 1:1086, 1:1153, 1:1173, 1:1227, 1:1325, 1:1467, 1:1507, 1:1598, 1:1623, 1:1688, 1:1737, 1:1974, 1:2053, 1:2159, 1:216...
+	at com.baidu.hugegraph.exception.ServerException.fromResponse(ServerException.java:44)
+	at com.baidu.hugegraph.client.RestClient.checkStatus(RestClient.java:100)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:156)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:133)
+	at com.baidu.hugegraph.api.gremlin.GremlinAPI.post(GremlinAPI.java:41)
+	at com.baidu.hugegraph.driver.GremlinManager.execute(GremlinManager.java:51)
+	at com.baidu.hugegraph.api.gremlin.GremlinRequest$Builder.execute(GremlinRequest.java:55)
+	at com.galaxybase.benchmark.hugegraph.database.Huge$HugeConnect.executeGremlin(Huge.java:99)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:28)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: [com.baidu.hugegraph.exception.LimitExceedException]
+[2020-12-15 23:40:31] [DEBUG]		5	Schedule: 50.00%	Time: 14s 643ms 195us 839ns	Sample: [27960125]	Result Execute error.
+[2020-12-15 23:40:40] [ERROR]	There was an error executing item 6!
+java.util.concurrent.ExecutionException: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.hugegraph.AutoMain.main(AutoMain.java:11)
+Caused by: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at com.baidu.hugegraph.exception.ServerException.fromResponse(ServerException.java:44)
+	at com.baidu.hugegraph.client.RestClient.checkStatus(RestClient.java:100)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:156)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:133)
+	at com.baidu.hugegraph.api.gremlin.GremlinAPI.post(GremlinAPI.java:41)
+	at com.baidu.hugegraph.driver.GremlinManager.execute(GremlinManager.java:51)
+	at com.baidu.hugegraph.api.gremlin.GremlinRequest$Builder.execute(GremlinRequest.java:55)
+	at com.galaxybase.benchmark.hugegraph.database.Huge$HugeConnect.executeGremlin(Huge.java:99)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:28)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: [com.baidu.hugegraph.exception.LimitExceedException]
+[2020-12-15 23:40:40] [DEBUG]		6	Schedule: 60.00%	Time: 8s 370ms 961us 94ns	Sample: [30440025]	Result Execute error.
+[2020-12-15 23:41:29] [ERROR]	There was an error executing item 7!
+java.util.concurrent.ExecutionException: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.hugegraph.AutoMain.main(AutoMain.java:11)
+Caused by: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at com.baidu.hugegraph.exception.ServerException.fromResponse(ServerException.java:44)
+	at com.baidu.hugegraph.client.RestClient.checkStatus(RestClient.java:100)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:156)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:133)
+	at com.baidu.hugegraph.api.gremlin.GremlinAPI.post(GremlinAPI.java:41)
+	at com.baidu.hugegraph.driver.GremlinManager.execute(GremlinManager.java:51)
+	at com.baidu.hugegraph.api.gremlin.GremlinRequest$Builder.execute(GremlinRequest.java:55)
+	at com.galaxybase.benchmark.hugegraph.database.Huge$HugeConnect.executeGremlin(Huge.java:99)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:28)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: [com.baidu.hugegraph.exception.LimitExceedException]
+[2020-12-15 23:41:29] [DEBUG]		7	Schedule: 70.00%	Time: 49s 896ms 961us 786ns	Sample: [15833920]	Result Execute error.
+[2020-12-15 23:41:44] [ERROR]	There was an error executing item 8!
+java.util.concurrent.ExecutionException: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:874, 1:880, 1:985, 1:1083, 1:1117, 1:1317, 1:1507, 1:2167, 1:2416, 1:2518, 1:2654, 1:2656, 1:2666, 1:2900, 1:2910, 1:3148, 1:3416, 1:4598, 1:4829, 1:5561, 1:5728, 1:5879, 1:6668, 1:6882, 1:7178, 1:7846, 1:8081, 1:8983, 1:102...
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.hugegraph.AutoMain.main(AutoMain.java:11)
+Caused by: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:874, 1:880, 1:985, 1:1083, 1:1117, 1:1317, 1:1507, 1:2167, 1:2416, 1:2518, 1:2654, 1:2656, 1:2666, 1:2900, 1:2910, 1:3148, 1:3416, 1:4598, 1:4829, 1:5561, 1:5728, 1:5879, 1:6668, 1:6882, 1:7178, 1:7846, 1:8081, 1:8983, 1:102...
+	at com.baidu.hugegraph.exception.ServerException.fromResponse(ServerException.java:44)
+	at com.baidu.hugegraph.client.RestClient.checkStatus(RestClient.java:100)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:156)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:133)
+	at com.baidu.hugegraph.api.gremlin.GremlinAPI.post(GremlinAPI.java:41)
+	at com.baidu.hugegraph.driver.GremlinManager.execute(GremlinManager.java:51)
+	at com.baidu.hugegraph.api.gremlin.GremlinRequest$Builder.execute(GremlinRequest.java:55)
+	at com.galaxybase.benchmark.hugegraph.database.Huge$HugeConnect.executeGremlin(Huge.java:99)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:28)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: [com.baidu.hugegraph.exception.LimitExceedException]
+[2020-12-15 23:41:44] [DEBUG]		8	Schedule: 80.00%	Time: 14s 539ms 465us 477ns	Sample: [15015183]	Result Execute error.
+[2020-12-15 23:41:48] [ERROR]	There was an error executing item 9!
+java.util.concurrent.ExecutionException: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.hugegraph.AutoMain.main(AutoMain.java:11)
+Caused by: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:12, 1:13, 1:15, 1:20, 1:21, 1:22, 1:31, 1:52, 1:53, 1:57, 1:58, 1:59, 1:60, 1:70, 1:87, 1:89, 1:92, 1:107, 1:108, 1:150, 1:209, 1:238, 1:242, 1:257, 1:259, 1:266, 1:277, 1:279, 1:288, 1:294, 1:295, 1:314, 1:338, 1:341, 1:350...
+	at com.baidu.hugegraph.exception.ServerException.fromResponse(ServerException.java:44)
+	at com.baidu.hugegraph.client.RestClient.checkStatus(RestClient.java:100)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:156)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:133)
+	at com.baidu.hugegraph.api.gremlin.GremlinAPI.post(GremlinAPI.java:41)
+	at com.baidu.hugegraph.driver.GremlinManager.execute(GremlinManager.java:51)
+	at com.baidu.hugegraph.api.gremlin.GremlinRequest$Builder.execute(GremlinRequest.java:55)
+	at com.galaxybase.benchmark.hugegraph.database.Huge$HugeConnect.executeGremlin(Huge.java:99)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:28)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: [com.baidu.hugegraph.exception.LimitExceedException]
+[2020-12-15 23:41:48] [DEBUG]		9	Schedule: 90.00%	Time: 4s 114ms 365us 258ns	Sample: [33153097]	Result Execute error.
+[2020-12-15 23:41:51] [ERROR]	There was an error executing item 10!
+java.util.concurrent.ExecutionException: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:21, 1:53, 1:89, 1:279, 1:509, 1:531, 1:681, 1:849, 1:874, 1:936, 1:1083, 1:1086, 1:1117, 1:1128, 1:1199, 1:1378, 1:1380, 1:1507, 1:1598, 1:1623, 1:1644, 1:1679, 1:1775, 1:1977, 1:2008, 1:2024, 1:2053, 1:2159, 1:2185, 1:2391,...
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.hugegraph.AutoMain.main(AutoMain.java:11)
+Caused by: com.baidu.hugegraph.exception.LimitExceedException: Too many records(must <= 800000) for the query: Query for VERTEX where id in [1:21, 1:53, 1:89, 1:279, 1:509, 1:531, 1:681, 1:849, 1:874, 1:936, 1:1083, 1:1086, 1:1117, 1:1128, 1:1199, 1:1378, 1:1380, 1:1507, 1:1598, 1:1623, 1:1644, 1:1679, 1:1775, 1:1977, 1:2008, 1:2024, 1:2053, 1:2159, 1:2185, 1:2391,...
+	at com.baidu.hugegraph.exception.ServerException.fromResponse(ServerException.java:44)
+	at com.baidu.hugegraph.client.RestClient.checkStatus(RestClient.java:100)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:156)
+	at com.baidu.hugegraph.rest.RestClient.post(RestClient.java:133)
+	at com.baidu.hugegraph.api.gremlin.GremlinAPI.post(GremlinAPI.java:41)
+	at com.baidu.hugegraph.driver.GremlinManager.execute(GremlinManager.java:51)
+	at com.baidu.hugegraph.api.gremlin.GremlinRequest$Builder.execute(GremlinRequest.java:55)
+	at com.galaxybase.benchmark.hugegraph.database.Huge$HugeConnect.executeGremlin(Huge.java:99)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:28)
+	at com.galaxybase.benchmark.hugegraph.test.util.HugeTest.onStartTest(HugeTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: [com.baidu.hugegraph.exception.LimitExceedException]
+[2020-12-15 23:41:51] [DEBUG]		10	Schedule: 100.00%	Time: 2s 655ms 368us 808ns	Sample: [21250581]	Result Execute error.
+[2020-12-15 23:41:51] [INFO]	-- Result Statistics
+[2020-12-15 23:41:51] [INFO]	Results is null.
+[2020-12-15 23:41:51] [INFO]	ErrorNum: 10
+[2020-12-15 23:41:51] [INFO]	ErrorRate: 100.00%
+[2020-12-15 23:41:51] [INFO]	TimeoutNum: 0
+[2020-12-15 23:41:51] [INFO]	TimeoutRate: 0.00%
+[2020-12-15 23:41:51] [INFO]	ResultCount Average: 0.00
+[2020-12-15 23:41:51] [INFO]	-- End KNeighbor 6 Depth

@@ -1,0 +1,129 @@
+[2020-12-21 15:47:34] [INFO]	-- Start PageRank
+[2020-12-21 16:01:58] [DEBUG]		1	Schedule: 100.00%	Time: 14m 23s 765ms 121us 810ns	Sample: 	Result 123456
+[2020-12-21 16:01:58] [INFO]	-- Result Statistics
+[2020-12-21 16:01:58] [INFO]	minTime: 14m 23s 765ms 121us 810ns(863765.12ms)
+[2020-12-21 16:01:58] [INFO]	maxTime: 14m 23s 765ms 121us 810ns(863765.12ms)
+[2020-12-21 16:01:58] [INFO]	AvgTime: 14m 23s 765ms 121us 810ns(863765.12ms)
+[2020-12-21 16:01:58] [INFO]	P99: 14m 23s 765ms 121us 810ns(863765.12ms)
+[2020-12-21 16:01:58] [INFO]	P999: 14m 23s 765ms 121us 810ns(863765.12ms)
+[2020-12-21 16:01:58] [INFO]	Throughput: 0.00
+[2020-12-21 16:01:58] [INFO]	SuccessNum: 1
+[2020-12-21 16:01:58] [INFO]	SuccessRate: 100.00%
+[2020-12-21 16:01:58] [INFO]	ErrorNum: 0
+[2020-12-21 16:01:58] [INFO]	ErrorRate: 0.00%
+[2020-12-21 16:01:58] [INFO]	TimeoutNum: 0
+[2020-12-21 16:01:58] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 16:01:58] [INFO]	-- End PageRank
+[2020-12-21 16:01:58] [INFO]	-- Start PageRank
+[2020-12-21 16:18:07] [DEBUG]		1	Schedule: 100.00%	Time: 16m 9s 11ms 842us 758ns	Sample: 	Result 123456
+[2020-12-21 16:18:07] [INFO]	-- Result Statistics
+[2020-12-21 16:18:07] [INFO]	minTime: 16m 9s 11ms 842us 758ns(969011.84ms)
+[2020-12-21 16:18:07] [INFO]	maxTime: 16m 9s 11ms 842us 758ns(969011.84ms)
+[2020-12-21 16:18:07] [INFO]	AvgTime: 16m 9s 11ms 842us 758ns(969011.84ms)
+[2020-12-21 16:18:07] [INFO]	P99: 16m 9s 11ms 842us 758ns(969011.84ms)
+[2020-12-21 16:18:07] [INFO]	P999: 16m 9s 11ms 842us 758ns(969011.84ms)
+[2020-12-21 16:18:07] [INFO]	Throughput: 0.00
+[2020-12-21 16:18:07] [INFO]	SuccessNum: 1
+[2020-12-21 16:18:07] [INFO]	SuccessRate: 100.00%
+[2020-12-21 16:18:07] [INFO]	ErrorNum: 0
+[2020-12-21 16:18:07] [INFO]	ErrorRate: 0.00%
+[2020-12-21 16:18:07] [INFO]	TimeoutNum: 0
+[2020-12-21 16:18:07] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 16:18:07] [INFO]	-- End PageRank
+[2020-12-21 16:18:07] [INFO]	-- Start PageRank
+[2020-12-21 16:31:15] [DEBUG]		1	Schedule: 100.00%	Time: 13m 8s 288ms 464us 920ns	Sample: 	Result 123456
+[2020-12-21 16:31:15] [INFO]	-- Result Statistics
+[2020-12-21 16:31:15] [INFO]	minTime: 13m 8s 288ms 464us 920ns(788288.46ms)
+[2020-12-21 16:31:15] [INFO]	maxTime: 13m 8s 288ms 464us 920ns(788288.46ms)
+[2020-12-21 16:31:15] [INFO]	AvgTime: 13m 8s 288ms 464us 920ns(788288.46ms)
+[2020-12-21 16:31:15] [INFO]	P99: 13m 8s 288ms 464us 920ns(788288.46ms)
+[2020-12-21 16:31:15] [INFO]	P999: 13m 8s 288ms 464us 920ns(788288.46ms)
+[2020-12-21 16:31:15] [INFO]	Throughput: 0.00
+[2020-12-21 16:31:15] [INFO]	SuccessNum: 1
+[2020-12-21 16:31:15] [INFO]	SuccessRate: 100.00%
+[2020-12-21 16:31:15] [INFO]	ErrorNum: 0
+[2020-12-21 16:31:15] [INFO]	ErrorRate: 0.00%
+[2020-12-21 16:31:15] [INFO]	TimeoutNum: 0
+[2020-12-21 16:31:15] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 16:31:15] [INFO]	-- End PageRank
+[2020-12-21 16:31:15] [INFO]	***********************
+[2020-12-21 16:31:15] [INFO]	** Summary of PageRank Test 2 - 3
+[2020-12-21 16:31:15] [INFO]	minTime: 13m 8s 288ms 464us 920ns(788288.46ms)
+[2020-12-21 16:31:15] [INFO]	maxTime: 16m 9s 11ms 842us 758ns(969011.84ms)
+[2020-12-21 16:31:15] [INFO]	AvgTime: 14m 38s 650ms 153us 839ns(878650.15ms)
+[2020-12-21 16:31:15] [INFO]	P99: 16m 7s 204ms 608us 979ns(967204.61ms)
+[2020-12-21 16:31:15] [INFO]	P999: 16m 8s 831ms 119us 380ns(968831.12ms)
+[2020-12-21 16:31:15] [INFO]	Throughput: 0.00
+[2020-12-21 16:31:15] [INFO]	SuccessNum: 2
+[2020-12-21 16:31:15] [INFO]	SuccessRate: 100.00%
+[2020-12-21 16:31:15] [INFO]	ErrorNum: 0
+[2020-12-21 16:31:15] [INFO]	ErrorRate: 0.00%
+[2020-12-21 16:31:15] [INFO]	TimeoutNum: 0
+[2020-12-21 16:31:15] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 16:31:15] [INFO]	***********************
+[2020-12-21 16:31:17] [INFO]	Test Success!
+[2020-12-21 16:33:48] [INFO]	Start Test!
+[2020-12-21 16:33:49] [INFO]	-- Start PageRank
+[2020-12-21 16:45:01] [DEBUG]		1	Schedule: 100.00%	Time: 11m 11s 524ms 242us 194ns	Sample: 	Result null
+[2020-12-21 16:45:01] [INFO]	-- Result Statistics
+[2020-12-21 16:45:01] [INFO]	minTime: 11m 11s 524ms 242us 194ns(671524.24ms)
+[2020-12-21 16:45:01] [INFO]	maxTime: 11m 11s 524ms 242us 194ns(671524.24ms)
+[2020-12-21 16:45:01] [INFO]	AvgTime: 11m 11s 524ms 242us 194ns(671524.24ms)
+[2020-12-21 16:45:01] [INFO]	P99: 11m 11s 524ms 242us 194ns(671524.24ms)
+[2020-12-21 16:45:01] [INFO]	P999: 11m 11s 524ms 242us 194ns(671524.24ms)
+[2020-12-21 16:45:01] [INFO]	Throughput: 0.00
+[2020-12-21 16:45:01] [INFO]	SuccessNum: 1
+[2020-12-21 16:45:01] [INFO]	SuccessRate: 100.00%
+[2020-12-21 16:45:01] [INFO]	ErrorNum: 0
+[2020-12-21 16:45:01] [INFO]	ErrorRate: 0.00%
+[2020-12-21 16:45:01] [INFO]	TimeoutNum: 0
+[2020-12-21 16:45:01] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 16:45:01] [INFO]	-- End PageRank
+[2020-12-21 16:45:01] [INFO]	-- Start PageRank
+[2020-12-21 16:55:01] [DEBUG]		1	Schedule: 100.00%	Time: 10m 0s 474ms 585us 549ns	Sample: 	Result null
+[2020-12-21 16:55:01] [INFO]	-- Result Statistics
+[2020-12-21 16:55:01] [INFO]	minTime: 10m 0s 474ms 585us 549ns(600474.59ms)
+[2020-12-21 16:55:01] [INFO]	maxTime: 10m 0s 474ms 585us 549ns(600474.59ms)
+[2020-12-21 16:55:01] [INFO]	AvgTime: 10m 0s 474ms 585us 549ns(600474.59ms)
+[2020-12-21 16:55:01] [INFO]	P99: 10m 0s 474ms 585us 549ns(600474.59ms)
+[2020-12-21 16:55:01] [INFO]	P999: 10m 0s 474ms 585us 549ns(600474.59ms)
+[2020-12-21 16:55:01] [INFO]	Throughput: 0.00
+[2020-12-21 16:55:01] [INFO]	SuccessNum: 1
+[2020-12-21 16:55:01] [INFO]	SuccessRate: 100.00%
+[2020-12-21 16:55:01] [INFO]	ErrorNum: 0
+[2020-12-21 16:55:01] [INFO]	ErrorRate: 0.00%
+[2020-12-21 16:55:01] [INFO]	TimeoutNum: 0
+[2020-12-21 16:55:01] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 16:55:01] [INFO]	-- End PageRank
+[2020-12-21 16:55:01] [INFO]	-- Start PageRank
+[2020-12-21 17:05:18] [DEBUG]		1	Schedule: 100.00%	Time: 10m 16s 435ms 445us 545ns	Sample: 	Result null
+[2020-12-21 17:05:18] [INFO]	-- Result Statistics
+[2020-12-21 17:05:18] [INFO]	minTime: 10m 16s 435ms 445us 545ns(616435.45ms)
+[2020-12-21 17:05:18] [INFO]	maxTime: 10m 16s 435ms 445us 545ns(616435.45ms)
+[2020-12-21 17:05:18] [INFO]	AvgTime: 10m 16s 435ms 445us 545ns(616435.45ms)
+[2020-12-21 17:05:18] [INFO]	P99: 10m 16s 435ms 445us 545ns(616435.45ms)
+[2020-12-21 17:05:18] [INFO]	P999: 10m 16s 435ms 445us 545ns(616435.45ms)
+[2020-12-21 17:05:18] [INFO]	Throughput: 0.00
+[2020-12-21 17:05:18] [INFO]	SuccessNum: 1
+[2020-12-21 17:05:18] [INFO]	SuccessRate: 100.00%
+[2020-12-21 17:05:18] [INFO]	ErrorNum: 0
+[2020-12-21 17:05:18] [INFO]	ErrorRate: 0.00%
+[2020-12-21 17:05:18] [INFO]	TimeoutNum: 0
+[2020-12-21 17:05:18] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 17:05:18] [INFO]	-- End PageRank
+[2020-12-21 17:05:18] [INFO]	***********************
+[2020-12-21 17:05:18] [INFO]	** Summary of PageRank Test 2 - 3
+[2020-12-21 17:05:18] [INFO]	minTime: 10m 0s 474ms 585us 549ns(600474.59ms)
+[2020-12-21 17:05:18] [INFO]	maxTime: 10m 16s 435ms 445us 545ns(616435.45ms)
+[2020-12-21 17:05:18] [INFO]	AvgTime: 10m 8s 455ms 15us 547ns(608455.02ms)
+[2020-12-21 17:05:18] [INFO]	P99: 10m 16s 275ms 836us 945ns(616275.84ms)
+[2020-12-21 17:05:18] [INFO]	P999: 10m 16s 419ms 484us 685ns(616419.48ms)
+[2020-12-21 17:05:18] [INFO]	Throughput: 0.00
+[2020-12-21 17:05:18] [INFO]	SuccessNum: 2
+[2020-12-21 17:05:18] [INFO]	SuccessRate: 100.00%
+[2020-12-21 17:05:18] [INFO]	ErrorNum: 0
+[2020-12-21 17:05:18] [INFO]	ErrorRate: 0.00%
+[2020-12-21 17:05:18] [INFO]	TimeoutNum: 0
+[2020-12-21 17:05:18] [INFO]	TimeoutRate: 0.00%
+[2020-12-21 17:05:18] [INFO]	***********************
+[2020-12-21 17:05:20] [INFO]	Test Success!

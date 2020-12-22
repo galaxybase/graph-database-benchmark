@@ -1,0 +1,33 @@
+[2020-11-12 15:06:55] [INFO]	-- start WeaklyConnectedComponents
+[2020-11-12 15:09:32] [DEBUG]		1	Schedule:  100.00%	Time: 2m 36s 755ms 746us 678ns	sample: null	Result null
+[2020-11-12 15:09:32] [INFO]	-- Result Statistics
+[2020-11-12 15:09:32] [INFO]	minTime: 2m 36s 755ms 746us 678ns(156755.75ms)
+[2020-11-12 15:09:32] [INFO]	maxTime: 2m 36s 755ms 746us 678ns(156755.75ms)
+[2020-11-12 15:09:32] [INFO]	AvgTime: 2m 36s 755ms 746us 678ns(156755.75ms)
+[2020-11-12 15:09:32] [INFO]	P99：2m 36s 755ms 746us 678ns(156755.75ms)
+[2020-11-12 15:09:32] [INFO]	P999：2m 36s 755ms 746us 678ns(156755.75ms)
+[2020-11-12 15:09:32] [INFO]	Throughput: 0.01
+[2020-11-12 15:09:32] [INFO]	SuccessNum: 1
+[2020-11-12 15:09:32] [INFO]	-- end WeaklyConnectedComponents
+[2020-11-12 15:09:32] [INFO]	-- start WeaklyConnectedComponents
+[2020-11-12 15:15:37] [DEBUG]		1	Schedule:  100.00%	Time: 6m 5s 226ms 424us 800ns	sample: null	Result null
+[2020-11-12 15:15:37] [INFO]	-- Result Statistics
+[2020-11-12 15:15:37] [INFO]	minTime: 6m 5s 226ms 424us 800ns(365226.42ms)
+[2020-11-12 15:15:37] [INFO]	maxTime: 6m 5s 226ms 424us 800ns(365226.42ms)
+[2020-11-12 15:15:37] [INFO]	AvgTime: 6m 5s 226ms 424us 800ns(365226.42ms)
+[2020-11-12 15:15:37] [INFO]	P99：6m 5s 226ms 424us 800ns(365226.42ms)
+[2020-11-12 15:15:37] [INFO]	P999：6m 5s 226ms 424us 800ns(365226.42ms)
+[2020-11-12 15:15:37] [INFO]	Throughput: 0.00
+[2020-11-12 15:15:37] [INFO]	SuccessNum: 1
+[2020-11-12 15:15:37] [INFO]	-- end WeaklyConnectedComponents
+[2020-11-12 15:15:37] [INFO]	-- start WeaklyConnectedComponents
+[2020-11-12 15:23:11] [DEBUG]		1	Schedule:  100.00%	Time: 7m 31s 601ms 923us 598ns	sample: null	Result null
+[2020-11-12 15:23:11] [INFO]	-- Result Statistics
+[2020-11-12 15:23:11] [INFO]	minTime: 7m 31s 601ms 923us 598ns(451601.92ms)
+[2020-11-12 15:23:11] [INFO]	maxTime: 7m 31s 601ms 923us 598ns(451601.92ms)
+[2020-11-12 15:23:11] [INFO]	AvgTime: 7m 31s 601ms 923us 598ns(451601.92ms)
+[2020-11-12 15:23:11] [INFO]	P99：7m 31s 601ms 923us 598ns(451601.92ms)
+[2020-11-12 15:23:11] [INFO]	P999：7m 31s 601ms 923us 598ns(451601.92ms)
+[2020-11-12 15:23:11] [INFO]	Throughput: 0.00
+[2020-11-12 15:23:11] [INFO]	SuccessNum: 1
+[2020-11-12 15:23:11] [INFO]	-- end WeaklyConnectedComponents

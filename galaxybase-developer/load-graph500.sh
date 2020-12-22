@@ -1,0 +1,1 @@
+java -jar galaxybase-console-buildgraph-v3.0.0-developer.jar -a 127.0.0.1:18088 -u admin -p admin -g Graph500 -s Graph500/schema.json -m Graph500/mapping.json

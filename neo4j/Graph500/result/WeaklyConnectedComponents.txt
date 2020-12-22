@@ -1,0 +1,63 @@
+[2020-12-16 14:27:26] [INFO]	-- Start WeaklyConnectedComponents
+[2020-12-16 14:28:41] [DEBUG]		1	Schedule: 100.00%	Time: 1m 14s 644ms 737us 175ns	Sample: null	Result null
+[2020-12-16 14:28:41] [INFO]	-- Result Statistics
+[2020-12-16 14:28:41] [INFO]	minTime: 1m 14s 644ms 737us 175ns(74644.74ms)
+[2020-12-16 14:28:41] [INFO]	maxTime: 1m 14s 644ms 737us 175ns(74644.74ms)
+[2020-12-16 14:28:41] [INFO]	AvgTime: 1m 14s 644ms 737us 175ns(74644.74ms)
+[2020-12-16 14:28:41] [INFO]	P99: 1m 14s 644ms 737us 175ns(74644.74ms)
+[2020-12-16 14:28:41] [INFO]	P999: 1m 14s 644ms 737us 175ns(74644.74ms)
+[2020-12-16 14:28:41] [INFO]	Throughput: 0.01
+[2020-12-16 14:28:41] [INFO]	SuccessNum: 1
+[2020-12-16 14:28:41] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:28:41] [INFO]	ErrorNum: 0
+[2020-12-16 14:28:41] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:28:41] [INFO]	TimeoutNum: 0
+[2020-12-16 14:28:41] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:28:41] [INFO]	-- End WeaklyConnectedComponents
+[2020-12-16 14:28:41] [INFO]	-- Start WeaklyConnectedComponents
+[2020-12-16 14:29:57] [DEBUG]		1	Schedule: 100.00%	Time: 1m 16s 47ms 676us 312ns	Sample: null	Result null
+[2020-12-16 14:29:57] [INFO]	-- Result Statistics
+[2020-12-16 14:29:57] [INFO]	minTime: 1m 16s 47ms 676us 312ns(76047.68ms)
+[2020-12-16 14:29:57] [INFO]	maxTime: 1m 16s 47ms 676us 312ns(76047.68ms)
+[2020-12-16 14:29:57] [INFO]	AvgTime: 1m 16s 47ms 676us 312ns(76047.68ms)
+[2020-12-16 14:29:57] [INFO]	P99: 1m 16s 47ms 676us 312ns(76047.68ms)
+[2020-12-16 14:29:57] [INFO]	P999: 1m 16s 47ms 676us 312ns(76047.68ms)
+[2020-12-16 14:29:57] [INFO]	Throughput: 0.01
+[2020-12-16 14:29:57] [INFO]	SuccessNum: 1
+[2020-12-16 14:29:57] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:29:57] [INFO]	ErrorNum: 0
+[2020-12-16 14:29:57] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:29:57] [INFO]	TimeoutNum: 0
+[2020-12-16 14:29:57] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:29:57] [INFO]	-- End WeaklyConnectedComponents
+[2020-12-16 14:29:57] [INFO]	-- Start WeaklyConnectedComponents
+[2020-12-16 14:31:13] [DEBUG]		1	Schedule: 100.00%	Time: 1m 16s 113ms 970us 232ns	Sample: null	Result null
+[2020-12-16 14:31:13] [INFO]	-- Result Statistics
+[2020-12-16 14:31:13] [INFO]	minTime: 1m 16s 113ms 970us 232ns(76113.97ms)
+[2020-12-16 14:31:13] [INFO]	maxTime: 1m 16s 113ms 970us 232ns(76113.97ms)
+[2020-12-16 14:31:13] [INFO]	AvgTime: 1m 16s 113ms 970us 232ns(76113.97ms)
+[2020-12-16 14:31:13] [INFO]	P99: 1m 16s 113ms 970us 232ns(76113.97ms)
+[2020-12-16 14:31:13] [INFO]	P999: 1m 16s 113ms 970us 232ns(76113.97ms)
+[2020-12-16 14:31:13] [INFO]	Throughput: 0.01
+[2020-12-16 14:31:13] [INFO]	SuccessNum: 1
+[2020-12-16 14:31:13] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:31:13] [INFO]	ErrorNum: 0
+[2020-12-16 14:31:13] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:31:13] [INFO]	TimeoutNum: 0
+[2020-12-16 14:31:13] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:31:13] [INFO]	-- End WeaklyConnectedComponents
+[2020-12-16 14:31:13] [INFO]	***********************
+[2020-12-16 14:31:13] [INFO]	** Summary of WeaklyConnectedComponents Test 2 - 3
+[2020-12-16 14:31:13] [INFO]	minTime: 1m 16s 47ms 676us 312ns(76047.68ms)
+[2020-12-16 14:31:13] [INFO]	maxTime: 1m 16s 113ms 970us 232ns(76113.97ms)
+[2020-12-16 14:31:13] [INFO]	AvgTime: 1m 16s 80ms 823us 272ns(76080.82ms)
+[2020-12-16 14:31:13] [INFO]	P99: 1m 16s 113ms 307us 292ns(76113.31ms)
+[2020-12-16 14:31:13] [INFO]	P999: 1m 16s 113ms 903us 938ns(76113.90ms)
+[2020-12-16 14:31:13] [INFO]	Throughput: 0.01
+[2020-12-16 14:31:13] [INFO]	SuccessNum: 2
+[2020-12-16 14:31:13] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:31:13] [INFO]	ErrorNum: 0
+[2020-12-16 14:31:13] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:31:13] [INFO]	TimeoutNum: 0
+[2020-12-16 14:31:13] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:31:13] [INFO]	***********************

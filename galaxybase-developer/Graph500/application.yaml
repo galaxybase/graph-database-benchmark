@@ -1,0 +1,83 @@
+# 图数据库类型
+graphType: galaxybase
+# 图名称
+graphName: Graph500
+# 默认样本文件
+sample: sample/Graph500-kn-sample.txt
+samples:
+  #最短路径样本名称
+  sp: sample/Graph500-sp-sample.txt
+# 超时时间,单位：s
+timeout: 3600
+# 遇到错误时跳过测试项
+timeoutStop: false
+# 遇到错误时跳过测试项
+errorStop: false
+# 数据库所在包名
+dataBaseClass: com.galaxybase.benchmark.galaxybase.developer.database.GalaxyData
+# 自定义参数
+parameters:
+  #点类型名
+  vertexType: person
+  #边类型名
+  edgeType: know
+  #ip
+  ip: localhost
+  #端口
+  port: 7687
+  #用户名
+  user: admin
+  #用户密码
+  password: admin
+  #是否进行边属性过滤
+  prop: false
+test:
+  #K-neighbor 1度查询
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.KNeighbor1
+    count: 300
+    loop: 3
+    timeout: 180
+  #K-neighbor 2度查询
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.KNeighbor2
+    count: 300
+    loop: 3
+    timeout: 180
+  #K-neighbor 3度查询
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.KNeighbor3
+    count: 10
+    loop: 3
+  #K-neighbor 4度查询
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.KNeighbor4
+    count: 10
+    loop: 3
+  #K-neighbor 5度查询
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.KNeighbor5
+    count: 10
+    loop: 3
+  #K-neighbor 6度查询
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.KNeighbor6
+    count: 10
+    loop: 3
+
+  #### 算法部分
+  ###PageRank算法测试
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.PageRank
+    count: 1
+    loop: 3
+  #Weak Connected Component算法测试
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.WeaklyConnectedComponents
+    count: 1
+    loop: 3
+  #Label Propagation Algorithm算法测试
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.LabelPropagation
+    count: 1
+    loop: 3
+  #Degree Centrality算法测试
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.DegreeCentrality
+    count: 1
+    loop: 3
+  #Shortest Path算法测试
+  - testClass: com.galaxybase.benchmark.galaxybase.developer.item.ShortestPath
+    count: 100
+    loop: 3
+    sample: sp

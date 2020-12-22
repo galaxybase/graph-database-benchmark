@@ -1,0 +1,15 @@
+[2020-11-12 15:23:11] [INFO]	-- start LabelPropagation
+[2020-11-12 16:23:11] [ERROR]		1	Schedule:  100.00%	Time: 1h 0m 0s 0ms 0us 7ns	sample: null	执行超时！
+[2020-11-12 16:23:11] [INFO]	-- Result Statistics
+[2020-11-12 16:23:11] [INFO]	结果集为空！
+[2020-11-12 16:23:11] [INFO]	-- end LabelPropagation
+[2020-11-12 16:23:11] [INFO]	-- start LabelPropagation
+[2020-11-12 17:23:11] [ERROR]		1	Schedule:  100.00%	Time: 1h 0m 0s 0ms 0us 14ns	sample: null	执行超时！
+[2020-11-12 17:23:11] [INFO]	-- Result Statistics
+[2020-11-12 17:23:11] [INFO]	结果集为空！
+[2020-11-12 17:23:11] [INFO]	-- end LabelPropagation
+[2020-11-12 16:23:11] [INFO]	-- start LabelPropagation
+[2020-11-12 17:23:11] [ERROR]		1	Schedule:  100.00%	Time: 1h 0m 0s 0ms 0us 14ns	sample: null	执行超时！
+[2020-11-12 17:23:11] [INFO]	-- Result Statistics
+[2020-11-12 17:23:11] [INFO]	结果集为空！
+[2020-11-12 17:23:11] [INFO]	-- end LabelPropagation

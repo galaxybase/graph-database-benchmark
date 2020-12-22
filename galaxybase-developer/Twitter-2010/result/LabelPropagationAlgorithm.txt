@@ -1,0 +1,43 @@
+[2020-12-14 16:09:50] [INFO]	-- start LabelPropagation
+[2020-12-14 16:19:24] [DEBUG]		1	Schedule:  100.00%	Time: 9m 33s 631ms 131us 971ns	sample: null	Result 结果数：41652230
+[2020-12-14 16:19:24] [INFO]	-- Result Statistics
+[2020-12-14 16:19:24] [INFO]	minTime: 9m 33s 631ms 131us 971ns(573631.13ms)
+[2020-12-14 16:19:24] [INFO]	maxTime: 9m 33s 631ms 131us 971ns(573631.13ms)
+[2020-12-14 16:19:24] [INFO]	AvgTime: 9m 33s 631ms 131us 971ns(573631.13ms)
+[2020-12-14 16:19:24] [INFO]	P99：9m 33s 631ms 131us 971ns(573631.13ms)
+[2020-12-14 16:19:24] [INFO]	P999：9m 33s 631ms 131us 971ns(573631.13ms)
+[2020-12-14 16:19:24] [INFO]	Throughput: 0.00
+[2020-12-14 16:19:24] [INFO]	SuccessNum: 1
+[2020-12-14 16:19:24] [INFO]	-- end LabelPropagation
+[2020-12-14 16:19:24] [INFO]	-- start LabelPropagation
+[2020-12-14 16:28:34] [DEBUG]		1	Schedule:  100.00%	Time: 9m 10s 124ms 780us 151ns	sample: null	Result 结果数：41652230
+[2020-12-14 16:28:34] [INFO]	-- Result Statistics
+[2020-12-14 16:28:34] [INFO]	minTime: 9m 10s 124ms 780us 151ns(550124.78ms)
+[2020-12-14 16:28:34] [INFO]	maxTime: 9m 10s 124ms 780us 151ns(550124.78ms)
+[2020-12-14 16:28:34] [INFO]	AvgTime: 9m 10s 124ms 780us 151ns(550124.78ms)
+[2020-12-14 16:28:34] [INFO]	P99：9m 10s 124ms 780us 151ns(550124.78ms)
+[2020-12-14 16:28:34] [INFO]	P999：9m 10s 124ms 780us 151ns(550124.78ms)
+[2020-12-14 16:28:34] [INFO]	Throughput: 0.00
+[2020-12-14 16:28:34] [INFO]	SuccessNum: 1
+[2020-12-14 16:28:34] [INFO]	-- end LabelPropagation
+[2020-12-14 16:28:34] [INFO]	-- start LabelPropagation
+[2020-12-14 16:37:54] [DEBUG]		1	Schedule:  100.00%	Time: 9m 20s 24ms 1us 939ns	sample: null	Result 结果数：41652230
+[2020-12-14 16:37:54] [INFO]	-- Result Statistics
+[2020-12-14 16:37:54] [INFO]	minTime: 9m 20s 24ms 1us 939ns(560024.00ms)
+[2020-12-14 16:37:54] [INFO]	maxTime: 9m 20s 24ms 1us 939ns(560024.00ms)
+[2020-12-14 16:37:54] [INFO]	AvgTime: 9m 20s 24ms 1us 939ns(560024.00ms)
+[2020-12-14 16:37:54] [INFO]	P99：9m 20s 24ms 1us 939ns(560024.00ms)
+[2020-12-14 16:37:54] [INFO]	P999：9m 20s 24ms 1us 939ns(560024.00ms)
+[2020-12-14 16:37:54] [INFO]	Throughput: 0.00
+[2020-12-14 16:37:54] [INFO]	SuccessNum: 1
+[2020-12-14 16:37:54] [INFO]	-- end LabelPropagation
+[2020-12-14 16:37:54] [INFO]	***********************
+[2020-12-14 16:37:54] [INFO]	** Summary of LabelPropagation Test 2 - 3
+[2020-12-14 16:37:54] [INFO]	minTime: 9m 10s 124ms 780us 151ns(550124.78ms)
+[2020-12-14 16:37:54] [INFO]	maxTime: 9m 20s 24ms 1us 939ns(560024.00ms)
+[2020-12-14 16:37:54] [INFO]	AvgTime: 9m 15s 74ms 391us 45ns(555074.39ms)
+[2020-12-14 16:37:54] [INFO]	P99：9m 19s 925ms 9us 721ns(559925.01ms)
+[2020-12-14 16:37:54] [INFO]	P999：9m 20s 14ms 102us 717ns(560014.10ms)
+[2020-12-14 16:37:54] [INFO]	Throughput: 0.00
+[2020-12-14 16:37:54] [INFO]	SuccessNum: 2
+[2020-12-14 16:37:54] [INFO]	***********************

@@ -1,0 +1,5 @@
+DROP SPACE Graph500;
+CREATE SPACE Graph500;
+USE Graph500;
+CREATE TAG ve(id int);
+CREATE EDGE ed();

@@ -1,0 +1,63 @@
+[2020-12-18 20:12:42] [INFO]	-- Start LPA
+[2020-12-18 23:41:24] [DEBUG]		1	Schedule: 100.00%	Time: 1h 0m 0s 315ms 723us 935ns	Sample: [10]	Result Results is null.
+[2020-12-18 23:41:24] [INFO]	-- Result Statistics
+[2020-12-18 23:41:24] [INFO]	minTime: 1h 2m 8s 966ms 129us 935ns(3728966.20ms)
+[2020-12-18 23:41:24] [INFO]	maxTime: 1h 2m 8s 966ms 129us 935ns(3728966.20ms)
+[2020-12-18 23:41:24] [INFO]	AvgTime: 1h 2m 8s 966ms 129us 935ns(3728966.20ms)
+[2020-12-18 23:41:24] [INFO]	P99: 1h 2m 8s 966ms 129us 935ns(3728966.20ms)
+[2020-12-18 23:41:24] [INFO]	P999: 1h 2m 8s 966ms 129us 935ns(3728966.20ms)
+[2020-12-18 23:41:24] [INFO]	Throughput: 0.00
+[2020-12-18 23:41:24] [INFO]	SuccessNum: 1
+[2020-12-18 23:41:24] [INFO]	SuccessRate: 100.00%
+[2020-12-18 23:41:24] [INFO]	ErrorNum: 0
+[2020-12-18 23:41:24] [INFO]	ErrorRate: 0.00%
+[2020-12-18 23:41:24] [INFO]	TimeoutNum: 0
+[2020-12-18 23:41:24] [INFO]	TimeoutRate: 0.00%
+[2020-12-18 23:41:24] [INFO]	-- End LPA
+[2020-12-18 23:41:24] [INFO]	-- Start LPA
+[2020-12-18 23:41:24] [DEBUG]		1	Schedule: 100.00%	Time: 1h 2m 8s 966ms 129us	Sample: [10]	Result Results is null.
+[2020-12-19 00:43:33] [INFO]	-- Result Statistics
+[2020-12-19 00:43:33] [INFO]	minTime: 1h 2m 51s 443ms 379us 994ns(3771443.38ms)
+[2020-12-19 00:43:33] [INFO]	maxTime: 1h 2m 51s 443ms 379us 994ns(3771443.38ms)
+[2020-12-19 00:43:33] [INFO]	AvgTime: 1h 2m 51s 443ms 379us 994ns(3771443.38ms)
+[2020-12-19 00:43:33] [INFO]	P99: 1h 2m 51s 443ms 379us 994ns(3771443.38ms)
+[2020-12-19 00:43:33] [INFO]	P999: 1h 2m 51s 443ms 379us 994ns(3771443.38ms)
+[2020-12-19 00:43:33] [INFO]	Throughput: 0.00
+[2020-12-19 00:43:33] [INFO]	SuccessNum: 1
+[2020-12-19 00:43:33] [INFO]	SuccessRate: 100.00%
+[2020-12-19 00:43:33] [INFO]	ErrorNum: 0
+[2020-12-19 00:43:33] [INFO]	ErrorRate: 0.00%
+[2020-12-19 00:43:33] [INFO]	TimeoutNum: 0
+[2020-12-19 00:43:33] [INFO]	TimeoutRate: 0.00%
+[2020-12-19 00:43:33] [INFO]	-- End LPA
+[2020-12-19 00:43:33] [INFO]	-- Start LPA
+[2020-12-19 01:43:33] [DEBUG]		1	Schedule: 100.00%	Time: 1h 0m 0s 103ms 72us 187ns	Sample: [10]	Result Results is null.
+[2020-12-19 01:43:33] [INFO]	-- Result Statistics
+[2020-12-19 01:43:33] [INFO]	minTime: 1h 0m 0s 103ms 72us 187ns(3600103.07ms)
+[2020-12-19 01:43:33] [INFO]	maxTime: 1h 0m 0s 103ms 72us 187ns(3600103.07ms)
+[2020-12-19 01:43:33] [INFO]	AvgTime: 1h 0m 0s 103ms 72us 187ns(3600103.07ms)
+[2020-12-19 01:43:33] [INFO]	P99: 1h 0m 0s 103ms 72us 187ns(3600103.07ms)
+[2020-12-19 01:43:33] [INFO]	P999: 1h 0m 0s 103ms 72us 187ns(3600103.07ms)
+[2020-12-19 01:43:33] [INFO]	Throughput: 0.00
+[2020-12-19 01:43:33] [INFO]	SuccessNum: 1
+[2020-12-19 01:43:33] [INFO]	SuccessRate: 100.00%
+[2020-12-19 01:43:33] [INFO]	ErrorNum: 0
+[2020-12-19 01:43:33] [INFO]	ErrorRate: 0.00%
+[2020-12-19 01:43:33] [INFO]	TimeoutNum: 0
+[2020-12-19 01:43:33] [INFO]	TimeoutRate: 0.00%
+[2020-12-19 01:43:33] [INFO]	-- End LPA
+[2020-12-19 01:43:33] [INFO]	***********************
+[2020-12-19 01:43:33] [INFO]	** Summary of LPA Test 2 - 3
+[2020-12-19 01:43:33] [INFO]	minTime: 1h 0m 0s 103ms 72us 187ns(3600103.07ms)
+[2020-12-19 01:43:33] [INFO]	maxTime: 1h 2m 51s 443ms 379us 994ns(3771443.38ms)
+[2020-12-19 01:43:33] [INFO]	AvgTime: 1h 1m 25s 773ms 226us 90ns(3685773.23ms)
+[2020-12-19 01:43:33] [INFO]	P99: 1h 2m 49s 729ms 976us 915ns(3769729.98ms)
+[2020-12-19 01:43:33] [INFO]	P999: 1h 2m 51s 272ms 39us 686ns(3771272.04ms)
+[2020-12-19 01:43:33] [INFO]	Throughput: 0.00
+[2020-12-19 01:43:33] [INFO]	SuccessNum: 2
+[2020-12-19 01:43:33] [INFO]	SuccessRate: 100.00%
+[2020-12-19 01:43:33] [INFO]	ErrorNum: 0
+[2020-12-19 01:43:33] [INFO]	ErrorRate: 0.00%
+[2020-12-19 01:43:33] [INFO]	TimeoutNum: 0
+[2020-12-19 01:43:33] [INFO]	TimeoutRate: 0.00%
+[2020-12-19 01:43:33] [INFO]	***********************

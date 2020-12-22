@@ -1,0 +1,1 @@
+neo4j-admin import --database Twitter-2010.db --id-type=ACTUAL -nodes:person=/import/Twitter-2010/v_header.csv,/import/Twitter-2010/vertex.csv -relationships:know=/import/Twitter-2010/e_header.csv,/import/Twitter-2010/edge.csv --delimiter='\t'

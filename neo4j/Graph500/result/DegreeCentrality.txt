@@ -1,0 +1,63 @@
+[2020-12-16 14:40:09] [INFO]	-- Start DegreeCentrality
+[2020-12-16 14:41:20] [DEBUG]		1	Schedule: 100.00%	Time: 1m 10s 819ms 106us 769ns	Sample: null	Result null
+[2020-12-16 14:41:20] [INFO]	-- Result Statistics
+[2020-12-16 14:41:20] [INFO]	minTime: 1m 10s 819ms 106us 769ns(70819.11ms)
+[2020-12-16 14:41:20] [INFO]	maxTime: 1m 10s 819ms 106us 769ns(70819.11ms)
+[2020-12-16 14:41:20] [INFO]	AvgTime: 1m 10s 819ms 106us 769ns(70819.11ms)
+[2020-12-16 14:41:20] [INFO]	P99: 1m 10s 819ms 106us 769ns(70819.11ms)
+[2020-12-16 14:41:20] [INFO]	P999: 1m 10s 819ms 106us 769ns(70819.11ms)
+[2020-12-16 14:41:20] [INFO]	Throughput: 0.01
+[2020-12-16 14:41:20] [INFO]	SuccessNum: 1
+[2020-12-16 14:41:20] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:41:20] [INFO]	ErrorNum: 0
+[2020-12-16 14:41:20] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:41:20] [INFO]	TimeoutNum: 0
+[2020-12-16 14:41:20] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:41:20] [INFO]	-- End DegreeCentrality
+[2020-12-16 14:41:20] [INFO]	-- Start DegreeCentrality
+[2020-12-16 14:42:30] [DEBUG]		1	Schedule: 100.00%	Time: 1m 10s 91ms 113us 754ns	Sample: null	Result null
+[2020-12-16 14:42:30] [INFO]	-- Result Statistics
+[2020-12-16 14:42:30] [INFO]	minTime: 1m 10s 91ms 113us 754ns(70091.11ms)
+[2020-12-16 14:42:30] [INFO]	maxTime: 1m 10s 91ms 113us 754ns(70091.11ms)
+[2020-12-16 14:42:30] [INFO]	AvgTime: 1m 10s 91ms 113us 754ns(70091.11ms)
+[2020-12-16 14:42:30] [INFO]	P99: 1m 10s 91ms 113us 754ns(70091.11ms)
+[2020-12-16 14:42:30] [INFO]	P999: 1m 10s 91ms 113us 754ns(70091.11ms)
+[2020-12-16 14:42:30] [INFO]	Throughput: 0.01
+[2020-12-16 14:42:30] [INFO]	SuccessNum: 1
+[2020-12-16 14:42:30] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:42:30] [INFO]	ErrorNum: 0
+[2020-12-16 14:42:30] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:42:30] [INFO]	TimeoutNum: 0
+[2020-12-16 14:42:30] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:42:30] [INFO]	-- End DegreeCentrality
+[2020-12-16 14:42:30] [INFO]	-- Start DegreeCentrality
+[2020-12-16 14:43:40] [DEBUG]		1	Schedule: 100.00%	Time: 1m 9s 625ms 150us 516ns	Sample: null	Result null
+[2020-12-16 14:43:40] [INFO]	-- Result Statistics
+[2020-12-16 14:43:40] [INFO]	minTime: 1m 9s 625ms 150us 516ns(69625.15ms)
+[2020-12-16 14:43:40] [INFO]	maxTime: 1m 9s 625ms 150us 516ns(69625.15ms)
+[2020-12-16 14:43:40] [INFO]	AvgTime: 1m 9s 625ms 150us 516ns(69625.15ms)
+[2020-12-16 14:43:40] [INFO]	P99: 1m 9s 625ms 150us 516ns(69625.15ms)
+[2020-12-16 14:43:40] [INFO]	P999: 1m 9s 625ms 150us 516ns(69625.15ms)
+[2020-12-16 14:43:40] [INFO]	Throughput: 0.01
+[2020-12-16 14:43:40] [INFO]	SuccessNum: 1
+[2020-12-16 14:43:40] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:43:40] [INFO]	ErrorNum: 0
+[2020-12-16 14:43:40] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:43:40] [INFO]	TimeoutNum: 0
+[2020-12-16 14:43:40] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:43:40] [INFO]	-- End DegreeCentrality
+[2020-12-16 14:43:40] [INFO]	***********************
+[2020-12-16 14:43:40] [INFO]	** Summary of DegreeCentrality Test 2 - 3
+[2020-12-16 14:43:40] [INFO]	minTime: 1m 9s 625ms 150us 516ns(69625.15ms)
+[2020-12-16 14:43:40] [INFO]	maxTime: 1m 10s 91ms 113us 754ns(70091.11ms)
+[2020-12-16 14:43:40] [INFO]	AvgTime: 1m 9s 858ms 132us 135ns(69858.13ms)
+[2020-12-16 14:43:40] [INFO]	P99: 1m 10s 86ms 454us 121ns(70086.45ms)
+[2020-12-16 14:43:40] [INFO]	P999: 1m 10s 90ms 647us 790ns(70090.65ms)
+[2020-12-16 14:43:40] [INFO]	Throughput: 0.01
+[2020-12-16 14:43:40] [INFO]	SuccessNum: 2
+[2020-12-16 14:43:40] [INFO]	SuccessRate: 100.00%
+[2020-12-16 14:43:40] [INFO]	ErrorNum: 0
+[2020-12-16 14:43:40] [INFO]	ErrorRate: 0.00%
+[2020-12-16 14:43:40] [INFO]	TimeoutNum: 0
+[2020-12-16 14:43:40] [INFO]	TimeoutRate: 0.00%
+[2020-12-16 14:43:40] [INFO]	***********************

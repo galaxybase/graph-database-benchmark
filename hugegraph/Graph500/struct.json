@@ -1,0 +1,44 @@
+{
+	"vertices": [
+		{
+			"label": "ve",
+			"input": {
+				"type": "file",
+				"path": "vertex.csv",
+				"format": "CSV",
+				"header": [
+					"ID"
+				],
+				"charset": "UTF-8"
+			},
+			"field_mapping": {
+				"ID": "ID"
+			}
+		}
+	],
+	"edges": [
+		{
+			"label": "ed",
+			"source": [
+				"FROM"
+			],
+			"target": [
+				"TO"
+			],
+			"input": {
+				"type": "file",
+				"path": "edge.csv",
+				"format": "CSV",
+				"header": [
+					"FROM",
+					"TO"
+				],
+				"charset": "UTF-8"
+			},
+			"field_mapping": {
+				"FROM": "ID",
+				"TO": "ID"
+			}
+		}
+	]
+}

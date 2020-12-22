@@ -1,0 +1,33 @@
+[2020-12-05 14:33:49] [INFO]	-- start DegreeCentrality
+[2020-12-05 15:04:59] [DEBUG]		1	Schedule:  100.00%	Time: 31m 10s 625ms 85us 647ns	sample: null	Result null
+[2020-12-05 15:04:59] [INFO]	-- Result Statistics
+[2020-12-05 15:04:59] [INFO]	minTime: 31m 10s 625ms 85us 647ns(1870625.09ms)
+[2020-12-05 15:04:59] [INFO]	maxTime: 31m 10s 625ms 85us 647ns(1870625.09ms)
+[2020-12-05 15:04:59] [INFO]	AvgTime: 31m 10s 625ms 85us 647ns(1870625.09ms)
+[2020-12-05 15:04:59] [INFO]	P99：31m 10s 625ms 85us 647ns(1870625.09ms)
+[2020-12-05 15:04:59] [INFO]	P999：31m 10s 625ms 85us 647ns(1870625.09ms)
+[2020-12-05 15:04:59] [INFO]	Throughput: 0.00
+[2020-12-05 15:04:59] [INFO]	SuccessNum: 1
+[2020-12-05 15:04:59] [INFO]	-- end DegreeCentrality
+[2020-12-05 15:04:59] [INFO]	-- start DegreeCentrality
+[2020-12-05 15:36:31] [DEBUG]		1	Schedule:  100.00%	Time: 31m 31s 317ms 538us 58ns	sample: null	Result null
+[2020-12-05 15:36:31] [INFO]	-- Result Statistics
+[2020-12-05 15:36:31] [INFO]	minTime: 31m 31s 317ms 538us 58ns(1891317.54ms)
+[2020-12-05 15:36:31] [INFO]	maxTime: 31m 31s 317ms 538us 58ns(1891317.54ms)
+[2020-12-05 15:36:31] [INFO]	AvgTime: 31m 31s 317ms 538us 58ns(1891317.54ms)
+[2020-12-05 15:36:31] [INFO]	P99：31m 31s 317ms 538us 58ns(1891317.54ms)
+[2020-12-05 15:36:31] [INFO]	P999：31m 31s 317ms 538us 58ns(1891317.54ms)
+[2020-12-05 15:36:31] [INFO]	Throughput: 0.00
+[2020-12-05 15:36:31] [INFO]	SuccessNum: 1
+[2020-12-05 15:36:31] [INFO]	-- end DegreeCentrality
+[2020-12-05 15:36:31] [INFO]	-- start DegreeCentrality
+[2020-12-05 16:08:13] [DEBUG]		1	Schedule:  100.00%	Time: 31m 42s 244ms 814us 496ns	sample: null	Result null
+[2020-12-05 16:08:13] [INFO]	-- Result Statistics
+[2020-12-05 16:08:13] [INFO]	minTime: 31m 42s 244ms 814us 496ns(1902244.81ms)
+[2020-12-05 16:08:13] [INFO]	maxTime: 31m 42s 244ms 814us 496ns(1902244.81ms)
+[2020-12-05 16:08:13] [INFO]	AvgTime: 31m 42s 244ms 814us 496ns(1902244.81ms)
+[2020-12-05 16:08:13] [INFO]	P99：31m 42s 244ms 814us 496ns(1902244.81ms)
+[2020-12-05 16:08:13] [INFO]	P999：31m 42s 244ms 814us 496ns(1902244.81ms)
+[2020-12-05 16:08:13] [INFO]	Throughput: 0.00
+[2020-12-05 16:08:13] [INFO]	SuccessNum: 1
+[2020-12-05 16:08:13] [INFO]	-- end DegreeCentrality

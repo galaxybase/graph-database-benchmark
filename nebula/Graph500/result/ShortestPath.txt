@@ -1,0 +1,154 @@
+[2020-12-22 15:14:48] [INFO]	-- Start ShortestPathTest
+[2020-12-22 15:14:48] [DEBUG]		1	Schedule: 1.00%	Time: 51ms 845us 182ns	Sample: [652314, 4008998]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		2	Schedule: 2.00%	Time: 850ms 219us 916ns	Sample: [4045051, 2381198]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		3	Schedule: 3.00%	Time: 1ms 869us 548ns	Sample: [532864, 3394734]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		4	Schedule: 4.00%	Time: 38ms 847us 208ns	Sample: [1684437, 733215]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		5	Schedule: 5.00%	Time: 3ms 872us 862ns	Sample: [18079, 2304742]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		6	Schedule: 6.00%	Time: 1ms 592us 268ns	Sample: [1609751, 967021]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		7	Schedule: 7.00%	Time: 3ms 198us 264ns	Sample: [1647924, 2110309]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		8	Schedule: 8.00%	Time: 3ms 690us 3ns	Sample: [493653, 3961533]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		9	Schedule: 9.00%	Time: 1ms 465us 942ns	Sample: [107553, 2001125]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		10	Schedule: 10.00%	Time: 3ms 679us 617ns	Sample: [2070048, 1651789]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		11	Schedule: 11.00%	Time: 3ms 326us 870ns	Sample: [2745030, 2631678]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		12	Schedule: 12.00%	Time: 1ms 551us 874ns	Sample: [2812586, 1438890]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		13	Schedule: 13.00%	Time: 1ms 601us 731ns	Sample: [759559, 1378857]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		14	Schedule: 14.00%	Time: 8ms 473us 637ns	Sample: [1741942, 493103]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		15	Schedule: 15.00%	Time: 27ms 506us 951ns	Sample: [3038874, 3635895]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		16	Schedule: 16.00%	Time: 2ms 577us 741ns	Sample: [767088, 2196885]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		17	Schedule: 17.00%	Time: 38ms 971us 28ns	Sample: [1701941, 1313108]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		18	Schedule: 18.00%	Time: 3ms 801us 158ns	Sample: [1642206, 2141641]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		19	Schedule: 19.00%	Time: 1ms 854us 665ns	Sample: [3214559, 338384]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		20	Schedule: 20.00%	Time: 8ms 628us 676ns	Sample: [1571709, 2035791]	Result Path Length 1
+[2020-12-22 15:14:49] [DEBUG]		21	Schedule: 21.00%	Time: 9ms 508us 534ns	Sample: [768151, 105426]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		22	Schedule: 22.00%	Time: 2ms 77us 228ns	Sample: [1483631, 4012432]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		23	Schedule: 23.00%	Time: 1ms 596us 383ns	Sample: [2075305, 1324828]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		24	Schedule: 24.00%	Time: 9ms 725us 474ns	Sample: [3654842, 1209469]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		25	Schedule: 25.00%	Time: 2ms 357us 726ns	Sample: [854844, 4169539]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		26	Schedule: 26.00%	Time: 10ms 196us 616ns	Sample: [969361, 3888755]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		27	Schedule: 27.00%	Time: 3ms 400us 462ns	Sample: [3711182, 3261581]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		28	Schedule: 28.00%	Time: 9ms 954us 480ns	Sample: [3299622, 1209469]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		29	Schedule: 29.00%	Time: 2ms 742us 67ns	Sample: [4155459, 3360988]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		30	Schedule: 30.00%	Time: 2ms 658us 368ns	Sample: [489307, 2918167]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		31	Schedule: 31.00%	Time: 1ms 437us 848ns	Sample: [2065160, 2761153]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		32	Schedule: 32.00%	Time: 1ms 262us 517ns	Sample: [3534801, 782978]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		33	Schedule: 33.00%	Time: 2ms 54us 482ns	Sample: [3803167, 1064645]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		34	Schedule: 34.00%	Time: 9ms 364us 114ns	Sample: [3210978, 2414588]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		35	Schedule: 35.00%	Time: 2ms 325us 802ns	Sample: [2540068, 49331]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		36	Schedule: 36.00%	Time: 23ms 503us 62ns	Sample: [2675986, 1915610]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		37	Schedule: 37.00%	Time: 24ms 380us 66ns	Sample: [1359363, 554194]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		38	Schedule: 38.00%	Time: 5ms 26us 33ns	Sample: [1842099, 3900168]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		39	Schedule: 39.00%	Time: 27ms 686us 502ns	Sample: [2810558, 3405404]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		40	Schedule: 40.00%	Time: 5ms 7us 729ns	Sample: [3710691, 2369879]	Result Path Length 2
+[2020-12-22 15:14:49] [DEBUG]		41	Schedule: 41.00%	Time: 159ms 395us 943ns	Sample: [541323, 2789920]	Result Path Length 3
+[2020-12-22 15:14:50] [DEBUG]		42	Schedule: 42.00%	Time: 124ms 100us 571ns	Sample: [1721359, 2789920]	Result Path Length 3
+[2020-12-22 15:14:50] [DEBUG]		43	Schedule: 43.00%	Time: 116ms 159us 279ns	Sample: [60775, 3566563]	Result Path Length 3
+[2020-12-22 15:14:50] [DEBUG]		44	Schedule: 44.00%	Time: 236ms 718us 407ns	Sample: [1557679, 3836242]	Result Path Length 3
+[2020-12-22 15:14:51] [DEBUG]		45	Schedule: 45.00%	Time: 1s 42ms 902us 180ns	Sample: [2744731, 2899178]	Result Path Length 3
+[2020-12-22 15:14:52] [DEBUG]		46	Schedule: 46.00%	Time: 935ms 911us 807ns	Sample: [3864929, 3261581]	Result Path Length 3
+[2020-12-22 15:14:52] [DEBUG]		47	Schedule: 47.00%	Time: 83ms 937us 171ns	Sample: [2141041, 234027]	Result Path Length 3
+[2020-12-22 15:14:54] [DEBUG]		48	Schedule: 48.00%	Time: 1s 533ms 553us 995ns	Sample: [2621933, 2369879]	Result Path Length 3
+[2020-12-22 15:15:00] [DEBUG]		49	Schedule: 49.00%	Time: 6s 213ms 629us 882ns	Sample: [3229148, 1429415]	Result Path Length 3
+[2020-12-22 15:15:01] [DEBUG]		50	Schedule: 50.00%	Time: 1s 641ms 700us 120ns	Sample: [3298735, 722249]	Result Path Length 3
+[2020-12-22 15:15:06] [DEBUG]		51	Schedule: 51.00%	Time: 5s 30ms 775us 184ns	Sample: [2329483, 1810295]	Result Path Length 3
+[2020-12-22 15:15:23] [DEBUG]		52	Schedule: 52.00%	Time: 16s 215ms 644us 180ns	Sample: [1009384, 146755]	Result Path Length 3
+[2020-12-22 15:15:24] [DEBUG]		53	Schedule: 53.00%	Time: 1s 228ms 16us 686ns	Sample: [2863869, 1486964]	Result Path Length 3
+[2020-12-22 15:15:24] [DEBUG]		54	Schedule: 54.00%	Time: 216ms 656us 664ns	Sample: [3680441, 234027]	Result Path Length 3
+[2020-12-22 15:15:29] [DEBUG]		55	Schedule: 55.00%	Time: 4s 880ms 476us 606ns	Sample: [1721467, 2414588]	Result Path Length 3
+[2020-12-22 15:15:31] [DEBUG]		56	Schedule: 56.00%	Time: 2s 57ms 965us 911ns	Sample: [497221, 1124933]	Result Path Length 3
+[2020-12-22 15:15:33] [DEBUG]		57	Schedule: 57.00%	Time: 1s 660ms 682us 912ns	Sample: [838356, 722249]	Result Path Length 3
+[2020-12-22 15:15:35] [DEBUG]		58	Schedule: 58.00%	Time: 1s 869ms 995us 587ns	Sample: [225319, 1099601]	Result Path Length 3
+[2020-12-22 15:15:35] [DEBUG]		59	Schedule: 59.00%	Time: 45ms 957us 854ns	Sample: [2610580, 2257036]	Result Path Length 3
+[2020-12-22 15:15:35] [DEBUG]		60	Schedule: 60.00%	Time: 211ms 720us 901ns	Sample: [3993903, 234027]	Result Path Length 3
+[2020-12-22 15:15:37] [DEBUG]		61	Schedule: 61.00%	Time: 1s 756ms 837us 396ns	Sample: [1576362, 1724296]	Result Path Length 4
+[2020-12-22 15:15:37] [DEBUG]		62	Schedule: 62.00%	Time: 104ms 248us 843ns	Sample: [1334332, 3603982]	Result Path Length 4
+[2020-12-22 15:15:37] [DEBUG]		63	Schedule: 63.00%	Time: 83ms 633us 827ns	Sample: [3567058, 3671871]	Result Path Length 4
+[2020-12-22 15:15:37] [DEBUG]		64	Schedule: 64.00%	Time: 137ms 582us 553ns	Sample: [1496825, 279360]	Result Path Length 4
+[2020-12-22 15:15:38] [DEBUG]		65	Schedule: 65.00%	Time: 707ms 47us 638ns	Sample: [2329812, 510152]	Result Path Length 4
+[2020-12-22 15:15:38] [DEBUG]		66	Schedule: 66.00%	Time: 62ms 400us 172ns	Sample: [1931229, 191662]	Result Path Length 4
+[2020-12-22 15:15:38] [DEBUG]		67	Schedule: 67.00%	Time: 86ms 705us 967ns	Sample: [962969, 3124373]	Result Path Length 4
+[2020-12-22 15:15:38] [DEBUG]		68	Schedule: 68.00%	Time: 73ms 967us 306ns	Sample: [4061860, 2967280]	Result Path Length 4
+[2020-12-22 15:15:38] [DEBUG]		69	Schedule: 69.00%	Time: 76ms 405us 553ns	Sample: [3984343, 2765244]	Result Path Length 4
+[2020-12-22 15:15:38] [DEBUG]		70	Schedule: 70.00%	Time: 122ms 234us 653ns	Sample: [2309795, 3750889]	Result Path Length 4
+[2020-12-22 15:15:39] [DEBUG]		71	Schedule: 71.00%	Time: 650ms 168us 253ns	Sample: [569981, 124826]	Result Path Length 4
+[2020-12-22 15:15:41] [DEBUG]		72	Schedule: 72.00%	Time: 1s 914ms 301us 985ns	Sample: [1406575, 2446718]	Result Path Length 4
+[2020-12-22 15:15:41] [DEBUG]		73	Schedule: 73.00%	Time: 753ms 344us 179ns	Sample: [1710151, 510152]	Result Path Length 4
+[2020-12-22 15:15:41] [DEBUG]		74	Schedule: 74.00%	Time: 86ms 205us 937ns	Sample: [101340, 3284134]	Result Path Length 4
+[2020-12-22 15:15:42] [DEBUG]		75	Schedule: 75.00%	Time: 79ms 569us 903ns	Sample: [3256958, 3284134]	Result Path Length 4
+[2020-12-22 15:15:42] [DEBUG]		76	Schedule: 76.00%	Time: 22ms 141us 276ns	Sample: [695437, 3511351]	Result Path Length 4
+[2020-12-22 15:15:42] [DEBUG]		77	Schedule: 77.00%	Time: 28ms 54us 924ns	Sample: [2971144, 678048]	Result Path Length 4
+[2020-12-22 15:15:43] [DEBUG]		78	Schedule: 78.00%	Time: 1s 476ms 261us 198ns	Sample: [3878896, 722249]	Result Path Length 4
+[2020-12-22 15:15:44] [DEBUG]		79	Schedule: 79.00%	Time: 493ms 150us 69ns	Sample: [11286, 2587939]	Result Path Length 4
+[2020-12-22 15:15:49] [DEBUG]		80	Schedule: 80.00%	Time: 5s 448ms 922us 543ns	Sample: [4010739, 3204518]	Result Path Length 4
+[2020-12-22 15:15:59] [DEBUG]		81	Schedule: 81.00%	Time: 9s 982ms 192us 145ns	Sample: [3987406, 179774]	Result Path Length 5
+[2020-12-22 15:16:54] [DEBUG]		82	Schedule: 82.00%	Time: 54s 846ms 755us 772ns	Sample: [3417591, 1632073]	Result Path Length 5
+[2020-12-22 15:17:01] [DEBUG]		83	Schedule: 83.00%	Time: 6s 803ms 476us 549ns	Sample: [2908742, 2473207]	Result Path Length 5
+[2020-12-22 15:17:08] [DEBUG]		84	Schedule: 84.00%	Time: 7s 690ms 384us 247ns	Sample: [1930070, 1974488]	Result Path Length 5
+[2020-12-22 15:18:39] [DEBUG]		85	Schedule: 85.00%	Time: 1m 30s 373ms 935us 683ns	Sample: [3034438, 1017679]	Result Path Length 5
+[2020-12-22 15:27:12] [DEBUG]		86	Schedule: 86.00%	Time: 8m 33s 75ms 318us 606ns	Sample: [676714, 1191234]	Result Path Length 5
+[2020-12-22 15:28:43] [ERROR]	There was an error executing item 87!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-22 15:28:43] [DEBUG]		87	Schedule: 87.00%	Time: 1m 30s 618ms 297us 834ns	Sample: [582026, 3238577]	Result Execute error.
+[2020-12-22 15:30:17] [DEBUG]		88	Schedule: 88.00%	Time: 1m 33s 518ms 399us 525ns	Sample: [297948, 234807]	Result Path Length 5
+[2020-12-22 15:31:29] [DEBUG]		89	Schedule: 89.00%	Time: 1m 12s 165ms 731us 306ns	Sample: [336928, 3742546]	Result Path Length 5
+[2020-12-22 15:35:50] [DEBUG]		90	Schedule: 90.00%	Time: 4m 20s 801ms 956us 936ns	Sample: [3687833, 3548052]	Result Path Length 5
+[2020-12-22 15:40:05] [DEBUG]		91	Schedule: 91.00%	Time: 4m 15s 593ms 702us 397ns	Sample: [503243, 3423544]	Result Path Length 5
+[2020-12-22 15:41:35] [DEBUG]		92	Schedule: 92.00%	Time: 1m 29s 652ms 901us 703ns	Sample: [2446467, 3878617]	Result Path Length 5
+[2020-12-22 15:51:23] [DEBUG]		93	Schedule: 93.00%	Time: 9m 46s 733ms 593us 529ns	Sample: [3301795, 4179423]	Result Path Length 5
+[2020-12-22 15:52:45] [ERROR]	There was an error executing item 94!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-22 15:52:46] [DEBUG]		94	Schedule: 94.00%	Time: 1m 20s 981ms 289us 251ns	Sample: [3411615, 239551]	Result Execute error.
+[2020-12-22 15:55:03] [DEBUG]		95	Schedule: 95.00%	Time: 2m 17s 439ms 324us 445ns	Sample: [311454, 602288]	Result Path Length 5
+[2020-12-22 16:00:34] [DEBUG]		96	Schedule: 96.00%	Time: 5m 31s 23ms 457us 935ns	Sample: [281637, 4169539]	Result Path Length 5
+[2020-12-22 16:01:10] [DEBUG]		97	Schedule: 97.00%	Time: 35s 230ms 694us 992ns	Sample: [1845227, 1257926]	Result Path Length 5
+[2020-12-22 17:01:10] [DEBUG]		98	Schedule: 98.00%	Time: 1h 0m 0s 0ms 0us 3ns	Sample: [1209715, 1408490]	Result Execute timeout!
+[2020-12-22 18:01:12] [DEBUG]		99	Schedule: 99.00%	Time: 1h 0m 0s 0ms 0us 12ns	Sample: [104884, 234807]	Result Execute timeout!
+[2020-12-22 18:08:56] [DEBUG]		100	Schedule: 100.00%	Time: 7m 43s 894ms 7us 761ns	Sample: [2782129, 728305]	Result Path Length 5
+[2020-12-22 18:08:56] [INFO]	-- Result Statistics
+[2020-12-22 18:09:01] [INFO]	minTime: 1ms 262us 517ns(1.26ms)
+[2020-12-22 18:09:01] [INFO]	maxTime: 9m 46s 733ms 593us 529ns(586733.59ms)
+[2020-12-22 18:09:02] [INFO]	AvgTime: 31s 976ms 143us 335ns(31976.14ms)
+[2020-12-22 18:09:02] [INFO]	P99: 8m 36s 758ms 232us 352ns(516758.23ms)
+[2020-12-22 18:09:02] [INFO]	P999: 9m 39s 736ms 57us 411ns(579736.06ms)
+[2020-12-22 18:09:02] [INFO]	Throughput: 0.01
+[2020-12-22 18:09:02] [INFO]	SuccessNum: 96
+[2020-12-22 18:09:02] [INFO]	SuccessRate: 96.00%
+[2020-12-22 18:09:02] [INFO]	ErrorNum: 2
+[2020-12-22 18:09:02] [INFO]	ErrorRate: 2.00%
+[2020-12-22 18:09:02] [INFO]	TimeoutNum: 2
+[2020-12-22 18:09:02] [INFO]	TimeoutRate: 2.00%
+[2020-12-22 18:09:02] [INFO]	PathLength Average: 2.92
+[2020-12-22 18:09:02] [INFO]	-- End ShortestPathTest

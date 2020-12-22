@@ -1,0 +1,93 @@
+[2020-12-20 22:38:55] [INFO]	-- Start KNeighbor - 5
+[2020-12-20 22:38:56] [DEBUG]		1	Schedule: 10.00%	Time: 773ms 846us 862ns	Sample: [3600312, 5]	Result VertexCount:1647390
+[2020-12-20 22:38:56] [DEBUG]		2	Schedule: 20.00%	Time: 124ms 921us 295ns	Sample: [2677094, 5]	Result VertexCount:509904
+[2020-12-20 22:38:57] [DEBUG]		3	Schedule: 30.00%	Time: 935ms 723us 27ns	Sample: [2038005, 5]	Result VertexCount:1814250
+[2020-12-20 22:38:58] [DEBUG]		4	Schedule: 40.00%	Time: 1s 133ms 283us 548ns	Sample: [3301167, 5]	Result VertexCount:2060875
+[2020-12-20 22:38:58] [DEBUG]		5	Schedule: 50.00%	Time: 68ms 524us 723ns	Sample: [704219, 5]	Result VertexCount:370084
+[2020-12-20 22:38:59] [DEBUG]		6	Schedule: 60.00%	Time: 638ms 550us 858ns	Sample: [1779962, 5]	Result VertexCount:1638990
+[2020-12-20 22:39:00] [DEBUG]		7	Schedule: 70.00%	Time: 1s 424ms 233us 677ns	Sample: [2681401, 5]	Result VertexCount:2092768
+[2020-12-20 22:39:01] [DEBUG]		8	Schedule: 80.00%	Time: 940ms 240us 661ns	Sample: [2277366, 5]	Result VertexCount:1817621
+[2020-12-20 22:39:03] [DEBUG]		9	Schedule: 90.00%	Time: 1s 403ms 449us 905ns	Sample: [1649130, 5]	Result VertexCount:2149164
+[2020-12-20 22:39:03] [DEBUG]		10	Schedule: 100.00%	Time: 723ms 270us 693ns	Sample: [806220, 5]	Result VertexCount:1628729
+[2020-12-20 22:39:03] [INFO]	-- Result Statistics
+[2020-12-20 22:39:03] [INFO]	minTime: 68ms 524us 723ns(68.52ms)
+[2020-12-20 22:39:03] [INFO]	maxTime: 1s 424ms 233us 677ns(1424.23ms)
+[2020-12-20 22:39:03] [INFO]	AvgTime: 816ms 604us 524ns(816.60ms)
+[2020-12-20 22:39:03] [INFO]	P99: 1s 422ms 363us 137ns(1422.36ms)
+[2020-12-20 22:39:03] [INFO]	P999: 1s 424ms 46us 623ns(1424.05ms)
+[2020-12-20 22:39:03] [INFO]	Throughput: 1.22
+[2020-12-20 22:39:03] [INFO]	SuccessNum: 10
+[2020-12-20 22:39:03] [INFO]	SuccessRate: 100.00%
+[2020-12-20 22:39:03] [INFO]	ErrorNum: 0
+[2020-12-20 22:39:03] [INFO]	ErrorRate: 0.00%
+[2020-12-20 22:39:03] [INFO]	TimeoutNum: 0
+[2020-12-20 22:39:03] [INFO]	TimeoutRate: 0.00%
+[2020-12-20 22:39:03] [INFO]	KNeighbor-5 Average: 1572977.50
+[2020-12-20 22:39:03] [INFO]	-- End KNeighbor - 5
+[2020-12-20 22:39:03] [INFO]	-- Start KNeighbor - 5
+[2020-12-20 22:39:04] [DEBUG]		1	Schedule: 10.00%	Time: 803ms 474us 724ns	Sample: [3600312, 5]	Result VertexCount:1647390
+[2020-12-20 22:39:04] [DEBUG]		2	Schedule: 20.00%	Time: 122ms 727us 875ns	Sample: [2677094, 5]	Result VertexCount:509904
+[2020-12-20 22:39:05] [DEBUG]		3	Schedule: 30.00%	Time: 929ms 581us 791ns	Sample: [2038005, 5]	Result VertexCount:1814250
+[2020-12-20 22:39:07] [DEBUG]		4	Schedule: 40.00%	Time: 1s 187ms 513us 389ns	Sample: [3301167, 5]	Result VertexCount:2060875
+[2020-12-20 22:39:07] [DEBUG]		5	Schedule: 50.00%	Time: 69ms 151us 478ns	Sample: [704219, 5]	Result VertexCount:370084
+[2020-12-20 22:39:07] [DEBUG]		6	Schedule: 60.00%	Time: 734ms 703us 667ns	Sample: [1779962, 5]	Result VertexCount:1638990
+[2020-12-20 22:39:09] [DEBUG]		7	Schedule: 70.00%	Time: 1s 358ms 29us 993ns	Sample: [2681401, 5]	Result VertexCount:2092768
+[2020-12-20 22:39:10] [DEBUG]		8	Schedule: 80.00%	Time: 847ms 356us 43ns	Sample: [2277366, 5]	Result VertexCount:1817621
+[2020-12-20 22:39:11] [DEBUG]		9	Schedule: 90.00%	Time: 1s 425ms 873us 796ns	Sample: [1649130, 5]	Result VertexCount:2149164
+[2020-12-20 22:39:12] [DEBUG]		10	Schedule: 100.00%	Time: 746ms 265us 589ns	Sample: [806220, 5]	Result VertexCount:1628729
+[2020-12-20 22:39:12] [INFO]	-- Result Statistics
+[2020-12-20 22:39:12] [INFO]	minTime: 69ms 151us 478ns(69.15ms)
+[2020-12-20 22:39:12] [INFO]	maxTime: 1s 425ms 873us 796ns(1425.87ms)
+[2020-12-20 22:39:12] [INFO]	AvgTime: 822ms 467us 834ns(822.47ms)
+[2020-12-20 22:39:12] [INFO]	P99: 1s 419ms 767us 853ns(1419.77ms)
+[2020-12-20 22:39:12] [INFO]	P999: 1s 425ms 263us 201ns(1425.26ms)
+[2020-12-20 22:39:12] [INFO]	Throughput: 1.22
+[2020-12-20 22:39:12] [INFO]	SuccessNum: 10
+[2020-12-20 22:39:12] [INFO]	SuccessRate: 100.00%
+[2020-12-20 22:39:12] [INFO]	ErrorNum: 0
+[2020-12-20 22:39:12] [INFO]	ErrorRate: 0.00%
+[2020-12-20 22:39:12] [INFO]	TimeoutNum: 0
+[2020-12-20 22:39:12] [INFO]	TimeoutRate: 0.00%
+[2020-12-20 22:39:12] [INFO]	KNeighbor-5 Average: 1572977.50
+[2020-12-20 22:39:12] [INFO]	-- End KNeighbor - 5
+[2020-12-20 22:39:12] [INFO]	-- Start KNeighbor - 5
+[2020-12-20 22:39:12] [DEBUG]		1	Schedule: 10.00%	Time: 766ms 663us 129ns	Sample: [3600312, 5]	Result VertexCount:1647390
+[2020-12-20 22:39:13] [DEBUG]		2	Schedule: 20.00%	Time: 116ms 894us 357ns	Sample: [2677094, 5]	Result VertexCount:509904
+[2020-12-20 22:39:14] [DEBUG]		3	Schedule: 30.00%	Time: 908ms 107us 359ns	Sample: [2038005, 5]	Result VertexCount:1814250
+[2020-12-20 22:39:15] [DEBUG]		4	Schedule: 40.00%	Time: 1s 303ms 564us 603ns	Sample: [3301167, 5]	Result VertexCount:2060875
+[2020-12-20 22:39:15] [DEBUG]		5	Schedule: 50.00%	Time: 74ms 309us 15ns	Sample: [704219, 5]	Result VertexCount:370084
+[2020-12-20 22:39:16] [DEBUG]		6	Schedule: 60.00%	Time: 758ms 313us 146ns	Sample: [1779962, 5]	Result VertexCount:1638990
+[2020-12-20 22:39:17] [DEBUG]		7	Schedule: 70.00%	Time: 1s 476ms 817us 81ns	Sample: [2681401, 5]	Result VertexCount:2092768
+[2020-12-20 22:39:18] [DEBUG]		8	Schedule: 80.00%	Time: 919ms 796us 661ns	Sample: [2277366, 5]	Result VertexCount:1817621
+[2020-12-20 22:39:19] [DEBUG]		9	Schedule: 90.00%	Time: 1s 433ms 193us 434ns	Sample: [1649130, 5]	Result VertexCount:2149164
+[2020-12-20 22:39:20] [DEBUG]		10	Schedule: 100.00%	Time: 710ms 236us 319ns	Sample: [806220, 5]	Result VertexCount:1628729
+[2020-12-20 22:39:20] [INFO]	-- Result Statistics
+[2020-12-20 22:39:20] [INFO]	minTime: 74ms 309us 15ns(74.31ms)
+[2020-12-20 22:39:20] [INFO]	maxTime: 1s 476ms 817us 81ns(1476.82ms)
+[2020-12-20 22:39:20] [INFO]	AvgTime: 846ms 789us 510ns(846.79ms)
+[2020-12-20 22:39:20] [INFO]	P99: 1s 472ms 890us 952ns(1472.89ms)
+[2020-12-20 22:39:20] [INFO]	P999: 1s 476ms 424us 468ns(1476.42ms)
+[2020-12-20 22:39:20] [INFO]	Throughput: 1.18
+[2020-12-20 22:39:20] [INFO]	SuccessNum: 10
+[2020-12-20 22:39:20] [INFO]	SuccessRate: 100.00%
+[2020-12-20 22:39:20] [INFO]	ErrorNum: 0
+[2020-12-20 22:39:20] [INFO]	ErrorRate: 0.00%
+[2020-12-20 22:39:20] [INFO]	TimeoutNum: 0
+[2020-12-20 22:39:20] [INFO]	TimeoutRate: 0.00%
+[2020-12-20 22:39:20] [INFO]	KNeighbor-5 Average: 1572977.50
+[2020-12-20 22:39:20] [INFO]	-- End KNeighbor - 5
+[2020-12-20 22:39:20] [INFO]	***********************
+[2020-12-20 22:39:20] [INFO]	** Summary of KNeighbor - 5 Test 2 - 3
+[2020-12-20 22:39:20] [INFO]	minTime: 69ms 151us 478ns(69.15ms)
+[2020-12-20 22:39:20] [INFO]	maxTime: 1s 476ms 817us 81ns(1476.82ms)
+[2020-12-20 22:39:20] [INFO]	AvgTime: 834ms 628us 672ns(834.63ms)
+[2020-12-20 22:39:20] [INFO]	P99: 1s 468ms 528us 588ns(1468.53ms)
+[2020-12-20 22:39:20] [INFO]	P999: 1s 475ms 988us 231ns(1475.99ms)
+[2020-12-20 22:39:20] [INFO]	Throughput: 1.20
+[2020-12-20 22:39:20] [INFO]	SuccessNum: 20
+[2020-12-20 22:39:20] [INFO]	SuccessRate: 100.00%
+[2020-12-20 22:39:20] [INFO]	ErrorNum: 0
+[2020-12-20 22:39:20] [INFO]	ErrorRate: 0.00%
+[2020-12-20 22:39:20] [INFO]	TimeoutNum: 0
+[2020-12-20 22:39:20] [INFO]	TimeoutRate: 0.00%
+[2020-12-20 22:39:20] [INFO]	***********************

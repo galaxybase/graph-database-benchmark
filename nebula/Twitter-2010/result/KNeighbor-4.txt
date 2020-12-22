@@ -1,0 +1,209 @@
+[2020-12-17 12:44:02] [INFO]	-- Start KNeighborTest - 4 Depth
+[2020-12-17 12:44:02] [ERROR]	There was an error executing item 1!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-17 12:44:02] [DEBUG]		1	Schedule: 10.00%	Time: 361us 961ns	Sample: [20727483]	Result Execute error.
+[2020-12-17 12:44:02] [ERROR]	There was an error executing item 2!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-17 12:44:02] [DEBUG]		2	Schedule: 20.00%	Time: 158us 718ns	Sample: [50329304]	Result Execute error.
+[2020-12-17 12:44:02] [ERROR]	There was an error executing item 3!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-17 12:44:02] [DEBUG]		3	Schedule: 30.00%	Time: 105us 906ns	Sample: [26199460]	Result Execute error.
+[2020-12-17 12:44:02] [ERROR]	There was an error executing item 4!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-17 12:44:02] [DEBUG]		4	Schedule: 40.00%	Time: 108us 455ns	Sample: [1177521]	Result Execute error.
+[2020-12-17 12:44:02] [ERROR]	There was an error executing item 5!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-17 12:44:02] [DEBUG]		5	Schedule: 50.00%	Time: 149us 315ns	Sample: [27960125]	Result Execute error.
+[2020-12-17 12:44:02] [ERROR]	There was an error executing item 6!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-17 12:44:02] [DEBUG]		6	Schedule: 60.00%	Time: 122us 448ns	Sample: [30440025]	Result Execute error.
+[2020-12-17 12:44:02] [ERROR]	There was an error executing item 7!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-17 12:44:02] [DEBUG]		7	Schedule: 70.00%	Time: 106us 914ns	Sample: [15833920]	Result Execute error.
+[2020-12-17 12:44:02] [ERROR]	There was an error executing item 8!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-17 12:44:02] [DEBUG]		8	Schedule: 80.00%	Time: 93us 266ns	Sample: [15015183]	Result Execute error.
+[2020-12-17 12:44:02] [ERROR]	There was an error executing item 9!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-17 12:44:02] [DEBUG]		9	Schedule: 90.00%	Time: 184us 667ns	Sample: [33153097]	Result Execute error.
+[2020-12-17 12:44:02] [ERROR]	There was an error executing item 10!
+java.util.concurrent.ExecutionException: com.vesoft.nebula.client.graph.NGQLException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	at com.galaxybase.benchmark.common.test.AbstractTest.testFinish(AbstractTest.java:126)
+	at com.galaxybase.benchmark.common.test.AbstractTest.startTest(AbstractTest.java:94)
+	at com.galaxybase.benchmark.common.util.TestManager.doStartTest(TestManager.java:60)
+	at com.galaxybase.benchmark.common.util.TestManager.startTest(TestManager.java:25)
+	at com.galaxybase.benchmark.nebula.AutoMain.main(AutoMain.java:11)
+Caused by: com.vesoft.nebula.client.graph.NGQLException
+	at com.vesoft.nebula.client.graph.GraphClientImpl.executeQuery(GraphClientImpl.java:135)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:24)
+	at com.galaxybase.benchmark.nebula.test.util.NebulaTest.onStartTest(NebulaTest.java:12)
+	at com.galaxybase.benchmark.common.test.AbstractTest$1.run(AbstractTest.java:85)
+	at com.galaxybase.benchmark.common.test.AbstractTest$TaskCallable.call(AbstractTest.java:236)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2020-12-17 12:44:02] [DEBUG]		10	Schedule: 100.00%	Time: 145us 82ns	Sample: [21250581]	Result Execute error.
+[2020-12-17 12:44:02] [INFO]	-- Result Statistics
+[2020-12-17 12:44:02] [INFO]	Results is null.
+[2020-12-17 12:44:02] [INFO]	ErrorNum: 10
+[2020-12-17 12:44:02] [INFO]	ErrorRate: 100.00%
+[2020-12-17 12:44:02] [INFO]	TimeoutNum: 0
+[2020-12-17 12:44:02] [INFO]	TimeoutRate: 0.00%
+[2020-12-17 12:44:02] [INFO]	ResultCount Average: 0.00
+[2020-12-17 12:44:02] [INFO]	-- End KNeighborTest - 4 Depth

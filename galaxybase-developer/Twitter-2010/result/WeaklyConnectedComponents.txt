@@ -1,0 +1,43 @@
+[2020-12-14 17:37:27] [INFO]	-- start ConnectedComponents
+[2020-12-14 17:41:11] [DEBUG]		1	Schedule:  100.00%	Time: 3m 43s 646ms 543us 176ns	sample: null	Result 结果数：41652230
+[2020-12-14 17:41:11] [INFO]	-- Result Statistics
+[2020-12-14 17:41:11] [INFO]	minTime: 3m 43s 646ms 543us 176ns(223646.54ms)
+[2020-12-14 17:41:11] [INFO]	maxTime: 3m 43s 646ms 543us 176ns(223646.54ms)
+[2020-12-14 17:41:11] [INFO]	AvgTime: 3m 43s 646ms 543us 176ns(223646.54ms)
+[2020-12-14 17:41:11] [INFO]	P99：3m 43s 646ms 543us 176ns(223646.54ms)
+[2020-12-14 17:41:11] [INFO]	P999：3m 43s 646ms 543us 176ns(223646.54ms)
+[2020-12-14 17:41:11] [INFO]	Throughput: 0.00
+[2020-12-14 17:41:11] [INFO]	SuccessNum: 1
+[2020-12-14 17:41:11] [INFO]	-- end ConnectedComponents
+[2020-12-14 17:41:11] [INFO]	-- start ConnectedComponents
+[2020-12-14 17:45:16] [DEBUG]		1	Schedule:  100.00%	Time: 4m 5s 403ms 8us 529ns	sample: null	Result 结果数：41652230
+[2020-12-14 17:45:16] [INFO]	-- Result Statistics
+[2020-12-14 17:45:16] [INFO]	minTime: 4m 5s 403ms 8us 529ns(245403.01ms)
+[2020-12-14 17:45:16] [INFO]	maxTime: 4m 5s 403ms 8us 529ns(245403.01ms)
+[2020-12-14 17:45:16] [INFO]	AvgTime: 4m 5s 403ms 8us 529ns(245403.01ms)
+[2020-12-14 17:45:16] [INFO]	P99：4m 5s 403ms 8us 529ns(245403.01ms)
+[2020-12-14 17:45:16] [INFO]	P999：4m 5s 403ms 8us 529ns(245403.01ms)
+[2020-12-14 17:45:16] [INFO]	Throughput: 0.00
+[2020-12-14 17:45:16] [INFO]	SuccessNum: 1
+[2020-12-14 17:45:16] [INFO]	-- end ConnectedComponents
+[2020-12-14 17:45:16] [INFO]	-- start ConnectedComponents
+[2020-12-14 17:48:58] [DEBUG]		1	Schedule:  100.00%	Time: 3m 42s 2ms 729us 399ns	sample: null	Result 结果数：41652230
+[2020-12-14 17:48:58] [INFO]	-- Result Statistics
+[2020-12-14 17:48:58] [INFO]	minTime: 3m 42s 2ms 729us 399ns(222002.73ms)
+[2020-12-14 17:48:58] [INFO]	maxTime: 3m 42s 2ms 729us 399ns(222002.73ms)
+[2020-12-14 17:48:58] [INFO]	AvgTime: 3m 42s 2ms 729us 399ns(222002.73ms)
+[2020-12-14 17:48:58] [INFO]	P99：3m 42s 2ms 729us 399ns(222002.73ms)
+[2020-12-14 17:48:58] [INFO]	P999：3m 42s 2ms 729us 399ns(222002.73ms)
+[2020-12-14 17:48:58] [INFO]	Throughput: 0.00
+[2020-12-14 17:48:58] [INFO]	SuccessNum: 1
+[2020-12-14 17:48:58] [INFO]	-- end ConnectedComponents
+[2020-12-14 17:48:58] [INFO]	***********************
+[2020-12-14 17:48:58] [INFO]	** Summary of ConnectedComponents Test 2 - 3
+[2020-12-14 17:48:58] [INFO]	minTime: 3m 42s 2ms 729us 399ns(222002.73ms)
+[2020-12-14 17:48:58] [INFO]	maxTime: 4m 5s 403ms 8us 529ns(245403.01ms)
+[2020-12-14 17:48:58] [INFO]	AvgTime: 3m 53s 702ms 868us 964ns(233702.87ms)
+[2020-12-14 17:48:58] [INFO]	P99：4m 5s 169ms 5us 737ns(245169.01ms)
+[2020-12-14 17:48:58] [INFO]	P999：4m 5s 379ms 608us 249ns(245379.61ms)
+[2020-12-14 17:48:58] [INFO]	Throughput: 0.00
+[2020-12-14 17:48:58] [INFO]	SuccessNum: 2
+[2020-12-14 17:48:58] [INFO]	***********************

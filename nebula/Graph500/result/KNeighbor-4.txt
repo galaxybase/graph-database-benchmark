@@ -1,0 +1,26 @@
+[2020-12-17 15:45:00] [INFO]	-- Start KNeighborTest - 4 Depth
+[2020-12-17 15:50:10] [DEBUG]		1	Schedule: 10.00%	Time: 5m 9s 799ms 532us 590ns	Sample: [3600312]	Result resultCount 1641049
+[2020-12-17 15:50:21] [DEBUG]		2	Schedule: 20.00%	Time: 10s 883ms 762us 691ns	Sample: [2677094]	Result resultCount 483676
+[2020-12-17 15:54:13] [DEBUG]		3	Schedule: 30.00%	Time: 3m 52s 128ms 760us 413ns	Sample: [2038005]	Result resultCount 1803161
+[2020-12-17 16:54:16] [DEBUG]		4	Schedule: 40.00%	Time: 1h 0m 0s 0ms 0us 18ns	Sample: [3301167]	Result Execute timeout!
+[2020-12-17 17:54:17] [DEBUG]		5	Schedule: 50.00%	Time: 1h 0m 0s 0ms 0us 7ns	Sample: [704219]	Result Execute timeout!
+[2020-12-17 18:54:17] [DEBUG]		6	Schedule: 60.00%	Time: 1h 0m 0s 0ms 0us 15ns	Sample: [1779962]	Result Execute timeout!
+[2020-12-17 19:54:17] [DEBUG]		7	Schedule: 70.00%	Time: 1h 0m 0s 0ms 0us 8ns	Sample: [2681401]	Result Execute timeout!
+[2020-12-17 20:54:18] [DEBUG]		8	Schedule: 80.00%	Time: 1h 0m 0s 0ms 0us 6ns	Sample: [2277366]	Result Execute timeout!
+[2020-12-17 21:54:18] [DEBUG]		9	Schedule: 90.00%	Time: 1h 0m 0s 0ms 0us 3ns	Sample: [1649130]	Result Execute timeout!
+[2020-12-17 22:54:18] [DEBUG]		10	Schedule: 100.00%	Time: 1h 0m 0s 0ms 0us 16ns	Sample: [806220]	Result Execute timeout!
+[2020-12-17 22:54:18] [INFO]	-- Result Statistics
+[2020-12-17 22:54:18] [INFO]	minTime: 10s 883ms 762us 691ns(10883.76ms)
+[2020-12-17 22:54:18] [INFO]	maxTime: 5m 9s 799ms 532us 590ns(309799.53ms)
+[2020-12-17 22:54:18] [INFO]	AvgTime: 3m 4s 270ms 685us 231ns(184270.69ms)
+[2020-12-17 22:54:18] [INFO]	P99: 5m 8s 246ms 117us 146ns(308246.12ms)
+[2020-12-17 22:54:18] [INFO]	P999: 5m 9s 644ms 191us 45ns(309644.19ms)
+[2020-12-17 22:54:18] [INFO]	Throughput: 0.00
+[2020-12-17 22:54:18] [INFO]	SuccessNum: 3
+[2020-12-17 22:54:18] [INFO]	SuccessRate: 30.00%
+[2020-12-17 22:54:18] [INFO]	ErrorNum: 0
+[2020-12-17 22:54:18] [INFO]	ErrorRate: 0.00%
+[2020-12-17 22:54:18] [INFO]	TimeoutNum: 7
+[2020-12-17 22:54:18] [INFO]	TimeoutRate: 70.00%
+[2020-12-17 22:54:19] [INFO]	ResultCount Average: 1309295.33
+[2020-12-17 22:54:19] [INFO]	-- End KNeighborTest - 4 Depth

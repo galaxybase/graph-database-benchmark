@@ -1,0 +1,63 @@
+[2020-12-17 19:01:59] [INFO]	-- Start LPA
+[2020-12-17 19:03:48] [DEBUG]		1	Schedule: 100.00%	Time: 1m 48s 792ms 308us 656ns	Sample: [10]	Result {"version":{"edition":"developer","api":"v2","schema":0},"error":false,"message":"","results":[{"@@commSizes.size()":350694}]}
+[2020-12-17 19:03:48] [INFO]	-- Result Statistics
+[2020-12-17 19:03:48] [INFO]	minTime: 1m 48s 792ms 308us 656ns(108792.31ms)
+[2020-12-17 19:03:48] [INFO]	maxTime: 1m 48s 792ms 308us 656ns(108792.31ms)
+[2020-12-17 19:03:48] [INFO]	AvgTime: 1m 48s 792ms 308us 656ns(108792.31ms)
+[2020-12-17 19:03:48] [INFO]	P99: 1m 48s 792ms 308us 656ns(108792.31ms)
+[2020-12-17 19:03:48] [INFO]	P999: 1m 48s 792ms 308us 656ns(108792.31ms)
+[2020-12-17 19:03:48] [INFO]	Throughput: 0.01
+[2020-12-17 19:03:48] [INFO]	SuccessNum: 1
+[2020-12-17 19:03:48] [INFO]	SuccessRate: 100.00%
+[2020-12-17 19:03:48] [INFO]	ErrorNum: 0
+[2020-12-17 19:03:48] [INFO]	ErrorRate: 0.00%
+[2020-12-17 19:03:48] [INFO]	TimeoutNum: 0
+[2020-12-17 19:03:48] [INFO]	TimeoutRate: 0.00%
+[2020-12-17 19:03:48] [INFO]	-- End LPA
+[2020-12-17 19:03:48] [INFO]	-- Start LPA
+[2020-12-17 19:05:43] [DEBUG]		1	Schedule: 100.00%	Time: 1m 55s 223ms 537us 107ns	Sample: [10]	Result {"version":{"edition":"developer","api":"v2","schema":0},"error":false,"message":"","results":[{"@@commSizes.size()":350734}]}
+[2020-12-17 19:05:43] [INFO]	-- Result Statistics
+[2020-12-17 19:05:43] [INFO]	minTime: 1m 55s 223ms 537us 107ns(115223.54ms)
+[2020-12-17 19:05:43] [INFO]	maxTime: 1m 55s 223ms 537us 107ns(115223.54ms)
+[2020-12-17 19:05:43] [INFO]	AvgTime: 1m 55s 223ms 537us 107ns(115223.54ms)
+[2020-12-17 19:05:43] [INFO]	P99: 1m 55s 223ms 537us 107ns(115223.54ms)
+[2020-12-17 19:05:43] [INFO]	P999: 1m 55s 223ms 537us 107ns(115223.54ms)
+[2020-12-17 19:05:43] [INFO]	Throughput: 0.01
+[2020-12-17 19:05:43] [INFO]	SuccessNum: 1
+[2020-12-17 19:05:43] [INFO]	SuccessRate: 100.00%
+[2020-12-17 19:05:43] [INFO]	ErrorNum: 0
+[2020-12-17 19:05:43] [INFO]	ErrorRate: 0.00%
+[2020-12-17 19:05:43] [INFO]	TimeoutNum: 0
+[2020-12-17 19:05:43] [INFO]	TimeoutRate: 0.00%
+[2020-12-17 19:05:43] [INFO]	-- End LPA
+[2020-12-17 19:05:43] [INFO]	-- Start LPA
+[2020-12-17 19:07:42] [DEBUG]		1	Schedule: 100.00%	Time: 1m 58s 827ms 735us 308ns	Sample: [10]	Result {"version":{"edition":"developer","api":"v2","schema":0},"error":false,"message":"","results":[{"@@commSizes.size()":350854}]}
+[2020-12-17 19:07:42] [INFO]	-- Result Statistics
+[2020-12-17 19:07:42] [INFO]	minTime: 1m 58s 827ms 735us 308ns(118827.74ms)
+[2020-12-17 19:07:42] [INFO]	maxTime: 1m 58s 827ms 735us 308ns(118827.74ms)
+[2020-12-17 19:07:42] [INFO]	AvgTime: 1m 58s 827ms 735us 308ns(118827.74ms)
+[2020-12-17 19:07:42] [INFO]	P99: 1m 58s 827ms 735us 308ns(118827.74ms)
+[2020-12-17 19:07:42] [INFO]	P999: 1m 58s 827ms 735us 308ns(118827.74ms)
+[2020-12-17 19:07:42] [INFO]	Throughput: 0.01
+[2020-12-17 19:07:42] [INFO]	SuccessNum: 1
+[2020-12-17 19:07:42] [INFO]	SuccessRate: 100.00%
+[2020-12-17 19:07:42] [INFO]	ErrorNum: 0
+[2020-12-17 19:07:42] [INFO]	ErrorRate: 0.00%
+[2020-12-17 19:07:42] [INFO]	TimeoutNum: 0
+[2020-12-17 19:07:42] [INFO]	TimeoutRate: 0.00%
+[2020-12-17 19:07:42] [INFO]	-- End LPA
+[2020-12-17 19:07:42] [INFO]	***********************
+[2020-12-17 19:07:42] [INFO]	** Summary of LPA Test 2 - 3
+[2020-12-17 19:07:42] [INFO]	minTime: 1m 55s 223ms 537us 107ns(115223.54ms)
+[2020-12-17 19:07:42] [INFO]	maxTime: 1m 58s 827ms 735us 308ns(118827.74ms)
+[2020-12-17 19:07:42] [INFO]	AvgTime: 1m 57s 25ms 636us 207ns(117025.64ms)
+[2020-12-17 19:07:42] [INFO]	P99: 1m 58s 791ms 693us 325ns(118791.69ms)
+[2020-12-17 19:07:42] [INFO]	P999: 1m 58s 824ms 131us 109ns(118824.13ms)
+[2020-12-17 19:07:42] [INFO]	Throughput: 0.01
+[2020-12-17 19:07:42] [INFO]	SuccessNum: 2
+[2020-12-17 19:07:42] [INFO]	SuccessRate: 100.00%
+[2020-12-17 19:07:42] [INFO]	ErrorNum: 0
+[2020-12-17 19:07:42] [INFO]	ErrorRate: 0.00%
+[2020-12-17 19:07:42] [INFO]	TimeoutNum: 0
+[2020-12-17 19:07:42] [INFO]	TimeoutRate: 0.00%
+[2020-12-17 19:07:42] [INFO]	***********************

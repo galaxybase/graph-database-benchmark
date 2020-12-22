@@ -1,0 +1,11 @@
+[2020-12-15 11:17:14] [INFO]	-- Start KNeighbor3
+[2020-12-15 11:20:27] [DEBUG]		1	Schedule: 10.00%	Time: 3m 12s 98ms 533us 187ns	Sample: [20727483]	Result 18100211
+[2020-12-15 12:20:27] [DEBUG]		2	Schedule: 20.00%	Time: 1h 0m 0s 0ms 0us 14ns	Sample: [50329304]	Result Execute timeout!
+[2020-12-15 14:00:12] [DEBUG]		3	Schedule: 10.00%	Time: 1h 0m 0s 0ms 0us 4ns	Sample: [26199460]	Result Execute timeout!
+[2020-12-15 15:02:36] [DEBUG]		4	Schedule: 10.00%	Time: 1h 0m 0s 0ms 0us 15ns	Sample: [1177521]	Result Execute timeout!
+[2020-12-15 15:08:03] [DEBUG]		5	Schedule: 100.00%	Time: 13s 126ms 659us 624ns	Sample: [27960125]	Result 2022316
+[2020-12-15 11:51:15] [DEBUG]		6	Schedule: 20.00%	Time: 13m 53s 711ms 167us 678ns	Sample: [30440025]	Result 18571456
+[2020-12-15 12:51:15] [DEBUG]		7	Schedule: 40.00%	Time: 1h 0m 0s 0ms 0us 10ns	Sample: [15833920]	Result Execute timeout!
+[2020-12-15 14:02:57] [DEBUG]		8	Schedule: 20.00%	Time: 1h 0m 0s 0ms 0us 16ns	Sample: [15015183]	Result Execute timeout!
+[2020-12-15 15:04:54] [DEBUG]		9	Schedule: 20.00%	Time: 1h 0m 0s 0ms 0us 13ns	Sample: [33153097]	Result Execute timeout!
+[2020-12-15 16:09:44] [DEBUG]		10	Schedule: 100.00%	Time: 1h 0m 0s 0ms 0us 10ns	Sample: [21250581]	Result Execute timeout!

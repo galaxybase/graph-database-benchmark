@@ -1,0 +1,943 @@
+[2020-12-14 18:58:47] [INFO]	-- start KNeighbor2
+[2020-12-14 18:58:48] [DEBUG]		1	Schedule:  0.33%	Time: 935ms 157us 166ns	sample: [20727483]	Result 151934
+[2020-12-14 18:58:49] [DEBUG]		2	Schedule:  0.67%	Time: 1s 396ms 699us 644ns	sample: [50329304]	Result 533519
+[2020-12-14 18:59:34] [DEBUG]		3	Schedule:  1.00%	Time: 44s 444ms 460us 405ns	sample: [26199460]	Result 3428187
+[2020-12-14 18:59:53] [DEBUG]		4	Schedule:  1.33%	Time: 18s 845ms 958us 831ns	sample: [1177521]	Result 7405030
+[2020-12-14 18:59:53] [DEBUG]		5	Schedule:  1.67%	Time: 17ms 685us 277ns	sample: [27960125]	Result 1133
+[2020-12-14 18:59:53] [DEBUG]		6	Schedule:  2.00%	Time: 647ms 311us 812ns	sample: [30440025]	Result 300474
+[2020-12-14 18:59:59] [DEBUG]		7	Schedule:  2.33%	Time: 5s 865ms 804us 648ns	sample: [15833920]	Result 986106
+[2020-12-14 19:00:12] [DEBUG]		8	Schedule:  2.67%	Time: 13s 120ms 732us 900ns	sample: [15015183]	Result 2479167
+[2020-12-14 19:00:18] [DEBUG]		9	Schedule:  3.00%	Time: 5s 566ms 459us 938ns	sample: [33153097]	Result 2907740
+[2020-12-14 19:00:24] [DEBUG]		10	Schedule:  3.33%	Time: 5s 982ms 412us 509ns	sample: [21250581]	Result 2737914
+[2020-12-14 19:00:24] [DEBUG]		11	Schedule:  3.67%	Time: 12ms 619us 59ns	sample: [28548532]	Result 55
+[2020-12-14 19:00:25] [DEBUG]		12	Schedule:  4.00%	Time: 1s 556ms 152us 374ns	sample: [42860945]	Result 652848
+[2020-12-14 19:00:38] [DEBUG]		13	Schedule:  4.33%	Time: 12s 553ms 230us 163ns	sample: [22171728]	Result 3118357
+[2020-12-14 19:00:58] [DEBUG]		14	Schedule:  4.67%	Time: 19s 814ms 965us 141ns	sample: [15254388]	Result 2035009
+[2020-12-14 19:01:01] [DEBUG]		15	Schedule:  5.00%	Time: 3s 119ms 277us 644ns	sample: [44713775]	Result 630022
+[2020-12-14 19:01:01] [DEBUG]		16	Schedule:  5.33%	Time: 22ms 827us 834ns	sample: [44868770]	Result 874
+[2020-12-14 19:01:02] [DEBUG]		17	Schedule:  5.67%	Time: 1s 393ms 627us 814ns	sample: [16350915]	Result 535362
+[2020-12-14 19:01:02] [DEBUG]		18	Schedule:  6.00%	Time: 23ms 644us 946ns	sample: [33650477]	Result 644
+[2020-12-14 19:01:02] [DEBUG]		19	Schedule:  6.33%	Time: 16ms 276us 768ns	sample: [56847735]	Result 240
+[2020-12-14 19:01:17] [DEBUG]		20	Schedule:  6.67%	Time: 14s 347ms 207us 176ns	sample: [18056455]	Result 4201215
+[2020-12-14 19:01:20] [DEBUG]		21	Schedule:  7.00%	Time: 2s 936ms 816us 325ns	sample: [32831346]	Result 1649321
+[2020-12-14 19:01:20] [DEBUG]		22	Schedule:  7.33%	Time: 14ms 136us 777ns	sample: [56969867]	Result 2055
+[2020-12-14 19:01:29] [DEBUG]		23	Schedule:  7.67%	Time: 9s 26ms 418us 732ns	sample: [73483]	Result 4357589
+[2020-12-14 19:01:29] [DEBUG]		24	Schedule:  8.00%	Time: 147ms 405us 967ns	sample: [24981801]	Result 66110
+[2020-12-14 19:01:38] [DEBUG]		25	Schedule:  8.33%	Time: 8s 926ms 629us 832ns	sample: [25726723]	Result 2203532
+[2020-12-14 19:01:38] [DEBUG]		26	Schedule:  8.67%	Time: 12ms 282us 530ns	sample: [59109778]	Result 948
+[2020-12-14 19:01:39] [DEBUG]		27	Schedule:  9.00%	Time: 914ms 741us 123ns	sample: [18381650]	Result 417331
+[2020-12-14 19:01:49] [DEBUG]		28	Schedule:  9.33%	Time: 9s 798ms 178us 362ns	sample: [8467712]	Result 4875224
+[2020-12-14 19:01:49] [DEBUG]		29	Schedule:  9.67%	Time: 147ms 14us 602ns	sample: [29781057]	Result 96427
+[2020-12-14 19:01:49] [DEBUG]		30	Schedule:  10.00%	Time: 214ms 156us 175ns	sample: [37886317]	Result 140638
+[2020-12-14 19:01:49] [DEBUG]		31	Schedule:  10.33%	Time: 20ms 336us 949ns	sample: [39357186]	Result 380
+[2020-12-14 19:01:49] [DEBUG]		32	Schedule:  10.67%	Time: 13ms 926us 854ns	sample: [42520611]	Result 576
+[2020-12-14 19:02:14] [DEBUG]		33	Schedule:  11.00%	Time: 25s 325ms 297us 157ns	sample: [28471398]	Result 2008054
+[2020-12-14 19:02:22] [DEBUG]		34	Schedule:  11.33%	Time: 8s 224ms 540us 146ns	sample: [1288371]	Result 2299350
+[2020-12-14 19:02:25] [DEBUG]		35	Schedule:  11.67%	Time: 2s 243ms 118us 393ns	sample: [44112249]	Result 640550
+[2020-12-14 19:02:25] [DEBUG]		36	Schedule:  12.00%	Time: 367ms 951us 974ns	sample: [29088897]	Result 162087
+[2020-12-14 19:02:25] [DEBUG]		37	Schedule:  12.33%	Time: 20ms 825us 158ns	sample: [15568898]	Result 1406
+[2020-12-14 19:02:59] [DEBUG]		38	Schedule:  12.67%	Time: 34s 112ms 625us 936ns	sample: [25038085]	Result 6813856
+[2020-12-14 19:05:53] [DEBUG]		39	Schedule:  13.00%	Time: 2m 54s 133ms 536us 551ns	sample: [14075928]	Result 17848722
+[2020-12-14 19:05:53] [DEBUG]		40	Schedule:  13.33%	Time: 51ms 893us 8ns	sample: [96]	Result 36915
+[2020-12-14 19:05:53] [DEBUG]		41	Schedule:  13.67%	Time: 18ms 960us 392ns	sample: [31835375]	Result 526
+[2020-12-14 19:05:54] [DEBUG]		42	Schedule:  14.00%	Time: 306ms 447us 762ns	sample: [22480457]	Result 167221
+[2020-12-14 19:07:58] [DEBUG]		43	Schedule:  14.33%	Time: 2m 4s 555ms 250us 125ns	sample: [27104736]	Result 17366131
+[2020-12-14 19:07:58] [DEBUG]		44	Schedule:  14.67%	Time: 163ms 683us 165ns	sample: [22687463]	Result 84826
+[2020-12-14 19:08:14] [DEBUG]		45	Schedule:  15.00%	Time: 15s 430ms 620us 558ns	sample: [27576832]	Result 5084068
+[2020-12-14 19:08:26] [DEBUG]		46	Schedule:  15.33%	Time: 12s 440ms 538us 48ns	sample: [108]	Result 5470639
+[2020-12-14 19:08:26] [DEBUG]		47	Schedule:  15.67%	Time: 9ms 88us 838ns	sample: [35792763]	Result 220
+[2020-12-14 19:08:33] [DEBUG]		48	Schedule:  16.00%	Time: 6s 257ms 430us 246ns	sample: [21373148]	Result 3520599
+[2020-12-14 19:09:39] [DEBUG]		49	Schedule:  16.33%	Time: 1m 6s 150ms 887us 859ns	sample: [15234546]	Result 11830609
+[2020-12-14 19:10:08] [DEBUG]		50	Schedule:  16.67%	Time: 29s 572ms 797us 488ns	sample: [14379717]	Result 2171482
+[2020-12-14 19:10:08] [DEBUG]		51	Schedule:  17.00%	Time: 19ms 119us 891ns	sample: [42744015]	Result 285
+[2020-12-14 19:10:09] [DEBUG]		52	Schedule:  17.33%	Time: 540ms 681us 219ns	sample: [16927373]	Result 301751
+[2020-12-14 19:12:49] [DEBUG]		53	Schedule:  17.67%	Time: 2m 39s 872ms 423us 212ns	sample: [16727535]	Result 18549899
+[2020-12-14 19:12:49] [DEBUG]		54	Schedule:  18.00%	Time: 12ms 141us 693ns	sample: [51520097]	Result 774
+[2020-12-14 19:12:49] [DEBUG]		55	Schedule:  18.33%	Time: 33ms 156us 92ns	sample: [15078404]	Result 11608
+[2020-12-14 19:12:53] [DEBUG]		56	Schedule:  18.67%	Time: 3s 846ms 447us 461ns	sample: [14199173]	Result 1942917
+[2020-12-14 19:12:55] [DEBUG]		57	Schedule:  19.00%	Time: 2s 453ms 301us 993ns	sample: [4517721]	Result 1265066
+[2020-12-14 19:13:08] [DEBUG]		58	Schedule:  19.33%	Time: 12s 966ms 135us 197ns	sample: [17323985]	Result 5754628
+[2020-12-14 19:13:25] [DEBUG]		59	Schedule:  19.67%	Time: 16s 709ms 294us 708ns	sample: [18218033]	Result 5018933
+[2020-12-14 19:13:26] [DEBUG]		60	Schedule:  20.00%	Time: 1s 661ms 564us 503ns	sample: [21828142]	Result 1086907
+[2020-12-14 19:13:26] [DEBUG]		61	Schedule:  20.33%	Time: 9ms 910us 608ns	sample: [52674447]	Result 410
+[2020-12-14 19:15:28] [DEBUG]		62	Schedule:  20.67%	Time: 2m 1s 567ms 120us 951ns	sample: [15285305]	Result 13340121
+[2020-12-14 19:15:28] [DEBUG]		63	Schedule:  21.00%	Time: 53ms 3us 891ns	sample: [45827167]	Result 23733
+[2020-12-14 19:15:28] [DEBUG]		64	Schedule:  21.33%	Time: 13ms 269us 126ns	sample: [50826077]	Result 266
+[2020-12-14 19:15:34] [DEBUG]		65	Schedule:  21.67%	Time: 5s 795ms 733us 291ns	sample: [54064328]	Result 751055
+[2020-12-14 19:15:49] [DEBUG]		66	Schedule:  22.00%	Time: 15s 504ms 594us 513ns	sample: [6941]	Result 6500866
+[2020-12-14 19:15:49] [DEBUG]		67	Schedule:  22.33%	Time: 71ms 566us 24ns	sample: [33586608]	Result 42812
+[2020-12-14 19:15:50] [DEBUG]		68	Schedule:  22.67%	Time: 275ms 614us 995ns	sample: [204]	Result 185191
+[2020-12-14 19:15:50] [DEBUG]		69	Schedule:  23.00%	Time: 16ms 607us 693ns	sample: [22716284]	Result 5128
+[2020-12-14 19:15:50] [DEBUG]		70	Schedule:  23.33%	Time: 71ms 554us 109ns	sample: [34386420]	Result 26422
+[2020-12-14 19:15:50] [DEBUG]		71	Schedule:  23.67%	Time: 19ms 497us 225ns	sample: [36187082]	Result 555
+[2020-12-14 19:16:11] [DEBUG]		72	Schedule:  24.00%	Time: 21s 305ms 45us 502ns	sample: [31239408]	Result 6299637
+[2020-12-14 19:16:16] [DEBUG]		73	Schedule:  24.33%	Time: 4s 521ms 172us 324ns	sample: [40316879]	Result 2179417
+[2020-12-14 19:17:50] [DEBUG]		74	Schedule:  24.67%	Time: 1m 34s 230ms 103us 117ns	sample: [10667662]	Result 12296204
+[2020-12-14 19:18:06] [DEBUG]		75	Schedule:  25.00%	Time: 15s 808ms 273us 173ns	sample: [46517052]	Result 1437842
+[2020-12-14 19:18:59] [DEBUG]		76	Schedule:  25.33%	Time: 53s 406ms 109us 23ns	sample: [24523660]	Result 10078129
+[2020-12-14 19:19:22] [DEBUG]		77	Schedule:  25.67%	Time: 22s 650ms 218us 138ns	sample: [14521821]	Result 8408072
+[2020-12-14 19:19:46] [DEBUG]		78	Schedule:  26.00%	Time: 24s 176ms 664us 474ns	sample: [18548221]	Result 9016503
+[2020-12-14 19:19:46] [DEBUG]		79	Schedule:  26.33%	Time: 20ms 988us 919ns	sample: [41496166]	Result 9682
+[2020-12-14 19:19:47] [DEBUG]		80	Schedule:  26.67%	Time: 769ms 944us 568ns	sample: [27104314]	Result 375568
+[2020-12-14 19:19:50] [DEBUG]		81	Schedule:  27.00%	Time: 3s 291ms 161us 698ns	sample: [27654423]	Result 658949
+[2020-12-14 19:20:00] [DEBUG]		82	Schedule:  27.33%	Time: 9s 821ms 722us 518ns	sample: [1685871]	Result 2517334
+[2020-12-14 19:20:00] [DEBUG]		83	Schedule:  27.67%	Time: 45ms 811us 476ns	sample: [23184686]	Result 28118
+[2020-12-14 19:20:17] [DEBUG]		84	Schedule:  28.00%	Time: 17s 461ms 384us 510ns	sample: [23994973]	Result 1752284
+[2020-12-14 19:20:17] [DEBUG]		85	Schedule:  28.33%	Time: 8ms 315us 771ns	sample: [60312372]	Result 297
+[2020-12-14 19:20:39] [DEBUG]		86	Schedule:  28.67%	Time: 21s 388ms 484us 252ns	sample: [8610562]	Result 5284437
+[2020-12-14 19:20:56] [DEBUG]		87	Schedule:  29.00%	Time: 17s 606ms 135us 875ns	sample: [38978212]	Result 1752050
+[2020-12-14 19:21:59] [DEBUG]		88	Schedule:  29.33%	Time: 1m 2s 364ms 541us 255ns	sample: [19740592]	Result 10917444
+[2020-12-14 19:22:08] [DEBUG]		89	Schedule:  29.67%	Time: 9s 82ms 439us 488ns	sample: [18803424]	Result 1071142
+[2020-12-14 19:22:09] [DEBUG]		90	Schedule:  30.00%	Time: 1s 75ms 876us 895ns	sample: [30395784]	Result 399589
+[2020-12-14 19:22:09] [DEBUG]		91	Schedule:  30.33%	Time: 7ms 26us 297ns	sample: [35908081]	Result 68
+[2020-12-14 19:22:24] [DEBUG]		92	Schedule:  30.67%	Time: 15s 478ms 756us 482ns	sample: [21156271]	Result 7075771
+[2020-12-14 19:22:27] [DEBUG]		93	Schedule:  31.00%	Time: 2s 838ms 177us 904ns	sample: [20530182]	Result 527655
+[2020-12-14 19:22:28] [DEBUG]		94	Schedule:  31.33%	Time: 686ms 47us 115ns	sample: [23378124]	Result 226551
+[2020-12-14 19:22:38] [DEBUG]		95	Schedule:  31.67%	Time: 10s 11ms 192us 499ns	sample: [29830423]	Result 1904744
+[2020-12-14 19:22:54] [DEBUG]		96	Schedule:  32.00%	Time: 15s 615ms 437us 438ns	sample: [44304625]	Result 1652760
+[2020-12-14 19:22:56] [DEBUG]		97	Schedule:  32.33%	Time: 2s 410ms 963us 379ns	sample: [28830907]	Result 1208645
+[2020-12-14 19:22:56] [DEBUG]		98	Schedule:  32.67%	Time: 11ms 533us 837ns	sample: [31180323]	Result 3706
+[2020-12-14 19:22:59] [DEBUG]		99	Schedule:  33.00%	Time: 2s 994ms 209us 293ns	sample: [17998925]	Result 710055
+[2020-12-14 19:23:05] [DEBUG]		100	Schedule:  33.33%	Time: 6s 375ms 126us 907ns	sample: [46822485]	Result 976476
+[2020-12-14 19:23:05] [DEBUG]		101	Schedule:  33.67%	Time: 23ms 197us 641ns	sample: [42240052]	Result 4236
+[2020-12-14 19:23:05] [DEBUG]		102	Schedule:  34.00%	Time: 9ms 858us 789ns	sample: [45193938]	Result 1066
+[2020-12-14 19:23:05] [DEBUG]		103	Schedule:  34.33%	Time: 109ms 342us 889ns	sample: [53758197]	Result 78304
+[2020-12-14 19:24:03] [DEBUG]		104	Schedule:  34.67%	Time: 57s 916ms 568us 730ns	sample: [20460235]	Result 9817198
+[2020-12-14 19:24:03] [DEBUG]		105	Schedule:  35.00%	Time: 8ms 932us 462ns	sample: [52923055]	Result 976
+[2020-12-14 19:25:52] [DEBUG]		106	Schedule:  35.33%	Time: 1m 48s 363ms 107us 411ns	sample: [16129920]	Result 15760516
+[2020-12-14 19:26:01] [DEBUG]		107	Schedule:  35.67%	Time: 8s 960ms 978us 463ns	sample: [15214045]	Result 1822798
+[2020-12-14 19:26:01] [DEBUG]		108	Schedule:  36.00%	Time: 7ms 259us 526ns	sample: [19109927]	Result 18
+[2020-12-14 19:26:20] [DEBUG]		109	Schedule:  36.33%	Time: 18s 878ms 988us 222ns	sample: [15917338]	Result 4471358
+[2020-12-14 19:27:43] [DEBUG]		110	Schedule:  36.67%	Time: 1m 23s 198ms 996us 99ns	sample: [27457788]	Result 14389832
+[2020-12-14 19:27:43] [DEBUG]		111	Schedule:  37.00%	Time: 406ms 142us 878ns	sample: [38631864]	Result 83068
+[2020-12-14 19:27:43] [DEBUG]		112	Schedule:  37.33%	Time: 18ms 326us 29ns	sample: [50808075]	Result 319
+[2020-12-14 19:28:10] [DEBUG]		113	Schedule:  37.67%	Time: 26s 931ms 283us 923ns	sample: [19130449]	Result 4373154
+[2020-12-14 19:28:12] [DEBUG]		114	Schedule:  38.00%	Time: 1s 360ms 726us 922ns	sample: [11015592]	Result 553825
+[2020-12-14 19:28:39] [DEBUG]		115	Schedule:  38.33%	Time: 27s 217ms 683us 873ns	sample: [24777262]	Result 8058690
+[2020-12-14 19:28:55] [DEBUG]		116	Schedule:  38.67%	Time: 16s 456ms 358us 10ns	sample: [14127710]	Result 3425398
+[2020-12-14 19:28:55] [DEBUG]		117	Schedule:  39.00%	Time: 13ms 154us 164ns	sample: [28570061]	Result 226
+[2020-12-14 19:28:59] [DEBUG]		118	Schedule:  39.33%	Time: 3s 759ms 862us 694ns	sample: [29941438]	Result 1975831
+[2020-12-14 19:29:01] [DEBUG]		119	Schedule:  39.67%	Time: 1s 704ms 732us 992ns	sample: [15423869]	Result 1076862
+[2020-12-14 19:29:21] [DEBUG]		120	Schedule:  40.00%	Time: 20s 90ms 329us 977ns	sample: [20804997]	Result 6386803
+[2020-12-14 19:29:28] [DEBUG]		121	Schedule:  40.33%	Time: 7s 520ms 578us 831ns	sample: [22667467]	Result 3991574
+[2020-12-14 19:30:21] [DEBUG]		122	Schedule:  40.67%	Time: 52s 444ms 923us 377ns	sample: [26589987]	Result 9251394
+[2020-12-14 19:30:21] [DEBUG]		123	Schedule:  41.00%	Time: 15ms 147us 679ns	sample: [45114047]	Result 181
+[2020-12-14 19:32:19] [DEBUG]		124	Schedule:  41.33%	Time: 1m 58s 241ms 855us 968ns	sample: [18087450]	Result 12177699
+[2020-12-14 19:32:20] [DEBUG]		125	Schedule:  41.67%	Time: 1s 428ms 938us 825ns	sample: [961081]	Result 326089
+[2020-12-14 19:33:24] [DEBUG]		126	Schedule:  42.00%	Time: 1m 3s 935ms 105us 522ns	sample: [14231321]	Result 10280760
+[2020-12-14 19:33:29] [DEBUG]		127	Schedule:  42.33%	Time: 4s 924ms 470us 366ns	sample: [14050138]	Result 2754252
+[2020-12-14 19:33:35] [DEBUG]		128	Schedule:  42.67%	Time: 6s 131ms 483us 332ns	sample: [22742142]	Result 3224990
+[2020-12-14 19:34:32] [DEBUG]		129	Schedule:  43.00%	Time: 56s 379ms 566us 392ns	sample: [36412963]	Result 12163072
+[2020-12-14 19:34:42] [DEBUG]		130	Schedule:  43.33%	Time: 10s 297ms 948us 117ns	sample: [6444062]	Result 4565989
+[2020-12-14 19:34:42] [DEBUG]		131	Schedule:  43.67%	Time: 141ms 941us 471ns	sample: [41608888]	Result 89423
+[2020-12-14 19:35:03] [DEBUG]		132	Schedule:  44.00%	Time: 20s 292ms 522us 874ns	sample: [15492329]	Result 1569474
+[2020-12-14 19:36:21] [DEBUG]		133	Schedule:  44.33%	Time: 1m 18s 550ms 431us 379ns	sample: [19632867]	Result 8527394
+[2020-12-14 19:36:21] [DEBUG]		134	Schedule:  44.67%	Time: 102ms 614us 634ns	sample: [20194683]	Result 66895
+[2020-12-14 19:36:35] [DEBUG]		135	Schedule:  45.00%	Time: 14s 74ms 81us 88ns	sample: [22286431]	Result 3729163
+[2020-12-14 19:36:57] [DEBUG]		136	Schedule:  45.33%	Time: 22s 99ms 226us 730ns	sample: [27558050]	Result 6525787
+[2020-12-14 19:38:12] [DEBUG]		137	Schedule:  45.67%	Time: 1m 14s 295ms 779us 515ns	sample: [5120691]	Result 13244312
+[2020-12-14 19:38:12] [DEBUG]		138	Schedule:  46.00%	Time: 16ms 565us 824ns	sample: [48570598]	Result 182
+[2020-12-14 19:38:19] [DEBUG]		139	Schedule:  46.33%	Time: 7s 501ms 825us 96ns	sample: [48459607]	Result 1917418
+[2020-12-14 19:38:31] [DEBUG]		140	Schedule:  46.67%	Time: 11s 476ms 920us 438ns	sample: [38407885]	Result 3003048
+[2020-12-14 19:38:32] [DEBUG]		141	Schedule:  47.00%	Time: 1s 80ms 749us 279ns	sample: [23686306]	Result 451242
+[2020-12-14 19:38:32] [DEBUG]		142	Schedule:  47.33%	Time: 280ms 550us 918ns	sample: [44807976]	Result 165146
+[2020-12-14 19:38:38] [DEBUG]		143	Schedule:  47.67%	Time: 5s 776ms 487us 737ns	sample: [17129374]	Result 3341523
+[2020-12-14 19:38:50] [DEBUG]		144	Schedule:  48.00%	Time: 12s 133ms 756us 511ns	sample: [1775731]	Result 4874742
+[2020-12-14 19:38:50] [DEBUG]		145	Schedule:  48.33%	Time: 237ms 516us 765ns	sample: [17872794]	Result 162057
+[2020-12-14 19:38:50] [DEBUG]		146	Schedule:  48.67%	Time: 15ms 101us 555ns	sample: [54491514]	Result 818
+[2020-12-14 19:39:31] [DEBUG]		147	Schedule:  49.00%	Time: 41s 254ms 406us 208ns	sample: [18812795]	Result 7676273
+[2020-12-14 19:39:31] [DEBUG]		148	Schedule:  49.33%	Time: 15ms 959us 807ns	sample: [37479006]	Result 301
+[2020-12-14 19:39:31] [DEBUG]		149	Schedule:  49.67%	Time: 15ms 292us 665ns	sample: [22281042]	Result 304
+[2020-12-14 19:39:47] [DEBUG]		150	Schedule:  50.00%	Time: 15s 187ms 654us 837ns	sample: [26116046]	Result 2121317
+[2020-12-14 19:39:47] [DEBUG]		151	Schedule:  50.33%	Time: 14ms 199us 119ns	sample: [20841950]	Result 4908
+[2020-12-14 19:40:09] [DEBUG]		152	Schedule:  50.67%	Time: 22s 263ms 916us 46ns	sample: [30244121]	Result 3301161
+[2020-12-14 19:40:22] [DEBUG]		153	Schedule:  51.00%	Time: 13s 213ms 344us 710ns	sample: [14854462]	Result 4155274
+[2020-12-14 19:41:14] [DEBUG]		154	Schedule:  51.33%	Time: 51s 904ms 573us 327ns	sample: [618593]	Result 13697864
+[2020-12-14 19:41:17] [DEBUG]		155	Schedule:  51.67%	Time: 2s 534ms 796us 649ns	sample: [19644074]	Result 929825
+[2020-12-14 19:41:17] [DEBUG]		156	Schedule:  52.00%	Time: 220ms 334us 194ns	sample: [15735493]	Result 117039
+[2020-12-14 19:41:29] [DEBUG]		157	Schedule:  52.33%	Time: 11s 711ms 110us 305ns	sample: [43283406]	Result 4295130
+[2020-12-14 19:41:29] [DEBUG]		158	Schedule:  52.67%	Time: 40ms 559us 919ns	sample: [24800750]	Result 28037
+[2020-12-14 19:41:33] [DEBUG]		159	Schedule:  53.00%	Time: 4s 706ms 125us 447ns	sample: [22872869]	Result 2170594
+[2020-12-14 19:42:30] [DEBUG]		160	Schedule:  53.33%	Time: 56s 861ms 48us 415ns	sample: [20067354]	Result 10951509
+[2020-12-14 19:42:30] [DEBUG]		161	Schedule:  53.67%	Time: 21ms 258us 993ns	sample: [15247448]	Result 12163
+[2020-12-14 19:42:33] [DEBUG]		162	Schedule:  54.00%	Time: 2s 987ms 848us 490ns	sample: [20912620]	Result 1830666
+[2020-12-14 19:43:03] [DEBUG]		163	Schedule:  54.33%	Time: 30s 101ms 359us 803ns	sample: [20590051]	Result 5946038
+[2020-12-14 19:43:21] [DEBUG]		164	Schedule:  54.67%	Time: 17s 556ms 953us 958ns	sample: [14137268]	Result 4562233
+[2020-12-14 19:43:21] [DEBUG]		165	Schedule:  55.00%	Time: 6ms 493us 161ns	sample: [20143330]	Result 47
+[2020-12-14 19:43:54] [DEBUG]		166	Schedule:  55.33%	Time: 33s 301ms 473us 93ns	sample: [18112970]	Result 8811078
+[2020-12-14 19:43:56] [DEBUG]		167	Schedule:  55.67%	Time: 2s 308ms 285us 289ns	sample: [17100967]	Result 1109707
+[2020-12-14 19:44:20] [DEBUG]		168	Schedule:  56.00%	Time: 23s 522ms 59us 756ns	sample: [16732759]	Result 5862549
+[2020-12-14 19:44:20] [DEBUG]		169	Schedule:  56.33%	Time: 13ms 319us 535ns	sample: [54466171]	Result 3864
+[2020-12-14 19:44:20] [DEBUG]		170	Schedule:  56.67%	Time: 6ms 904us 75ns	sample: [52802702]	Result 108
+[2020-12-14 19:44:34] [DEBUG]		171	Schedule:  57.00%	Time: 14s 402ms 140us 778ns	sample: [20373034]	Result 3230472
+[2020-12-14 19:44:34] [DEBUG]		172	Schedule:  57.33%	Time: 8ms 41us 583ns	sample: [32765375]	Result 133
+[2020-12-14 19:44:38] [DEBUG]		173	Schedule:  57.67%	Time: 3s 699ms 736us 770ns	sample: [24812106]	Result 1888077
+[2020-12-14 19:44:39] [DEBUG]		174	Schedule:  58.00%	Time: 515ms 577us 354ns	sample: [11894652]	Result 299379
+[2020-12-14 19:44:39] [DEBUG]		175	Schedule:  58.33%	Time: 19ms 543us 799ns	sample: [51370393]	Result 1848
+[2020-12-14 19:45:10] [DEBUG]		176	Schedule:  58.67%	Time: 31s 538ms 865us 501ns	sample: [3943871]	Result 7603798
+[2020-12-14 19:45:13] [DEBUG]		177	Schedule:  59.00%	Time: 2s 692ms 830us 421ns	sample: [53469420]	Result 560740
+[2020-12-14 19:46:15] [DEBUG]		178	Schedule:  59.33%	Time: 1m 2s 17ms 868us 829ns	sample: [14761795]	Result 12162243
+[2020-12-14 19:46:18] [DEBUG]		179	Schedule:  59.67%	Time: 3s 24ms 214us 326ns	sample: [365]	Result 1473196
+[2020-12-14 19:46:18] [DEBUG]		180	Schedule:  60.00%	Time: 471ms 112us 343ns	sample: [46304581]	Result 37288
+[2020-12-14 19:46:23] [DEBUG]		181	Schedule:  60.33%	Time: 4s 753ms 851us 683ns	sample: [3032431]	Result 1338109
+[2020-12-14 19:46:39] [DEBUG]		182	Schedule:  60.67%	Time: 15s 611ms 295us 387ns	sample: [20977546]	Result 7230370
+[2020-12-14 19:46:39] [DEBUG]		183	Schedule:  61.00%	Time: 7ms 390us 950ns	sample: [21099347]	Result 884
+[2020-12-14 19:46:39] [DEBUG]		184	Schedule:  61.33%	Time: 173ms 429us 564ns	sample: [42399917]	Result 111163
+[2020-12-14 19:46:46] [DEBUG]		185	Schedule:  61.67%	Time: 7s 217ms 963us 719ns	sample: [796766]	Result 3274183
+[2020-12-14 19:46:47] [DEBUG]		186	Schedule:  62.00%	Time: 568ms 565us 651ns	sample: [8909522]	Result 89658
+[2020-12-14 19:46:47] [DEBUG]		187	Schedule:  62.33%	Time: 64ms 606us 83ns	sample: [16460768]	Result 48077
+[2020-12-14 19:46:47] [DEBUG]		188	Schedule:  62.67%	Time: 75ms 628us 107ns	sample: [9121432]	Result 41495
+[2020-12-14 19:48:24] [DEBUG]		189	Schedule:  63.00%	Time: 1m 37s 525ms 765us 987ns	sample: [17919972]	Result 15858813
+[2020-12-14 19:48:24] [DEBUG]		190	Schedule:  63.33%	Time: 18ms 800us 132ns	sample: [56643711]	Result 7340
+[2020-12-14 19:48:32] [DEBUG]		191	Schedule:  63.67%	Time: 7s 297ms 417us 962ns	sample: [19226267]	Result 3019884
+[2020-12-14 19:48:32] [DEBUG]		192	Schedule:  64.00%	Time: 699ms 619us 124ns	sample: [13221862]	Result 180028
+[2020-12-14 19:48:32] [DEBUG]		193	Schedule:  64.33%	Time: 105ms 616us 65ns	sample: [41259823]	Result 64428
+[2020-12-14 19:48:35] [DEBUG]		194	Schedule:  64.67%	Time: 2s 429ms 930us 427ns	sample: [28466425]	Result 693969
+[2020-12-14 19:49:02] [DEBUG]		195	Schedule:  65.00%	Time: 26s 748ms 994us 653ns	sample: [31806999]	Result 3437045
+[2020-12-14 19:49:54] [DEBUG]		196	Schedule:  65.33%	Time: 51s 949ms 633us 347ns	sample: [759251]	Result 12677623
+[2020-12-14 19:49:54] [DEBUG]		197	Schedule:  65.67%	Time: 35ms 24us 385ns	sample: [59550897]	Result 7887
+[2020-12-14 19:49:54] [DEBUG]		198	Schedule:  66.00%	Time: 35ms 46us 78ns	sample: [22422221]	Result 12026
+[2020-12-14 19:49:54] [DEBUG]		199	Schedule:  66.33%	Time: 12ms 31us 215ns	sample: [14662772]	Result 4464
+[2020-12-14 19:50:40] [DEBUG]		200	Schedule:  66.67%	Time: 46s 430ms 918us 429ns	sample: [15935591]	Result 8010419
+[2020-12-14 19:50:40] [DEBUG]		201	Schedule:  67.00%	Time: 322ms 196us 426ns	sample: [36072333]	Result 207050
+[2020-12-14 19:50:44] [DEBUG]		202	Schedule:  67.33%	Time: 3s 693ms 784us 590ns	sample: [14669432]	Result 2028210
+[2020-12-14 19:50:57] [DEBUG]		203	Schedule:  67.67%	Time: 12s 551ms 939us 996ns	sample: [14235317]	Result 4019937
+[2020-12-14 19:50:57] [DEBUG]		204	Schedule:  68.00%	Time: 7ms 409us 585ns	sample: [46587124]	Result 1287
+[2020-12-14 19:51:03] [DEBUG]		205	Schedule:  68.33%	Time: 6s 206ms 541us 901ns	sample: [33497221]	Result 1185713
+[2020-12-14 19:51:03] [DEBUG]		206	Schedule:  68.67%	Time: 6ms 598us 337ns	sample: [41173269]	Result 80
+[2020-12-14 19:51:05] [DEBUG]		207	Schedule:  69.00%	Time: 2s 468ms 850us 576ns	sample: [14462907]	Result 1459851
+[2020-12-14 19:51:31] [DEBUG]		208	Schedule:  69.33%	Time: 26s 31ms 238us 829ns	sample: [15922433]	Result 10023652
+[2020-12-14 19:51:32] [DEBUG]		209	Schedule:  69.67%	Time: 130ms 398us 425ns	sample: [22046932]	Result 81872
+[2020-12-14 19:52:07] [DEBUG]		210	Schedule:  70.00%	Time: 35s 22ms 841us 881ns	sample: [8069572]	Result 10002360
+[2020-12-14 19:52:10] [DEBUG]		211	Schedule:  70.33%	Time: 3s 60ms 631us 63ns	sample: [17073811]	Result 1282451
+[2020-12-14 19:53:19] [DEBUG]		212	Schedule:  70.67%	Time: 1m 9s 774ms 758us 126ns	sample: [19571299]	Result 12864103
+[2020-12-14 19:54:23] [DEBUG]		213	Schedule:  71.00%	Time: 1m 3s 619ms 386us 541ns	sample: [23922282]	Result 12648996
+[2020-12-14 19:54:24] [DEBUG]		214	Schedule:  71.33%	Time: 909ms 881us 863ns	sample: [37975089]	Result 386109
+[2020-12-14 19:54:31] [DEBUG]		215	Schedule:  71.67%	Time: 6s 892ms 663us 990ns	sample: [71123]	Result 3388726
+[2020-12-14 19:54:46] [DEBUG]		216	Schedule:  72.00%	Time: 15s 274ms 327us 503ns	sample: [13141932]	Result 6517724
+[2020-12-14 19:55:47] [DEBUG]		217	Schedule:  72.33%	Time: 1m 1s 26ms 917us 32ns	sample: [26784273]	Result 10493653
+[2020-12-14 19:55:54] [DEBUG]		218	Schedule:  72.67%	Time: 6s 689ms 492us 925ns	sample: [11172992]	Result 3092772
+[2020-12-14 19:55:54] [DEBUG]		219	Schedule:  73.00%	Time: 129ms 810us 900ns	sample: [23718349]	Result 106662
+[2020-12-14 19:56:00] [DEBUG]		220	Schedule:  73.33%	Time: 5s 609ms 341us 646ns	sample: [43097584]	Result 815290
+[2020-12-14 19:56:46] [DEBUG]		221	Schedule:  73.67%	Time: 46s 582ms 226us 782ns	sample: [19829645]	Result 10505576
+[2020-12-14 19:58:50] [DEBUG]		222	Schedule:  74.00%	Time: 2m 4s 150ms 273us 632ns	sample: [25365536]	Result 15418835
+[2020-12-14 19:58:53] [DEBUG]		223	Schedule:  74.33%	Time: 2s 532ms 310us 774ns	sample: [41213114]	Result 590
+[2020-12-14 19:58:54] [DEBUG]		224	Schedule:  74.67%	Time: 837ms 783us 294ns	sample: [15683302]	Result 419965
+[2020-12-14 19:59:00] [DEBUG]		225	Schedule:  75.00%	Time: 6s 263ms 150us 705ns	sample: [19867432]	Result 996184
+[2020-12-14 19:59:00] [DEBUG]		226	Schedule:  75.33%	Time: 6ms 773us 336ns	sample: [27923061]	Result 502
+[2020-12-14 20:00:54] [DEBUG]		227	Schedule:  75.67%	Time: 1m 54s 190ms 572us 2ns	sample: [20536157]	Result 15344860
+[2020-12-14 20:02:19] [DEBUG]		228	Schedule:  76.00%	Time: 1m 24s 561ms 984us 542ns	sample: [14610275]	Result 7785487
+[2020-12-14 20:03:06] [DEBUG]		229	Schedule:  76.33%	Time: 46s 837ms 909us 995ns	sample: [32959253]	Result 9480950
+[2020-12-14 20:03:31] [DEBUG]		230	Schedule:  76.67%	Time: 25s 506ms 687us 392ns	sample: [1045141]	Result 9779302
+[2020-12-14 20:03:31] [DEBUG]		231	Schedule:  77.00%	Time: 11ms 652us 505ns	sample: [39940849]	Result 2345
+[2020-12-14 20:03:37] [DEBUG]		232	Schedule:  77.33%	Time: 5s 731ms 578us 256ns	sample: [26591593]	Result 3187018
+[2020-12-14 20:05:16] [DEBUG]		233	Schedule:  77.67%	Time: 1m 38s 827ms 27us 173ns	sample: [14293310]	Result 15703553
+[2020-12-14 20:05:16] [DEBUG]		234	Schedule:  78.00%	Time: 7ms 837us 675ns	sample: [26149262]	Result 80
+[2020-12-14 20:05:16] [DEBUG]		235	Schedule:  78.33%	Time: 32ms 734us 166ns	sample: [37889798]	Result 9811
+[2020-12-14 20:05:16] [DEBUG]		236	Schedule:  78.67%	Time: 286ms 665us 533ns	sample: [14803170]	Result 123130
+[2020-12-14 20:05:30] [DEBUG]		237	Schedule:  79.00%	Time: 14s 571ms 769us 813ns	sample: [16548466]	Result 3414529
+[2020-12-14 20:05:39] [DEBUG]		238	Schedule:  79.33%	Time: 8s 623ms 743us 61ns	sample: [761393]	Result 2277235
+[2020-12-14 20:05:39] [DEBUG]		239	Schedule:  79.67%	Time: 119ms 90us 671ns	sample: [17626181]	Result 73509
+[2020-12-14 20:06:29] [DEBUG]		240	Schedule:  80.00%	Time: 49s 277ms 567us 366ns	sample: [1418]	Result 11181053
+[2020-12-14 20:06:48] [DEBUG]		241	Schedule:  80.33%	Time: 19s 226ms 605us 276ns	sample: [16609515]	Result 1627620
+[2020-12-14 20:06:48] [DEBUG]		242	Schedule:  80.67%	Time: 578ms 709us 6ns	sample: [32629211]	Result 268530
+[2020-12-14 20:06:48] [DEBUG]		243	Schedule:  81.00%	Time: 89ms 681us 378ns	sample: [20534044]	Result 48368
+[2020-12-14 20:06:52] [DEBUG]		244	Schedule:  81.33%	Time: 3s 459ms 725us 405ns	sample: [16797810]	Result 1987666
+[2020-12-14 20:06:52] [DEBUG]		245	Schedule:  81.67%	Time: 23ms 566us 533ns	sample: [30096883]	Result 11533
+[2020-12-14 20:06:55] [DEBUG]		246	Schedule:  82.00%	Time: 2s 883ms 647us 313ns	sample: [22508419]	Result 1391394
+[2020-12-14 20:07:22] [DEBUG]		247	Schedule:  82.33%	Time: 27s 99ms 851us 183ns	sample: [19124463]	Result 6781230
+[2020-12-14 20:07:22] [DEBUG]		248	Schedule:  82.67%	Time: 7ms 82us 496ns	sample: [42532346]	Result 309
+[2020-12-14 20:07:22] [DEBUG]		249	Schedule:  83.00%	Time: 19ms 853us 209ns	sample: [492]	Result 10487
+[2020-12-14 20:07:34] [DEBUG]		250	Schedule:  83.33%	Time: 12s 525ms 4us 990ns	sample: [16278934]	Result 3583089
+[2020-12-14 20:07:37] [DEBUG]		251	Schedule:  83.67%	Time: 2s 961ms 33us 12ns	sample: [22787048]	Result 1830789
+[2020-12-14 20:08:24] [DEBUG]		252	Schedule:  84.00%	Time: 46s 657ms 633us 948ns	sample: [15163466]	Result 9017533
+[2020-12-14 20:08:31] [DEBUG]		253	Schedule:  84.33%	Time: 7s 238ms 210us 665ns	sample: [22382980]	Result 1850215
+[2020-12-14 20:08:37] [DEBUG]		254	Schedule:  84.67%	Time: 5s 346ms 838us 403ns	sample: [16557588]	Result 817330
+[2020-12-14 20:08:37] [DEBUG]		255	Schedule:  85.00%	Time: 497ms 493us 230ns	sample: [36880563]	Result 349324
+[2020-12-14 20:08:37] [DEBUG]		256	Schedule:  85.33%	Time: 19ms 425us 862ns	sample: [43146251]	Result 13042
+[2020-12-14 20:08:38] [DEBUG]		257	Schedule:  85.67%	Time: 520ms 38us 930ns	sample: [30859015]	Result 329441
+[2020-12-14 20:08:38] [DEBUG]		258	Schedule:  86.00%	Time: 6ms 933us 195ns	sample: [41716439]	Result 328
+[2020-12-14 20:08:42] [DEBUG]		259	Schedule:  86.33%	Time: 4s 385ms 394us 89ns	sample: [6102302]	Result 2149883
+[2020-12-14 20:08:42] [DEBUG]		260	Schedule:  86.67%	Time: 318ms 863us 422ns	sample: [25555552]	Result 194407
+[2020-12-14 20:09:03] [DEBUG]		261	Schedule:  87.00%	Time: 20s 586ms 620us 137ns	sample: [33370227]	Result 1974750
+[2020-12-14 20:09:03] [DEBUG]		262	Schedule:  87.33%	Time: 12ms 844us 781ns	sample: [43251483]	Result 6029
+[2020-12-14 20:09:04] [DEBUG]		263	Schedule:  87.67%	Time: 697ms 659us 635ns	sample: [32209489]	Result 339323
+[2020-12-14 20:09:09] [DEBUG]		264	Schedule:  88.00%	Time: 5s 540ms 173us 425ns	sample: [17910878]	Result 2706291
+[2020-12-14 20:09:10] [DEBUG]		265	Schedule:  88.33%	Time: 377ms 339us 300ns	sample: [23742760]	Result 271328
+[2020-12-14 20:09:20] [DEBUG]		266	Schedule:  88.67%	Time: 10s 369ms 719us 162ns	sample: [18979962]	Result 4394162
+[2020-12-14 20:10:30] [DEBUG]		267	Schedule:  89.00%	Time: 1m 10s 68ms 495us 531ns	sample: [14230524]	Result 12854179
+[2020-12-14 20:11:07] [DEBUG]		268	Schedule:  89.33%	Time: 36s 665ms 944us 12ns	sample: [24608680]	Result 7827096
+[2020-12-14 20:11:09] [DEBUG]		269	Schedule:  89.67%	Time: 2s 630ms 501us 151ns	sample: [26643090]	Result 845836
+[2020-12-14 20:11:27] [DEBUG]		270	Schedule:  90.00%	Time: 18s 96ms 929us 280ns	sample: [18659533]	Result 2773788
+[2020-12-14 20:11:29] [DEBUG]		271	Schedule:  90.33%	Time: 1s 216ms 12us 633ns	sample: [39616562]	Result 512960
+[2020-12-14 20:11:29] [DEBUG]		272	Schedule:  90.67%	Time: 6ms 718us 757ns	sample: [50848585]	Result 87
+[2020-12-14 20:11:29] [DEBUG]		273	Schedule:  91.00%	Time: 26ms 613us 534ns	sample: [22359310]	Result 4414
+[2020-12-14 20:11:39] [DEBUG]		274	Schedule:  91.33%	Time: 10s 622ms 851us 891ns	sample: [18954559]	Result 1100007
+[2020-12-14 20:11:39] [DEBUG]		275	Schedule:  91.67%	Time: 14ms 137us 216ns	sample: [37440908]	Result 6309
+[2020-12-14 20:11:39] [DEBUG]		276	Schedule:  92.00%	Time: 6ms 354us 751ns	sample: [45251595]	Result 384
+[2020-12-14 20:11:41] [DEBUG]		277	Schedule:  92.33%	Time: 1s 903ms 178us 268ns	sample: [45830702]	Result 1086962
+[2020-12-14 20:11:45] [DEBUG]		278	Schedule:  92.67%	Time: 3s 965ms 805us 291ns	sample: [29861887]	Result 810752
+[2020-12-14 20:12:48] [DEBUG]		279	Schedule:  93.00%	Time: 1m 2s 736ms 450us 796ns	sample: [2884771]	Result 12809894
+[2020-12-14 20:12:50] [DEBUG]		280	Schedule:  93.33%	Time: 2s 140ms 540us 236ns	sample: [25941311]	Result 821804
+[2020-12-14 20:12:50] [DEBUG]		281	Schedule:  93.67%	Time: 17ms 980us 255ns	sample: [46484827]	Result 10365
+[2020-12-14 20:13:03] [DEBUG]		282	Schedule:  94.00%	Time: 12s 482ms 494us 244ns	sample: [21407335]	Result 4998137
+[2020-12-14 20:13:12] [DEBUG]		283	Schedule:  94.33%	Time: 8s 977ms 679us 36ns	sample: [14987704]	Result 4412622
+[2020-12-14 20:13:12] [DEBUG]		284	Schedule:  94.67%	Time: 348ms 770us 872ns	sample: [57721125]	Result 189517
+[2020-12-14 20:13:20] [DEBUG]		285	Schedule:  95.00%	Time: 8s 6ms 873us 393ns	sample: [572]	Result 3134449
+[2020-12-14 20:13:22] [DEBUG]		286	Schedule:  95.33%	Time: 2s 511ms 820us 810ns	sample: [16350844]	Result 1510489
+[2020-12-14 20:13:22] [DEBUG]		287	Schedule:  95.67%	Time: 8ms 171us 478ns	sample: [40926141]	Result 2050
+[2020-12-14 20:13:23] [DEBUG]		288	Schedule:  96.00%	Time: 301ms 716us 487ns	sample: [54916719]	Result 192995
+[2020-12-14 20:13:25] [DEBUG]		289	Schedule:  96.33%	Time: 2s 461ms 122us 79ns	sample: [23511857]	Result 1481858
+[2020-12-14 20:13:25] [DEBUG]		290	Schedule:  96.67%	Time: 196ms 75us 803ns	sample: [25515549]	Result 124860
+[2020-12-14 20:14:47] [DEBUG]		291	Schedule:  97.00%	Time: 1m 21s 897ms 127us 671ns	sample: [18591276]	Result 9758701
+[2020-12-14 20:16:12] [DEBUG]		292	Schedule:  97.33%	Time: 1m 24s 504ms 923us 226ns	sample: [21035409]	Result 14613311
+[2020-12-14 20:17:28] [DEBUG]		293	Schedule:  97.67%	Time: 1m 16s 214ms 877us 105ns	sample: [19923144]	Result 13244415
+[2020-12-14 20:19:01] [DEBUG]		294	Schedule:  98.00%	Time: 1m 33s 187ms 24us 678ns	sample: [16841186]	Result 11021860
+[2020-12-14 20:19:36] [DEBUG]		295	Schedule:  98.33%	Time: 34s 967ms 141us 386ns	sample: [18583722]	Result 11191486
+[2020-12-14 20:19:38] [DEBUG]		296	Schedule:  98.67%	Time: 1s 929ms 850us 421ns	sample: [28335791]	Result 514580
+[2020-12-14 20:20:46] [DEBUG]		297	Schedule:  99.00%	Time: 1m 7s 680ms 832us 390ns	sample: [2557521]	Result 10957876
+[2020-12-14 20:20:46] [DEBUG]		298	Schedule:  99.33%	Time: 6ms 677us 25ns	sample: [41470461]	Result 525
+[2020-12-14 20:21:49] [DEBUG]		299	Schedule:  99.67%	Time: 1m 2s 730ms 780us 585ns	sample: [23006794]	Result 11408757
+[2020-12-14 20:22:44] [DEBUG]		300	Schedule:  100.00%	Time: 55s 738ms 217us 806ns	sample: [16418966]	Result 6414063
+[2020-12-14 20:22:44] [INFO]	-- Result Statistics
+[2020-12-14 20:22:44] [INFO]	minTime: 6ms 354us 751ns(6.35ms)
+[2020-12-14 20:22:44] [INFO]	maxTime: 2m 54s 133ms 536us 551ns(174133.54ms)
+[2020-12-14 20:22:44] [INFO]	AvgTime: 16s 790ms 257us 669ns(16790.26ms)
+[2020-12-14 20:22:44] [INFO]	P99：2m 4s 154ms 323us 396ns(124154.32ms)
+[2020-12-14 20:22:44] [INFO]	P999：2m 49s 869ms 463us 662ns(169869.46ms)
+[2020-12-14 20:22:44] [INFO]	Throughput: 0.06
+[2020-12-14 20:22:44] [INFO]	SuccessNum: 300
+[2020-12-14 20:22:44] [INFO]	vertexCount Average: 3265142.03
+[2020-12-14 20:22:44] [INFO]	-- end KNeighbor2
+[2020-12-14 20:22:44] [INFO]	-- start KNeighbor2
+[2020-12-14 20:22:45] [DEBUG]		1	Schedule:  0.33%	Time: 240ms 834us 381ns	sample: [20727483]	Result 151934
+[2020-12-14 20:22:46] [DEBUG]		2	Schedule:  0.67%	Time: 1s 313ms 282us 865ns	sample: [50329304]	Result 533519
+[2020-12-14 20:23:20] [DEBUG]		3	Schedule:  1.00%	Time: 34s 35ms 351us 177ns	sample: [26199460]	Result 3428187
+[2020-12-14 20:23:37] [DEBUG]		4	Schedule:  1.33%	Time: 16s 932ms 436us 542ns	sample: [1177521]	Result 7405030
+[2020-12-14 20:23:37] [DEBUG]		5	Schedule:  1.67%	Time: 5ms 585us 554ns	sample: [27960125]	Result 1133
+[2020-12-14 20:23:37] [DEBUG]		6	Schedule:  2.00%	Time: 652ms 788us 169ns	sample: [30440025]	Result 300474
+[2020-12-14 20:23:43] [DEBUG]		7	Schedule:  2.33%	Time: 5s 476ms 201us 490ns	sample: [15833920]	Result 986106
+[2020-12-14 20:23:55] [DEBUG]		8	Schedule:  2.67%	Time: 12s 161ms 626us 571ns	sample: [15015183]	Result 2479167
+[2020-12-14 20:24:00] [DEBUG]		9	Schedule:  3.00%	Time: 5s 277ms 910us 876ns	sample: [33153097]	Result 2907740
+[2020-12-14 20:24:06] [DEBUG]		10	Schedule:  3.33%	Time: 5s 145ms 566us 677ns	sample: [21250581]	Result 2737914
+[2020-12-14 20:24:06] [DEBUG]		11	Schedule:  3.67%	Time: 1ms 708us 916ns	sample: [28548532]	Result 55
+[2020-12-14 20:24:07] [DEBUG]		12	Schedule:  4.00%	Time: 1s 364ms 586us 959ns	sample: [42860945]	Result 652848
+[2020-12-14 20:24:18] [DEBUG]		13	Schedule:  4.33%	Time: 11s 29ms 191us 107ns	sample: [22171728]	Result 3118357
+[2020-12-14 20:24:36] [DEBUG]		14	Schedule:  4.67%	Time: 18s 460ms 215us 302ns	sample: [15254388]	Result 2035009
+[2020-12-14 20:24:39] [DEBUG]		15	Schedule:  5.00%	Time: 2s 650ms 541us 408ns	sample: [44713775]	Result 630022
+[2020-12-14 20:24:39] [DEBUG]		16	Schedule:  5.33%	Time: 3ms 662us 950ns	sample: [44868770]	Result 874
+[2020-12-14 20:24:40] [DEBUG]		17	Schedule:  5.67%	Time: 1s 228ms 566us 828ns	sample: [16350915]	Result 535362
+[2020-12-14 20:24:40] [DEBUG]		18	Schedule:  6.00%	Time: 3ms 977us 427ns	sample: [33650477]	Result 644
+[2020-12-14 20:24:40] [DEBUG]		19	Schedule:  6.33%	Time: 2ms 619us 892ns	sample: [56847735]	Result 240
+[2020-12-14 20:24:55] [DEBUG]		20	Schedule:  6.67%	Time: 14s 488ms 463us 982ns	sample: [18056455]	Result 4201215
+[2020-12-14 20:24:58] [DEBUG]		21	Schedule:  7.00%	Time: 2s 929ms 629us 203ns	sample: [32831346]	Result 1649321
+[2020-12-14 20:24:58] [DEBUG]		22	Schedule:  7.33%	Time: 3ms 969us 759ns	sample: [56969867]	Result 2055
+[2020-12-14 20:25:07] [DEBUG]		23	Schedule:  7.67%	Time: 9s 139ms 261us 884ns	sample: [73483]	Result 4357589
+[2020-12-14 20:25:07] [DEBUG]		24	Schedule:  8.00%	Time: 136ms 207us 79ns	sample: [24981801]	Result 66110
+[2020-12-14 20:25:15] [DEBUG]		25	Schedule:  8.33%	Time: 7s 859ms 794us 597ns	sample: [25726723]	Result 2203532
+[2020-12-14 20:25:15] [DEBUG]		26	Schedule:  8.67%	Time: 6ms 782us 707ns	sample: [59109778]	Result 948
+[2020-12-14 20:25:16] [DEBUG]		27	Schedule:  9.00%	Time: 952ms 655us 704ns	sample: [18381650]	Result 417331
+[2020-12-14 20:25:26] [DEBUG]		28	Schedule:  9.33%	Time: 9s 768ms 474us 892ns	sample: [8467712]	Result 4875224
+[2020-12-14 20:25:26] [DEBUG]		29	Schedule:  9.67%	Time: 135ms 21us 999ns	sample: [29781057]	Result 96427
+[2020-12-14 20:25:26] [DEBUG]		30	Schedule:  10.00%	Time: 204ms 699us 449ns	sample: [37886317]	Result 140638
+[2020-12-14 20:25:26] [DEBUG]		31	Schedule:  10.33%	Time: 3ms 757us 958ns	sample: [39357186]	Result 380
+[2020-12-14 20:25:26] [DEBUG]		32	Schedule:  10.67%	Time: 4ms 83us 922ns	sample: [42520611]	Result 576
+[2020-12-14 20:25:51] [DEBUG]		33	Schedule:  11.00%	Time: 24s 716ms 619us 411ns	sample: [28471398]	Result 2008054
+[2020-12-14 20:25:58] [DEBUG]		34	Schedule:  11.33%	Time: 7s 21ms 750us 204ns	sample: [1288371]	Result 2299350
+[2020-12-14 20:26:00] [DEBUG]		35	Schedule:  11.67%	Time: 2s 377ms 609us 874ns	sample: [44112249]	Result 640550
+[2020-12-14 20:26:01] [DEBUG]		36	Schedule:  12.00%	Time: 609ms 589us 13ns	sample: [29088897]	Result 162087
+[2020-12-14 20:26:01] [DEBUG]		37	Schedule:  12.33%	Time: 3ms 769us 681ns	sample: [15568898]	Result 1406
+[2020-12-14 20:26:35] [DEBUG]		38	Schedule:  12.67%	Time: 34s 373ms 706us 160ns	sample: [25038085]	Result 6813856
+[2020-12-14 20:29:28] [DEBUG]		39	Schedule:  13.00%	Time: 2m 53s 277ms 352us 911ns	sample: [14075928]	Result 17848722
+[2020-12-14 20:29:28] [DEBUG]		40	Schedule:  13.33%	Time: 46ms 928us 849ns	sample: [96]	Result 36915
+[2020-12-14 20:29:28] [DEBUG]		41	Schedule:  13.67%	Time: 3ms 505us 656ns	sample: [31835375]	Result 526
+[2020-12-14 20:29:29] [DEBUG]		42	Schedule:  14.00%	Time: 398ms 720us 221ns	sample: [22480457]	Result 167221
+[2020-12-14 20:31:40] [DEBUG]		43	Schedule:  14.33%	Time: 2m 11s 301ms 0us 114ns	sample: [27104736]	Result 17366131
+[2020-12-14 20:31:40] [DEBUG]		44	Schedule:  14.67%	Time: 145ms 268us 212ns	sample: [22687463]	Result 84826
+[2020-12-14 20:31:55] [DEBUG]		45	Schedule:  15.00%	Time: 15s 120ms 314us 214ns	sample: [27576832]	Result 5084068
+[2020-12-14 20:32:07] [DEBUG]		46	Schedule:  15.33%	Time: 12s 12ms 937us 632ns	sample: [108]	Result 5470639
+[2020-12-14 20:32:07] [DEBUG]		47	Schedule:  15.67%	Time: 2ms 407us 437ns	sample: [35792763]	Result 220
+[2020-12-14 20:32:13] [DEBUG]		48	Schedule:  16.00%	Time: 6s 121ms 142us 818ns	sample: [21373148]	Result 3520599
+[2020-12-14 20:33:19] [DEBUG]		49	Schedule:  16.33%	Time: 1m 5s 290ms 466us 736ns	sample: [15234546]	Result 11830609
+[2020-12-14 20:33:48] [DEBUG]		50	Schedule:  16.67%	Time: 28s 959ms 30us 527ns	sample: [14379717]	Result 2171482
+[2020-12-14 20:33:48] [DEBUG]		51	Schedule:  17.00%	Time: 2ms 372us 388ns	sample: [42744015]	Result 285
+[2020-12-14 20:33:48] [DEBUG]		52	Schedule:  17.33%	Time: 758ms 616us 499ns	sample: [16927373]	Result 301751
+[2020-12-14 20:36:29] [DEBUG]		53	Schedule:  17.67%	Time: 2m 40s 756ms 525us 397ns	sample: [16727535]	Result 18549899
+[2020-12-14 20:36:29] [DEBUG]		54	Schedule:  18.00%	Time: 2ms 851us 459ns	sample: [51520097]	Result 774
+[2020-12-14 20:36:29] [DEBUG]		55	Schedule:  18.33%	Time: 34ms 325us 792ns	sample: [15078404]	Result 11608
+[2020-12-14 20:36:34] [DEBUG]		56	Schedule:  18.67%	Time: 4s 798ms 556us 853ns	sample: [14199173]	Result 1942917
+[2020-12-14 20:36:37] [DEBUG]		57	Schedule:  19.00%	Time: 2s 606ms 429us 346ns	sample: [4517721]	Result 1265066
+[2020-12-14 20:36:50] [DEBUG]		58	Schedule:  19.33%	Time: 13s 609ms 1us 146ns	sample: [17323985]	Result 5754628
+[2020-12-14 20:37:07] [DEBUG]		59	Schedule:  19.67%	Time: 17s 212ms 466us 39ns	sample: [18218033]	Result 5018933
+[2020-12-14 20:37:09] [DEBUG]		60	Schedule:  20.00%	Time: 1s 774ms 836us 800ns	sample: [21828142]	Result 1086907
+[2020-12-14 20:37:09] [DEBUG]		61	Schedule:  20.33%	Time: 3ms 476us 842ns	sample: [52674447]	Result 410
+[2020-12-14 20:39:10] [DEBUG]		62	Schedule:  20.67%	Time: 2m 0s 830ms 293us 948ns	sample: [15285305]	Result 13340121
+[2020-12-14 20:39:10] [DEBUG]		63	Schedule:  21.00%	Time: 30ms 608us 803ns	sample: [45827167]	Result 23733
+[2020-12-14 20:39:10] [DEBUG]		64	Schedule:  21.33%	Time: 2ms 312us 276ns	sample: [50826077]	Result 266
+[2020-12-14 20:39:15] [DEBUG]		65	Schedule:  21.67%	Time: 5s 81ms 769us 785ns	sample: [54064328]	Result 751055
+[2020-12-14 20:39:29] [DEBUG]		66	Schedule:  22.00%	Time: 13s 804ms 672us 197ns	sample: [6941]	Result 6500866
+[2020-12-14 20:39:29] [DEBUG]		67	Schedule:  22.33%	Time: 53ms 590us 106ns	sample: [33586608]	Result 42812
+[2020-12-14 20:39:29] [DEBUG]		68	Schedule:  22.67%	Time: 240ms 764us 665ns	sample: [204]	Result 185191
+[2020-12-14 20:39:29] [DEBUG]		69	Schedule:  23.00%	Time: 8ms 692us 10ns	sample: [22716284]	Result 5128
+[2020-12-14 20:39:29] [DEBUG]		70	Schedule:  23.33%	Time: 51ms 800us 486ns	sample: [34386420]	Result 26422
+[2020-12-14 20:39:29] [DEBUG]		71	Schedule:  23.67%	Time: 2ms 750us 871ns	sample: [36187082]	Result 555
+[2020-12-14 20:39:51] [DEBUG]		72	Schedule:  24.00%	Time: 21s 247ms 632us 149ns	sample: [31239408]	Result 6299637
+[2020-12-14 20:39:55] [DEBUG]		73	Schedule:  24.33%	Time: 4s 516ms 649us 713ns	sample: [40316879]	Result 2179417
+[2020-12-14 20:41:33] [DEBUG]		74	Schedule:  24.67%	Time: 1m 38s 234ms 481us 90ns	sample: [10667662]	Result 12296204
+[2020-12-14 20:41:48] [DEBUG]		75	Schedule:  25.00%	Time: 14s 819ms 929us 589ns	sample: [46517052]	Result 1437842
+[2020-12-14 20:42:42] [DEBUG]		76	Schedule:  25.33%	Time: 53s 872ms 160us 256ns	sample: [24523660]	Result 10078129
+[2020-12-14 20:43:04] [DEBUG]		77	Schedule:  25.67%	Time: 21s 669ms 524us 150ns	sample: [14521821]	Result 8408072
+[2020-12-14 20:43:28] [DEBUG]		78	Schedule:  26.00%	Time: 24s 423ms 868us 393ns	sample: [18548221]	Result 9016503
+[2020-12-14 20:43:28] [DEBUG]		79	Schedule:  26.33%	Time: 20ms 21us 673ns	sample: [41496166]	Result 9682
+[2020-12-14 20:43:29] [DEBUG]		80	Schedule:  26.67%	Time: 757ms 380us 712ns	sample: [27104314]	Result 375568
+[2020-12-14 20:43:32] [DEBUG]		81	Schedule:  27.00%	Time: 2s 803ms 427us 685ns	sample: [27654423]	Result 658949
+[2020-12-14 20:43:42] [DEBUG]		82	Schedule:  27.33%	Time: 10s 204ms 853us 988ns	sample: [1685871]	Result 2517334
+[2020-12-14 20:43:42] [DEBUG]		83	Schedule:  27.67%	Time: 41ms 532us 188ns	sample: [23184686]	Result 28118
+[2020-12-14 20:43:59] [DEBUG]		84	Schedule:  28.00%	Time: 17s 422ms 61us 429ns	sample: [23994973]	Result 1752284
+[2020-12-14 20:43:59] [DEBUG]		85	Schedule:  28.33%	Time: 4ms 5us 871ns	sample: [60312372]	Result 297
+[2020-12-14 20:44:21] [DEBUG]		86	Schedule:  28.67%	Time: 21s 122ms 189us 804ns	sample: [8610562]	Result 5284437
+[2020-12-14 20:44:38] [DEBUG]		87	Schedule:  29.00%	Time: 17s 798ms 993us 742ns	sample: [38978212]	Result 1752050
+[2020-12-14 20:45:40] [DEBUG]		88	Schedule:  29.33%	Time: 1m 2s 119ms 549us 541ns	sample: [19740592]	Result 10917444
+[2020-12-14 20:45:49] [DEBUG]		89	Schedule:  29.67%	Time: 8s 817ms 912us 872ns	sample: [18803424]	Result 1071142
+[2020-12-14 20:45:50] [DEBUG]		90	Schedule:  30.00%	Time: 1s 78ms 695us 182ns	sample: [30395784]	Result 399589
+[2020-12-14 20:45:50] [DEBUG]		91	Schedule:  30.33%	Time: 2ms 247us 297ns	sample: [35908081]	Result 68
+[2020-12-14 20:46:06] [DEBUG]		92	Schedule:  30.67%	Time: 15s 828ms 119us 85ns	sample: [21156271]	Result 7075771
+[2020-12-14 20:46:10] [DEBUG]		93	Schedule:  31.00%	Time: 3s 420ms 662us 573ns	sample: [20530182]	Result 527655
+[2020-12-14 20:46:10] [DEBUG]		94	Schedule:  31.33%	Time: 757ms 106us 81ns	sample: [23378124]	Result 226551
+[2020-12-14 20:46:22] [DEBUG]		95	Schedule:  31.67%	Time: 11s 377ms 211us 376ns	sample: [29830423]	Result 1904744
+[2020-12-14 20:46:39] [DEBUG]		96	Schedule:  32.00%	Time: 16s 822ms 513us 96ns	sample: [44304625]	Result 1652760
+[2020-12-14 20:46:41] [DEBUG]		97	Schedule:  32.33%	Time: 2s 305ms 609us 908ns	sample: [28830907]	Result 1208645
+[2020-12-14 20:46:41] [DEBUG]		98	Schedule:  32.67%	Time: 5ms 795us 813ns	sample: [31180323]	Result 3706
+[2020-12-14 20:46:44] [DEBUG]		99	Schedule:  33.00%	Time: 3s 7ms 569us 356ns	sample: [17998925]	Result 710055
+[2020-12-14 20:46:51] [DEBUG]		100	Schedule:  33.33%	Time: 7s 76ms 303us 170ns	sample: [46822485]	Result 976476
+[2020-12-14 20:46:51] [DEBUG]		101	Schedule:  33.67%	Time: 8ms 829us 944ns	sample: [42240052]	Result 4236
+[2020-12-14 20:46:51] [DEBUG]		102	Schedule:  34.00%	Time: 3ms 199us 185ns	sample: [45193938]	Result 1066
+[2020-12-14 20:46:51] [DEBUG]		103	Schedule:  34.33%	Time: 111ms 83us 808ns	sample: [53758197]	Result 78304
+[2020-12-14 20:47:50] [DEBUG]		104	Schedule:  34.67%	Time: 58s 789ms 501us 315ns	sample: [20460235]	Result 9817198
+[2020-12-14 20:47:50] [DEBUG]		105	Schedule:  35.00%	Time: 2ms 800us 200ns	sample: [52923055]	Result 976
+[2020-12-14 20:49:35] [DEBUG]		106	Schedule:  35.33%	Time: 1m 44s 767ms 456us 638ns	sample: [16129920]	Result 15760516
+[2020-12-14 20:49:44] [DEBUG]		107	Schedule:  35.67%	Time: 9s 378ms 526us 504ns	sample: [15214045]	Result 1822798
+[2020-12-14 20:49:44] [DEBUG]		108	Schedule:  36.00%	Time: 2ms 325us 786ns	sample: [19109927]	Result 18
+[2020-12-14 20:50:03] [DEBUG]		109	Schedule:  36.33%	Time: 18s 839ms 397us 440ns	sample: [15917338]	Result 4471358
+[2020-12-14 20:51:29] [DEBUG]		110	Schedule:  36.67%	Time: 1m 25s 993ms 372us 774ns	sample: [27457788]	Result 14389832
+[2020-12-14 20:51:29] [DEBUG]		111	Schedule:  37.00%	Time: 388ms 75us 895ns	sample: [38631864]	Result 83068
+[2020-12-14 20:51:29] [DEBUG]		112	Schedule:  37.33%	Time: 3ms 49us 255ns	sample: [50808075]	Result 319
+[2020-12-14 20:51:56] [DEBUG]		113	Schedule:  37.67%	Time: 27s 14ms 206us 54ns	sample: [19130449]	Result 4373154
+[2020-12-14 20:51:57] [DEBUG]		114	Schedule:  38.00%	Time: 1s 78ms 685us 195ns	sample: [11015592]	Result 553825
+[2020-12-14 20:52:26] [DEBUG]		115	Schedule:  38.33%	Time: 28s 700ms 545us 843ns	sample: [24777262]	Result 8058690
+[2020-12-14 20:52:42] [DEBUG]		116	Schedule:  38.67%	Time: 15s 531ms 892us 674ns	sample: [14127710]	Result 3425398
+[2020-12-14 20:52:42] [DEBUG]		117	Schedule:  39.00%	Time: 3ms 29us 801ns	sample: [28570061]	Result 226
+[2020-12-14 20:52:45] [DEBUG]		118	Schedule:  39.33%	Time: 3s 678ms 658us 725ns	sample: [29941438]	Result 1975831
+[2020-12-14 20:52:47] [DEBUG]		119	Schedule:  39.67%	Time: 1s 762ms 925us 122ns	sample: [15423869]	Result 1076862
+[2020-12-14 20:53:06] [DEBUG]		120	Schedule:  40.00%	Time: 18s 684ms 847us 137ns	sample: [20804997]	Result 6386803
+[2020-12-14 20:53:13] [DEBUG]		121	Schedule:  40.33%	Time: 7s 475ms 782us 246ns	sample: [22667467]	Result 3991574
+[2020-12-14 20:54:04] [DEBUG]		122	Schedule:  40.67%	Time: 51s 174ms 290us 59ns	sample: [26589987]	Result 9251394
+[2020-12-14 20:54:04] [DEBUG]		123	Schedule:  41.00%	Time: 1ms 640us 193ns	sample: [45114047]	Result 181
+[2020-12-14 20:56:05] [DEBUG]		124	Schedule:  41.33%	Time: 2m 0s 357ms 483us 981ns	sample: [18087450]	Result 12177699
+[2020-12-14 20:56:06] [DEBUG]		125	Schedule:  41.67%	Time: 986ms 552us 465ns	sample: [961081]	Result 326089
+[2020-12-14 20:57:10] [DEBUG]		126	Schedule:  42.00%	Time: 1m 4s 641ms 56us 445ns	sample: [14231321]	Result 10280760
+[2020-12-14 20:57:15] [DEBUG]		127	Schedule:  42.33%	Time: 5s 136ms 357us 952ns	sample: [14050138]	Result 2754252
+[2020-12-14 20:57:21] [DEBUG]		128	Schedule:  42.67%	Time: 5s 669ms 807us 663ns	sample: [22742142]	Result 3224990
+[2020-12-14 20:58:17] [DEBUG]		129	Schedule:  43.00%	Time: 55s 584ms 635us 984ns	sample: [36412963]	Result 12163072
+[2020-12-14 20:58:27] [DEBUG]		130	Schedule:  43.33%	Time: 9s 988ms 327us 54ns	sample: [6444062]	Result 4565989
+[2020-12-14 20:58:27] [DEBUG]		131	Schedule:  43.67%	Time: 127ms 795us 991ns	sample: [41608888]	Result 89423
+[2020-12-14 20:58:47] [DEBUG]		132	Schedule:  44.00%	Time: 20s 495ms 257us 603ns	sample: [15492329]	Result 1569474
+[2020-12-14 21:00:06] [DEBUG]		133	Schedule:  44.33%	Time: 1m 18s 391ms 612us 303ns	sample: [19632867]	Result 8527394
+[2020-12-14 21:00:06] [DEBUG]		134	Schedule:  44.67%	Time: 111ms 219us 899ns	sample: [20194683]	Result 66895
+[2020-12-14 21:00:20] [DEBUG]		135	Schedule:  45.00%	Time: 13s 974ms 502us 127ns	sample: [22286431]	Result 3729163
+[2020-12-14 21:00:43] [DEBUG]		136	Schedule:  45.33%	Time: 23s 561ms 123us 515ns	sample: [27558050]	Result 6525787
+[2020-12-14 21:02:00] [DEBUG]		137	Schedule:  45.67%	Time: 1m 16s 883ms 57us 277ns	sample: [5120691]	Result 13244312
+[2020-12-14 21:02:00] [DEBUG]		138	Schedule:  46.00%	Time: 1ms 833us 851ns	sample: [48570598]	Result 182
+[2020-12-14 21:02:08] [DEBUG]		139	Schedule:  46.33%	Time: 7s 530ms 484us 588ns	sample: [48459607]	Result 1917418
+[2020-12-14 21:02:19] [DEBUG]		140	Schedule:  46.67%	Time: 11s 483ms 486us 363ns	sample: [38407885]	Result 3003048
+[2020-12-14 21:02:20] [DEBUG]		141	Schedule:  47.00%	Time: 1s 114ms 563us 263ns	sample: [23686306]	Result 451242
+[2020-12-14 21:02:21] [DEBUG]		142	Schedule:  47.33%	Time: 269ms 753us 714ns	sample: [44807976]	Result 165146
+[2020-12-14 21:02:26] [DEBUG]		143	Schedule:  47.67%	Time: 5s 727ms 388us 411ns	sample: [17129374]	Result 3341523
+[2020-12-14 21:02:39] [DEBUG]		144	Schedule:  48.00%	Time: 12s 499ms 789us 457ns	sample: [1775731]	Result 4874742
+[2020-12-14 21:02:39] [DEBUG]		145	Schedule:  48.33%	Time: 262ms 505us 563ns	sample: [17872794]	Result 162057
+[2020-12-14 21:02:39] [DEBUG]		146	Schedule:  48.67%	Time: 2ms 629us 370ns	sample: [54491514]	Result 818
+[2020-12-14 21:03:20] [DEBUG]		147	Schedule:  49.00%	Time: 41s 331ms 414us 29ns	sample: [18812795]	Result 7676273
+[2020-12-14 21:03:20] [DEBUG]		148	Schedule:  49.33%	Time: 2ms 860us 249ns	sample: [37479006]	Result 301
+[2020-12-14 21:03:20] [DEBUG]		149	Schedule:  49.67%	Time: 2ms 315us 968ns	sample: [22281042]	Result 304
+[2020-12-14 21:03:35] [DEBUG]		150	Schedule:  50.00%	Time: 14s 903ms 827us 896ns	sample: [26116046]	Result 2121317
+[2020-12-14 21:03:35] [DEBUG]		151	Schedule:  50.33%	Time: 7ms 678us 183ns	sample: [20841950]	Result 4908
+[2020-12-14 21:03:58] [DEBUG]		152	Schedule:  50.67%	Time: 22s 336ms 795us 122ns	sample: [30244121]	Result 3301161
+[2020-12-14 21:04:11] [DEBUG]		153	Schedule:  51.00%	Time: 12s 929ms 545us 854ns	sample: [14854462]	Result 4155274
+[2020-12-14 21:05:03] [DEBUG]		154	Schedule:  51.33%	Time: 51s 934ms 911us 56ns	sample: [618593]	Result 13697864
+[2020-12-14 21:05:05] [DEBUG]		155	Schedule:  51.67%	Time: 2s 605ms 880us 293ns	sample: [19644074]	Result 929825
+[2020-12-14 21:05:05] [DEBUG]		156	Schedule:  52.00%	Time: 184ms 433us 414ns	sample: [15735493]	Result 117039
+[2020-12-14 21:05:17] [DEBUG]		157	Schedule:  52.33%	Time: 11s 840ms 97us 749ns	sample: [43283406]	Result 4295130
+[2020-12-14 21:05:17] [DEBUG]		158	Schedule:  52.67%	Time: 33ms 945us 468ns	sample: [24800750]	Result 28037
+[2020-12-14 21:05:22] [DEBUG]		159	Schedule:  53.00%	Time: 4s 971ms 890us 239ns	sample: [22872869]	Result 2170594
+[2020-12-14 21:06:20] [DEBUG]		160	Schedule:  53.33%	Time: 58s 192ms 763us 376ns	sample: [20067354]	Result 10951509
+[2020-12-14 21:06:20] [DEBUG]		161	Schedule:  53.67%	Time: 16ms 148us 606ns	sample: [15247448]	Result 12163
+[2020-12-14 21:06:23] [DEBUG]		162	Schedule:  54.00%	Time: 2s 977ms 842us 315ns	sample: [20912620]	Result 1830666
+[2020-12-14 21:06:52] [DEBUG]		163	Schedule:  54.33%	Time: 28s 638ms 122us 282ns	sample: [20590051]	Result 5946038
+[2020-12-14 21:07:10] [DEBUG]		164	Schedule:  54.67%	Time: 17s 716ms 630us 359ns	sample: [14137268]	Result 4562233
+[2020-12-14 21:07:10] [DEBUG]		165	Schedule:  55.00%	Time: 2ms 65us 231ns	sample: [20143330]	Result 47
+[2020-12-14 21:07:44] [DEBUG]		166	Schedule:  55.33%	Time: 33s 887ms 161us 626ns	sample: [18112970]	Result 8811078
+[2020-12-14 21:07:46] [DEBUG]		167	Schedule:  55.67%	Time: 2s 475ms 677us 629ns	sample: [17100967]	Result 1109707
+[2020-12-14 21:08:09] [DEBUG]		168	Schedule:  56.00%	Time: 22s 616ms 345us 536ns	sample: [16732759]	Result 5862549
+[2020-12-14 21:08:09] [DEBUG]		169	Schedule:  56.33%	Time: 5ms 580us 957ns	sample: [54466171]	Result 3864
+[2020-12-14 21:08:09] [DEBUG]		170	Schedule:  56.67%	Time: 1ms 284us 730ns	sample: [52802702]	Result 108
+[2020-12-14 21:08:23] [DEBUG]		171	Schedule:  57.00%	Time: 13s 887ms 921us 18ns	sample: [20373034]	Result 3230472
+[2020-12-14 21:08:23] [DEBUG]		172	Schedule:  57.33%	Time: 1ms 888us 426ns	sample: [32765375]	Result 133
+[2020-12-14 21:08:26] [DEBUG]		173	Schedule:  57.67%	Time: 3s 190ms 643us 61ns	sample: [24812106]	Result 1888077
+[2020-12-14 21:08:27] [DEBUG]		174	Schedule:  58.00%	Time: 827ms 676us 142ns	sample: [11894652]	Result 299379
+[2020-12-14 21:08:27] [DEBUG]		175	Schedule:  58.33%	Time: 5ms 195us 477ns	sample: [51370393]	Result 1848
+[2020-12-14 21:08:56] [DEBUG]		176	Schedule:  58.67%	Time: 28s 889ms 361us 852ns	sample: [3943871]	Result 7603798
+[2020-12-14 21:08:58] [DEBUG]		177	Schedule:  59.00%	Time: 2s 521ms 99us 343ns	sample: [53469420]	Result 560740
+[2020-12-14 21:09:57] [DEBUG]		178	Schedule:  59.33%	Time: 58s 455ms 258us 696ns	sample: [14761795]	Result 12162243
+[2020-12-14 21:10:00] [DEBUG]		179	Schedule:  59.67%	Time: 3s 591ms 430us 954ns	sample: [365]	Result 1473196
+[2020-12-14 21:10:00] [DEBUG]		180	Schedule:  60.00%	Time: 79ms 618us 287ns	sample: [46304581]	Result 37288
+[2020-12-14 21:10:05] [DEBUG]		181	Schedule:  60.33%	Time: 4s 828ms 803us 43ns	sample: [3032431]	Result 1338109
+[2020-12-14 21:10:20] [DEBUG]		182	Schedule:  60.67%	Time: 14s 492ms 300us 548ns	sample: [20977546]	Result 7230370
+[2020-12-14 21:10:20] [DEBUG]		183	Schedule:  61.00%	Time: 2ms 734us 316ns	sample: [21099347]	Result 884
+[2020-12-14 21:10:20] [DEBUG]		184	Schedule:  61.33%	Time: 160ms 609us 936ns	sample: [42399917]	Result 111163
+[2020-12-14 21:10:27] [DEBUG]		185	Schedule:  61.67%	Time: 6s 857ms 397us 800ns	sample: [796766]	Result 3274183
+[2020-12-14 21:10:27] [DEBUG]		186	Schedule:  62.00%	Time: 578ms 216us 537ns	sample: [8909522]	Result 89658
+[2020-12-14 21:10:27] [DEBUG]		187	Schedule:  62.33%	Time: 57ms 365us 597ns	sample: [16460768]	Result 48077
+[2020-12-14 21:10:27] [DEBUG]		188	Schedule:  62.67%	Time: 74ms 48us 761ns	sample: [9121432]	Result 41495
+[2020-12-14 21:12:03] [DEBUG]		189	Schedule:  63.00%	Time: 1m 35s 836ms 827us 248ns	sample: [17919972]	Result 15858813
+[2020-12-14 21:12:03] [DEBUG]		190	Schedule:  63.33%	Time: 13ms 139us 997ns	sample: [56643711]	Result 7340
+[2020-12-14 21:12:10] [DEBUG]		191	Schedule:  63.67%	Time: 6s 528ms 48us 147ns	sample: [19226267]	Result 3019884
+[2020-12-14 21:12:10] [DEBUG]		192	Schedule:  64.00%	Time: 607ms 116us 626ns	sample: [13221862]	Result 180028
+[2020-12-14 21:12:10] [DEBUG]		193	Schedule:  64.33%	Time: 86ms 759us 447ns	sample: [41259823]	Result 64428
+[2020-12-14 21:12:13] [DEBUG]		194	Schedule:  64.67%	Time: 2s 265ms 10us 218ns	sample: [28466425]	Result 693969
+[2020-12-14 21:12:40] [DEBUG]		195	Schedule:  65.00%	Time: 27s 555ms 191us 742ns	sample: [31806999]	Result 3437045
+[2020-12-14 21:13:33] [DEBUG]		196	Schedule:  65.33%	Time: 53s 122ms 220us 705ns	sample: [759251]	Result 12677623
+[2020-12-14 21:13:33] [DEBUG]		197	Schedule:  65.67%	Time: 79ms 626us 774ns	sample: [59550897]	Result 7887
+[2020-12-14 21:13:33] [DEBUG]		198	Schedule:  66.00%	Time: 44ms 96us 593ns	sample: [22422221]	Result 12026
+[2020-12-14 21:13:33] [DEBUG]		199	Schedule:  66.33%	Time: 11ms 159us 189ns	sample: [14662772]	Result 4464
+[2020-12-14 21:14:20] [DEBUG]		200	Schedule:  66.67%	Time: 46s 868ms 691us 947ns	sample: [15935591]	Result 8010419
+[2020-12-14 21:14:21] [DEBUG]		201	Schedule:  67.00%	Time: 334ms 205us 761ns	sample: [36072333]	Result 207050
+[2020-12-14 21:14:24] [DEBUG]		202	Schedule:  67.33%	Time: 3s 799ms 505us 754ns	sample: [14669432]	Result 2028210
+[2020-12-14 21:14:38] [DEBUG]		203	Schedule:  67.67%	Time: 13s 259ms 86us 307ns	sample: [14235317]	Result 4019937
+[2020-12-14 21:14:38] [DEBUG]		204	Schedule:  68.00%	Time: 3ms 624us 7ns	sample: [46587124]	Result 1287
+[2020-12-14 21:14:44] [DEBUG]		205	Schedule:  68.33%	Time: 6s 146ms 450us 533ns	sample: [33497221]	Result 1185713
+[2020-12-14 21:14:44] [DEBUG]		206	Schedule:  68.67%	Time: 1ms 909us 643ns	sample: [41173269]	Result 80
+[2020-12-14 21:14:46] [DEBUG]		207	Schedule:  69.00%	Time: 2s 487ms 120us 389ns	sample: [14462907]	Result 1459851
+[2020-12-14 21:15:13] [DEBUG]		208	Schedule:  69.33%	Time: 26s 330ms 497us 536ns	sample: [15922433]	Result 10023652
+[2020-12-14 21:15:13] [DEBUG]		209	Schedule:  69.67%	Time: 124ms 141us 59ns	sample: [22046932]	Result 81872
+[2020-12-14 21:15:49] [DEBUG]		210	Schedule:  70.00%	Time: 35s 804ms 795us 71ns	sample: [8069572]	Result 10002360
+[2020-12-14 21:15:52] [DEBUG]		211	Schedule:  70.33%	Time: 3s 39ms 526us 617ns	sample: [17073811]	Result 1282451
+[2020-12-14 21:17:00] [DEBUG]		212	Schedule:  70.67%	Time: 1m 8s 412ms 68us 832ns	sample: [19571299]	Result 12864103
+[2020-12-14 21:18:04] [DEBUG]		213	Schedule:  71.00%	Time: 1m 4s 422ms 206us 37ns	sample: [23922282]	Result 12648996
+[2020-12-14 21:18:06] [DEBUG]		214	Schedule:  71.33%	Time: 1s 334ms 654us 686ns	sample: [37975089]	Result 386109
+[2020-12-14 21:18:12] [DEBUG]		215	Schedule:  71.67%	Time: 6s 573ms 649us 31ns	sample: [71123]	Result 3388726
+[2020-12-14 21:18:27] [DEBUG]		216	Schedule:  72.00%	Time: 14s 625ms 287us 48ns	sample: [13141932]	Result 6517724
+[2020-12-14 21:19:28] [DEBUG]		217	Schedule:  72.33%	Time: 1m 1s 350ms 521us 785ns	sample: [26784273]	Result 10493653
+[2020-12-14 21:19:35] [DEBUG]		218	Schedule:  72.67%	Time: 6s 657ms 836us 952ns	sample: [11172992]	Result 3092772
+[2020-12-14 21:19:35] [DEBUG]		219	Schedule:  73.00%	Time: 129ms 699us 792ns	sample: [23718349]	Result 106662
+[2020-12-14 21:19:41] [DEBUG]		220	Schedule:  73.33%	Time: 5s 905ms 312us 774ns	sample: [43097584]	Result 815290
+[2020-12-14 21:20:28] [DEBUG]		221	Schedule:  73.67%	Time: 47s 209ms 911us 165ns	sample: [19829645]	Result 10505576
+[2020-12-14 21:22:34] [DEBUG]		222	Schedule:  74.00%	Time: 2m 5s 886ms 57us 270ns	sample: [25365536]	Result 15418835
+[2020-12-14 21:22:34] [DEBUG]		223	Schedule:  74.33%	Time: 7ms 540us 734ns	sample: [41213114]	Result 590
+[2020-12-14 21:22:35] [DEBUG]		224	Schedule:  74.67%	Time: 855ms 297us 906ns	sample: [15683302]	Result 419965
+[2020-12-14 21:22:41] [DEBUG]		225	Schedule:  75.00%	Time: 6s 156ms 33us 972ns	sample: [19867432]	Result 996184
+[2020-12-14 21:22:41] [DEBUG]		226	Schedule:  75.33%	Time: 2ms 708us 76ns	sample: [27923061]	Result 502
+[2020-12-14 21:24:34] [DEBUG]		227	Schedule:  75.67%	Time: 1m 53s 141ms 948us 319ns	sample: [20536157]	Result 15344860
+[2020-12-14 21:26:01] [DEBUG]		228	Schedule:  76.00%	Time: 1m 26s 371ms 889us 116ns	sample: [14610275]	Result 7785487
+[2020-12-14 21:26:45] [DEBUG]		229	Schedule:  76.33%	Time: 44s 597ms 186us 392ns	sample: [32959253]	Result 9480950
+[2020-12-14 21:27:11] [DEBUG]		230	Schedule:  76.67%	Time: 25s 748ms 22us 48ns	sample: [1045141]	Result 9779302
+[2020-12-14 21:27:11] [DEBUG]		231	Schedule:  77.00%	Time: 4ms 815us 824ns	sample: [39940849]	Result 2345
+[2020-12-14 21:27:17] [DEBUG]		232	Schedule:  77.33%	Time: 5s 830ms 330us 80ns	sample: [26591593]	Result 3187018
+[2020-12-14 21:28:57] [DEBUG]		233	Schedule:  77.67%	Time: 1m 40s 457ms 471us 865ns	sample: [14293310]	Result 15703553
+[2020-12-14 21:28:57] [DEBUG]		234	Schedule:  78.00%	Time: 2ms 123us 876ns	sample: [26149262]	Result 80
+[2020-12-14 21:28:57] [DEBUG]		235	Schedule:  78.33%	Time: 23ms 726us 927ns	sample: [37889798]	Result 9811
+[2020-12-14 21:28:58] [DEBUG]		236	Schedule:  78.67%	Time: 257ms 507us 679ns	sample: [14803170]	Result 123130
+[2020-12-14 21:29:10] [DEBUG]		237	Schedule:  79.00%	Time: 12s 794ms 778us 156ns	sample: [16548466]	Result 3414529
+[2020-12-14 21:29:19] [DEBUG]		238	Schedule:  79.33%	Time: 8s 244ms 655us 517ns	sample: [761393]	Result 2277235
+[2020-12-14 21:29:19] [DEBUG]		239	Schedule:  79.67%	Time: 95ms 988us 8ns	sample: [17626181]	Result 73509
+[2020-12-14 21:30:10] [DEBUG]		240	Schedule:  80.00%	Time: 50s 972ms 32us 974ns	sample: [1418]	Result 11181053
+[2020-12-14 21:30:30] [DEBUG]		241	Schedule:  80.33%	Time: 19s 966ms 449us 241ns	sample: [16609515]	Result 1627620
+[2020-12-14 21:30:30] [DEBUG]		242	Schedule:  80.67%	Time: 623ms 875us 631ns	sample: [32629211]	Result 268530
+[2020-12-14 21:30:30] [DEBUG]		243	Schedule:  81.00%	Time: 76ms 485us 979ns	sample: [20534044]	Result 48368
+[2020-12-14 21:30:34] [DEBUG]		244	Schedule:  81.33%	Time: 3s 857ms 408us 865ns	sample: [16797810]	Result 1987666
+[2020-12-14 21:30:34] [DEBUG]		245	Schedule:  81.67%	Time: 16ms 24us 758ns	sample: [30096883]	Result 11533
+[2020-12-14 21:30:37] [DEBUG]		246	Schedule:  82.00%	Time: 2s 957ms 819us 850ns	sample: [22508419]	Result 1391394
+[2020-12-14 21:31:07] [DEBUG]		247	Schedule:  82.33%	Time: 29s 961ms 189us 944ns	sample: [19124463]	Result 6781230
+[2020-12-14 21:31:07] [DEBUG]		248	Schedule:  82.67%	Time: 2ms 147us 530ns	sample: [42532346]	Result 309
+[2020-12-14 21:31:07] [DEBUG]		249	Schedule:  83.00%	Time: 24ms 499us 884ns	sample: [492]	Result 10487
+[2020-12-14 21:31:19] [DEBUG]		250	Schedule:  83.33%	Time: 12s 170ms 60us 139ns	sample: [16278934]	Result 3583089
+[2020-12-14 21:31:23] [DEBUG]		251	Schedule:  83.67%	Time: 3s 261ms 249us 517ns	sample: [22787048]	Result 1830789
+[2020-12-14 21:32:09] [DEBUG]		252	Schedule:  84.00%	Time: 46s 705ms 85us 511ns	sample: [15163466]	Result 9017533
+[2020-12-14 21:32:17] [DEBUG]		253	Schedule:  84.33%	Time: 7s 193ms 953us 108ns	sample: [22382980]	Result 1850215
+[2020-12-14 21:32:22] [DEBUG]		254	Schedule:  84.67%	Time: 5s 235ms 679us 933ns	sample: [16557588]	Result 817330
+[2020-12-14 21:32:22] [DEBUG]		255	Schedule:  85.00%	Time: 663ms 836us 41ns	sample: [36880563]	Result 349324
+[2020-12-14 21:32:22] [DEBUG]		256	Schedule:  85.33%	Time: 15ms 59us 759ns	sample: [43146251]	Result 13042
+[2020-12-14 21:32:23] [DEBUG]		257	Schedule:  85.67%	Time: 515ms 346us 437ns	sample: [30859015]	Result 329441
+[2020-12-14 21:32:23] [DEBUG]		258	Schedule:  86.00%	Time: 2ms 156us 667ns	sample: [41716439]	Result 328
+[2020-12-14 21:32:27] [DEBUG]		259	Schedule:  86.33%	Time: 3s 925ms 753us 389ns	sample: [6102302]	Result 2149883
+[2020-12-14 21:32:28] [DEBUG]		260	Schedule:  86.67%	Time: 751ms 638us 336ns	sample: [25555552]	Result 194407
+[2020-12-14 21:32:48] [DEBUG]		261	Schedule:  87.00%	Time: 19s 874ms 286us 467ns	sample: [33370227]	Result 1974750
+[2020-12-14 21:32:48] [DEBUG]		262	Schedule:  87.33%	Time: 20ms 942us 545ns	sample: [43251483]	Result 6029
+[2020-12-14 21:32:48] [DEBUG]		263	Schedule:  87.67%	Time: 900ms 389us 795ns	sample: [32209489]	Result 339323
+[2020-12-14 21:32:54] [DEBUG]		264	Schedule:  88.00%	Time: 5s 802ms 830us 251ns	sample: [17910878]	Result 2706291
+[2020-12-14 21:32:55] [DEBUG]		265	Schedule:  88.33%	Time: 391ms 404us 222ns	sample: [23742760]	Result 271328
+[2020-12-14 21:33:05] [DEBUG]		266	Schedule:  88.67%	Time: 10s 64ms 61us 932ns	sample: [18979962]	Result 4394162
+[2020-12-14 21:34:15] [DEBUG]		267	Schedule:  89.00%	Time: 1m 10s 559ms 129us 402ns	sample: [14230524]	Result 12854179
+[2020-12-14 21:34:52] [DEBUG]		268	Schedule:  89.33%	Time: 36s 714ms 28us 867ns	sample: [24608680]	Result 7827096
+[2020-12-14 21:34:55] [DEBUG]		269	Schedule:  89.67%	Time: 2s 542ms 10us 259ns	sample: [26643090]	Result 845836
+[2020-12-14 21:35:12] [DEBUG]		270	Schedule:  90.00%	Time: 17s 888ms 388us 822ns	sample: [18659533]	Result 2773788
+[2020-12-14 21:35:14] [DEBUG]		271	Schedule:  90.33%	Time: 1s 198ms 254us 339ns	sample: [39616562]	Result 512960
+[2020-12-14 21:35:14] [DEBUG]		272	Schedule:  90.67%	Time: 2ms 353us 481ns	sample: [50848585]	Result 87
+[2020-12-14 21:35:14] [DEBUG]		273	Schedule:  91.00%	Time: 19ms 241us 301ns	sample: [22359310]	Result 4414
+[2020-12-14 21:35:24] [DEBUG]		274	Schedule:  91.33%	Time: 10s 728ms 894us 515ns	sample: [18954559]	Result 1100007
+[2020-12-14 21:35:24] [DEBUG]		275	Schedule:  91.67%	Time: 21ms 919us 941ns	sample: [37440908]	Result 6309
+[2020-12-14 21:35:24] [DEBUG]		276	Schedule:  92.00%	Time: 2ms 319us 362ns	sample: [45251595]	Result 384
+[2020-12-14 21:35:26] [DEBUG]		277	Schedule:  92.33%	Time: 1s 792ms 672us 51ns	sample: [45830702]	Result 1086962
+[2020-12-14 21:35:30] [DEBUG]		278	Schedule:  92.67%	Time: 3s 974ms 769us 52ns	sample: [29861887]	Result 810752
+[2020-12-14 21:36:33] [DEBUG]		279	Schedule:  93.00%	Time: 1m 2s 952ms 225us 65ns	sample: [2884771]	Result 12809894
+[2020-12-14 21:36:35] [DEBUG]		280	Schedule:  93.33%	Time: 2s 111ms 44us 264ns	sample: [25941311]	Result 821804
+[2020-12-14 21:36:35] [DEBUG]		281	Schedule:  93.67%	Time: 13ms 196us 976ns	sample: [46484827]	Result 10365
+[2020-12-14 21:36:48] [DEBUG]		282	Schedule:  94.00%	Time: 12s 495ms 883us 98ns	sample: [21407335]	Result 4998137
+[2020-12-14 21:36:57] [DEBUG]		283	Schedule:  94.33%	Time: 9s 19ms 435us 121ns	sample: [14987704]	Result 4412622
+[2020-12-14 21:36:57] [DEBUG]		284	Schedule:  94.67%	Time: 349ms 665us 264ns	sample: [57721125]	Result 189517
+[2020-12-14 21:37:05] [DEBUG]		285	Schedule:  95.00%	Time: 7s 851ms 194us 150ns	sample: [572]	Result 3134449
+[2020-12-14 21:37:07] [DEBUG]		286	Schedule:  95.33%	Time: 2s 514ms 103us 406ns	sample: [16350844]	Result 1510489
+[2020-12-14 21:37:07] [DEBUG]		287	Schedule:  95.67%	Time: 6ms 602us 203ns	sample: [40926141]	Result 2050
+[2020-12-14 21:37:08] [DEBUG]		288	Schedule:  96.00%	Time: 317ms 638us 70ns	sample: [54916719]	Result 192995
+[2020-12-14 21:37:10] [DEBUG]		289	Schedule:  96.33%	Time: 2s 491ms 717us 655ns	sample: [23511857]	Result 1481858
+[2020-12-14 21:37:10] [DEBUG]		290	Schedule:  96.67%	Time: 168ms 307us 294ns	sample: [25515549]	Result 124860
+[2020-12-14 21:38:35] [DEBUG]		291	Schedule:  97.00%	Time: 1m 24s 107ms 464us 802ns	sample: [18591276]	Result 9758701
+[2020-12-14 21:40:02] [DEBUG]		292	Schedule:  97.33%	Time: 1m 27s 491ms 680us 912ns	sample: [21035409]	Result 14613311
+[2020-12-14 21:41:19] [DEBUG]		293	Schedule:  97.67%	Time: 1m 17s 467ms 370us 437ns	sample: [19923144]	Result 13244415
+[2020-12-14 21:42:52] [DEBUG]		294	Schedule:  98.00%	Time: 1m 32s 786ms 810us 596ns	sample: [16841186]	Result 11021860
+[2020-12-14 21:43:27] [DEBUG]		295	Schedule:  98.33%	Time: 34s 516ms 477us 309ns	sample: [18583722]	Result 11191486
+[2020-12-14 21:43:29] [DEBUG]		296	Schedule:  98.67%	Time: 1s 885ms 348us 290ns	sample: [28335791]	Result 514580
+[2020-12-14 21:44:35] [DEBUG]		297	Schedule:  99.00%	Time: 1m 6s 648ms 770us 83ns	sample: [2557521]	Result 10957876
+[2020-12-14 21:44:35] [DEBUG]		298	Schedule:  99.33%	Time: 4ms 444us 81ns	sample: [41470461]	Result 525
+[2020-12-14 21:45:38] [DEBUG]		299	Schedule:  99.67%	Time: 1m 2s 965ms 953us 64ns	sample: [23006794]	Result 11408757
+[2020-12-14 21:46:35] [DEBUG]		300	Schedule:  100.00%	Time: 56s 602ms 709us 749ns	sample: [16418966]	Result 6414063
+[2020-12-14 21:46:35] [INFO]	-- Result Statistics
+[2020-12-14 21:46:35] [INFO]	minTime: 1ms 284us 730ns(1.28ms)
+[2020-12-14 21:46:35] [INFO]	maxTime: 2m 53s 277ms 352us 911ns(173277.35ms)
+[2020-12-14 21:46:35] [INFO]	AvgTime: 16s 768ms 567us 23ns(16768.57ms)
+[2020-12-14 21:46:35] [INFO]	P99：2m 5s 940ms 206us 698ns(125940.21ms)
+[2020-12-14 21:46:35] [INFO]	P999：2m 49s 533ms 625us 484ns(169533.63ms)
+[2020-12-14 21:46:35] [INFO]	Throughput: 0.06
+[2020-12-14 21:46:35] [INFO]	SuccessNum: 300
+[2020-12-14 21:46:35] [INFO]	vertexCount Average: 3265142.03
+[2020-12-14 21:46:35] [INFO]	-- end KNeighbor2
+[2020-12-14 21:46:35] [INFO]	-- start KNeighbor2
+[2020-12-14 21:46:35] [DEBUG]		1	Schedule:  0.33%	Time: 249ms 29us 665ns	sample: [20727483]	Result 151934
+[2020-12-14 21:46:36] [DEBUG]		2	Schedule:  0.67%	Time: 991ms 200us 463ns	sample: [50329304]	Result 533519
+[2020-12-14 21:47:10] [DEBUG]		3	Schedule:  1.00%	Time: 34s 259ms 390us 183ns	sample: [26199460]	Result 3428187
+[2020-12-14 21:47:27] [DEBUG]		4	Schedule:  1.33%	Time: 16s 673ms 318us 947ns	sample: [1177521]	Result 7405030
+[2020-12-14 21:47:27] [DEBUG]		5	Schedule:  1.67%	Time: 3ms 48us 800ns	sample: [27960125]	Result 1133
+[2020-12-14 21:47:28] [DEBUG]		6	Schedule:  2.00%	Time: 913ms 574us 985ns	sample: [30440025]	Result 300474
+[2020-12-14 21:47:33] [DEBUG]		7	Schedule:  2.33%	Time: 5s 318ms 506us 768ns	sample: [15833920]	Result 986106
+[2020-12-14 21:47:46] [DEBUG]		8	Schedule:  2.67%	Time: 12s 191ms 615us 405ns	sample: [15015183]	Result 2479167
+[2020-12-14 21:47:50] [DEBUG]		9	Schedule:  3.00%	Time: 4s 865ms 541us 72ns	sample: [33153097]	Result 2907740
+[2020-12-14 21:47:55] [DEBUG]		10	Schedule:  3.33%	Time: 5s 67ms 826us 282ns	sample: [21250581]	Result 2737914
+[2020-12-14 21:47:55] [DEBUG]		11	Schedule:  3.67%	Time: 1ms 642us 844ns	sample: [28548532]	Result 55
+[2020-12-14 21:47:57] [DEBUG]		12	Schedule:  4.00%	Time: 1s 338ms 984us 876ns	sample: [42860945]	Result 652848
+[2020-12-14 21:48:08] [DEBUG]		13	Schedule:  4.33%	Time: 11s 92ms 160us 340ns	sample: [22171728]	Result 3118357
+[2020-12-14 21:48:27] [DEBUG]		14	Schedule:  4.67%	Time: 18s 825ms 826us 981ns	sample: [15254388]	Result 2035009
+[2020-12-14 21:48:30] [DEBUG]		15	Schedule:  5.00%	Time: 2s 803ms 645us 79ns	sample: [44713775]	Result 630022
+[2020-12-14 21:48:30] [DEBUG]		16	Schedule:  5.33%	Time: 3ms 559us 55ns	sample: [44868770]	Result 874
+[2020-12-14 21:48:31] [DEBUG]		17	Schedule:  5.67%	Time: 1s 271ms 363us 483ns	sample: [16350915]	Result 535362
+[2020-12-14 21:48:31] [DEBUG]		18	Schedule:  6.00%	Time: 4ms 343us 396ns	sample: [33650477]	Result 644
+[2020-12-14 21:48:31] [DEBUG]		19	Schedule:  6.33%	Time: 2ms 514us 78ns	sample: [56847735]	Result 240
+[2020-12-14 21:48:45] [DEBUG]		20	Schedule:  6.67%	Time: 14s 633ms 805us 551ns	sample: [18056455]	Result 4201215
+[2020-12-14 21:48:49] [DEBUG]		21	Schedule:  7.00%	Time: 3s 265ms 458us 913ns	sample: [32831346]	Result 1649321
+[2020-12-14 21:48:49] [DEBUG]		22	Schedule:  7.33%	Time: 4ms 85us 297ns	sample: [56969867]	Result 2055
+[2020-12-14 21:48:58] [DEBUG]		23	Schedule:  7.67%	Time: 9s 565ms 183us 847ns	sample: [73483]	Result 4357589
+[2020-12-14 21:48:58] [DEBUG]		24	Schedule:  8.00%	Time: 128ms 777us 33ns	sample: [24981801]	Result 66110
+[2020-12-14 21:49:06] [DEBUG]		25	Schedule:  8.33%	Time: 7s 981ms 177us 712ns	sample: [25726723]	Result 2203532
+[2020-12-14 21:49:06] [DEBUG]		26	Schedule:  8.67%	Time: 5ms 128us 831ns	sample: [59109778]	Result 948
+[2020-12-14 21:49:07] [DEBUG]		27	Schedule:  9.00%	Time: 957ms 600us 3ns	sample: [18381650]	Result 417331
+[2020-12-14 21:49:17] [DEBUG]		28	Schedule:  9.33%	Time: 9s 540ms 811us 637ns	sample: [8467712]	Result 4875224
+[2020-12-14 21:49:17] [DEBUG]		29	Schedule:  9.67%	Time: 135ms 529us 129ns	sample: [29781057]	Result 96427
+[2020-12-14 21:49:17] [DEBUG]		30	Schedule:  10.00%	Time: 226ms 236us 403ns	sample: [37886317]	Result 140638
+[2020-12-14 21:49:17] [DEBUG]		31	Schedule:  10.33%	Time: 3ms 316us 951ns	sample: [39357186]	Result 380
+[2020-12-14 21:49:17] [DEBUG]		32	Schedule:  10.67%	Time: 2ms 26us 348ns	sample: [42520611]	Result 576
+[2020-12-14 21:49:42] [DEBUG]		33	Schedule:  11.00%	Time: 24s 816ms 39us 887ns	sample: [28471398]	Result 2008054
+[2020-12-14 21:49:50] [DEBUG]		34	Schedule:  11.33%	Time: 7s 578ms 448us 599ns	sample: [1288371]	Result 2299350
+[2020-12-14 21:49:52] [DEBUG]		35	Schedule:  11.67%	Time: 2s 47ms 234us 915ns	sample: [44112249]	Result 640550
+[2020-12-14 21:49:52] [DEBUG]		36	Schedule:  12.00%	Time: 602ms 334us 989ns	sample: [29088897]	Result 162087
+[2020-12-14 21:49:52] [DEBUG]		37	Schedule:  12.33%	Time: 7ms 313us 392ns	sample: [15568898]	Result 1406
+[2020-12-14 21:50:27] [DEBUG]		38	Schedule:  12.67%	Time: 34s 674ms 158us 76ns	sample: [25038085]	Result 6813856
+[2020-12-14 21:53:18] [DEBUG]		39	Schedule:  13.00%	Time: 2m 51s 530ms 857us 400ns	sample: [14075928]	Result 17848722
+[2020-12-14 21:53:19] [DEBUG]		40	Schedule:  13.33%	Time: 77ms 885us 765ns	sample: [96]	Result 36915
+[2020-12-14 21:53:19] [DEBUG]		41	Schedule:  13.67%	Time: 9ms 183us 77ns	sample: [31835375]	Result 526
+[2020-12-14 21:53:19] [DEBUG]		42	Schedule:  14.00%	Time: 459ms 491us 657ns	sample: [22480457]	Result 167221
+[2020-12-14 21:55:27] [DEBUG]		43	Schedule:  14.33%	Time: 2m 7s 810ms 737us 702ns	sample: [27104736]	Result 17366131
+[2020-12-14 21:55:27] [DEBUG]		44	Schedule:  14.67%	Time: 174ms 973us 26ns	sample: [22687463]	Result 84826
+[2020-12-14 21:55:45] [DEBUG]		45	Schedule:  15.00%	Time: 17s 641ms 78us 473ns	sample: [27576832]	Result 5084068
+[2020-12-14 21:55:56] [DEBUG]		46	Schedule:  15.33%	Time: 11s 572ms 345us 641ns	sample: [108]	Result 5470639
+[2020-12-14 21:55:56] [DEBUG]		47	Schedule:  15.67%	Time: 1ms 956us 427ns	sample: [35792763]	Result 220
+[2020-12-14 21:56:03] [DEBUG]		48	Schedule:  16.00%	Time: 6s 647ms 362us 279ns	sample: [21373148]	Result 3520599
+[2020-12-14 21:57:06] [DEBUG]		49	Schedule:  16.33%	Time: 1m 3s 111ms 887us 243ns	sample: [15234546]	Result 11830609
+[2020-12-14 21:57:35] [DEBUG]		50	Schedule:  16.67%	Time: 28s 924ms 386us 388ns	sample: [14379717]	Result 2171482
+[2020-12-14 21:57:35] [DEBUG]		51	Schedule:  17.00%	Time: 2ms 164us 939ns	sample: [42744015]	Result 285
+[2020-12-14 21:57:36] [DEBUG]		52	Schedule:  17.33%	Time: 791ms 875us 765ns	sample: [16927373]	Result 301751
+[2020-12-14 22:00:19] [DEBUG]		53	Schedule:  17.67%	Time: 2m 43s 455ms 546us 638ns	sample: [16727535]	Result 18549899
+[2020-12-14 22:00:22] [DEBUG]		54	Schedule:  18.00%	Time: 2s 880ms 485us 440ns	sample: [51520097]	Result 774
+[2020-12-14 22:00:22] [DEBUG]		55	Schedule:  18.33%	Time: 41ms 976us 51ns	sample: [15078404]	Result 11608
+[2020-12-14 22:00:26] [DEBUG]		56	Schedule:  18.67%	Time: 3s 878ms 92us 157ns	sample: [14199173]	Result 1942917
+[2020-12-14 22:00:29] [DEBUG]		57	Schedule:  19.00%	Time: 2s 552ms 668us 452ns	sample: [4517721]	Result 1265066
+[2020-12-14 22:00:42] [DEBUG]		58	Schedule:  19.33%	Time: 13s 165ms 414us 211ns	sample: [17323985]	Result 5754628
+[2020-12-14 22:01:00] [DEBUG]		59	Schedule:  19.67%	Time: 17s 986ms 21us 813ns	sample: [18218033]	Result 5018933
+[2020-12-14 22:01:02] [DEBUG]		60	Schedule:  20.00%	Time: 2s 137ms 345us 200ns	sample: [21828142]	Result 1086907
+[2020-12-14 22:01:02] [DEBUG]		61	Schedule:  20.33%	Time: 2ms 182us 566ns	sample: [52674447]	Result 410
+[2020-12-14 22:03:05] [DEBUG]		62	Schedule:  20.67%	Time: 2m 3s 543ms 921us 196ns	sample: [15285305]	Result 13340121
+[2020-12-14 22:03:05] [DEBUG]		63	Schedule:  21.00%	Time: 30ms 401us 604ns	sample: [45827167]	Result 23733
+[2020-12-14 22:03:05] [DEBUG]		64	Schedule:  21.33%	Time: 1ms 854us 532ns	sample: [50826077]	Result 266
+[2020-12-14 22:03:10] [DEBUG]		65	Schedule:  21.67%	Time: 5s 51ms 754us 121ns	sample: [54064328]	Result 751055
+[2020-12-14 22:03:24] [DEBUG]		66	Schedule:  22.00%	Time: 14s 25ms 684us 710ns	sample: [6941]	Result 6500866
+[2020-12-14 22:03:25] [DEBUG]		67	Schedule:  22.33%	Time: 53ms 341us 768ns	sample: [33586608]	Result 42812
+[2020-12-14 22:03:25] [DEBUG]		68	Schedule:  22.67%	Time: 240ms 837us 624ns	sample: [204]	Result 185191
+[2020-12-14 22:03:25] [DEBUG]		69	Schedule:  23.00%	Time: 8ms 607us 460ns	sample: [22716284]	Result 5128
+[2020-12-14 22:03:25] [DEBUG]		70	Schedule:  23.33%	Time: 33ms 50us 894ns	sample: [34386420]	Result 26422
+[2020-12-14 22:03:25] [DEBUG]		71	Schedule:  23.67%	Time: 2ms 607us 18ns	sample: [36187082]	Result 555
+[2020-12-14 22:03:46] [DEBUG]		72	Schedule:  24.00%	Time: 21s 447ms 738us 613ns	sample: [31239408]	Result 6299637
+[2020-12-14 22:03:51] [DEBUG]		73	Schedule:  24.33%	Time: 4s 543ms 831us 353ns	sample: [40316879]	Result 2179417
+[2020-12-14 22:05:25] [DEBUG]		74	Schedule:  24.67%	Time: 1m 34s 585ms 571us 647ns	sample: [10667662]	Result 12296204
+[2020-12-14 22:05:40] [DEBUG]		75	Schedule:  25.00%	Time: 14s 630ms 282us 338ns	sample: [46517052]	Result 1437842
+[2020-12-14 22:06:34] [DEBUG]		76	Schedule:  25.33%	Time: 53s 947ms 745us 748ns	sample: [24523660]	Result 10078129
+[2020-12-14 22:06:56] [DEBUG]		77	Schedule:  25.67%	Time: 22s 59ms 996us 376ns	sample: [14521821]	Result 8408072
+[2020-12-14 22:07:21] [DEBUG]		78	Schedule:  26.00%	Time: 25s 152ms 541us 250ns	sample: [18548221]	Result 9016503
+[2020-12-14 22:07:21] [DEBUG]		79	Schedule:  26.33%	Time: 19ms 594us 946ns	sample: [41496166]	Result 9682
+[2020-12-14 22:07:22] [DEBUG]		80	Schedule:  26.67%	Time: 742ms 578us 20ns	sample: [27104314]	Result 375568
+[2020-12-14 22:07:25] [DEBUG]		81	Schedule:  27.00%	Time: 2s 801ms 161us 776ns	sample: [27654423]	Result 658949
+[2020-12-14 22:07:35] [DEBUG]		82	Schedule:  27.33%	Time: 9s 988ms 86us 653ns	sample: [1685871]	Result 2517334
+[2020-12-14 22:07:35] [DEBUG]		83	Schedule:  27.67%	Time: 54ms 173us 348ns	sample: [23184686]	Result 28118
+[2020-12-14 22:07:53] [DEBUG]		84	Schedule:  28.00%	Time: 18s 83ms 682us 489ns	sample: [23994973]	Result 1752284
+[2020-12-14 22:07:53] [DEBUG]		85	Schedule:  28.33%	Time: 2ms 305us 486ns	sample: [60312372]	Result 297
+[2020-12-14 22:08:14] [DEBUG]		86	Schedule:  28.67%	Time: 21s 110ms 924us 941ns	sample: [8610562]	Result 5284437
+[2020-12-14 22:08:32] [DEBUG]		87	Schedule:  29.00%	Time: 17s 824ms 138us 573ns	sample: [38978212]	Result 1752050
+[2020-12-14 22:09:34] [DEBUG]		88	Schedule:  29.33%	Time: 1m 2s 159ms 605us 47ns	sample: [19740592]	Result 10917444
+[2020-12-14 22:09:43] [DEBUG]		89	Schedule:  29.67%	Time: 8s 902ms 553us 391ns	sample: [18803424]	Result 1071142
+[2020-12-14 22:09:44] [DEBUG]		90	Schedule:  30.00%	Time: 1s 124ms 41us 547ns	sample: [30395784]	Result 399589
+[2020-12-14 22:09:44] [DEBUG]		91	Schedule:  30.33%	Time: 2ms 179us 350ns	sample: [35908081]	Result 68
+[2020-12-14 22:09:59] [DEBUG]		92	Schedule:  30.67%	Time: 15s 389ms 502us 857ns	sample: [21156271]	Result 7075771
+[2020-12-14 22:10:03] [DEBUG]		93	Schedule:  31.00%	Time: 3s 111ms 453us 174ns	sample: [20530182]	Result 527655
+[2020-12-14 22:10:03] [DEBUG]		94	Schedule:  31.33%	Time: 687ms 565us 38ns	sample: [23378124]	Result 226551
+[2020-12-14 22:10:13] [DEBUG]		95	Schedule:  31.67%	Time: 9s 964ms 671us 713ns	sample: [29830423]	Result 1904744
+[2020-12-14 22:10:28] [DEBUG]		96	Schedule:  32.00%	Time: 15s 333ms 471us 499ns	sample: [44304625]	Result 1652760
+[2020-12-14 22:10:31] [DEBUG]		97	Schedule:  32.33%	Time: 2s 447ms 517us 830ns	sample: [28830907]	Result 1208645
+[2020-12-14 22:10:31] [DEBUG]		98	Schedule:  32.67%	Time: 5ms 688us 382ns	sample: [31180323]	Result 3706
+[2020-12-14 22:10:34] [DEBUG]		99	Schedule:  33.00%	Time: 2s 927ms 782us 589ns	sample: [17998925]	Result 710055
+[2020-12-14 22:10:41] [DEBUG]		100	Schedule:  33.33%	Time: 6s 632ms 302us 533ns	sample: [46822485]	Result 976476
+[2020-12-14 22:10:41] [DEBUG]		101	Schedule:  33.67%	Time: 14ms 187us 926ns	sample: [42240052]	Result 4236
+[2020-12-14 22:10:41] [DEBUG]		102	Schedule:  34.00%	Time: 4ms 998us 443ns	sample: [45193938]	Result 1066
+[2020-12-14 22:10:41] [DEBUG]		103	Schedule:  34.33%	Time: 114ms 265us 634ns	sample: [53758197]	Result 78304
+[2020-12-14 22:11:40] [DEBUG]		104	Schedule:  34.67%	Time: 58s 892ms 933us 247ns	sample: [20460235]	Result 9817198
+[2020-12-14 22:11:40] [DEBUG]		105	Schedule:  35.00%	Time: 2ms 818us 652ns	sample: [52923055]	Result 976
+[2020-12-14 22:13:28] [DEBUG]		106	Schedule:  35.33%	Time: 1m 48s 17ms 690us 509ns	sample: [16129920]	Result 15760516
+[2020-12-14 22:13:37] [DEBUG]		107	Schedule:  35.67%	Time: 9s 84ms 944us 418ns	sample: [15214045]	Result 1822798
+[2020-12-14 22:13:37] [DEBUG]		108	Schedule:  36.00%	Time: 1ms 691us 351ns	sample: [19109927]	Result 18
+[2020-12-14 22:13:56] [DEBUG]		109	Schedule:  36.33%	Time: 19s 65ms 37us 258ns	sample: [15917338]	Result 4471358
+[2020-12-14 22:15:19] [DEBUG]		110	Schedule:  36.67%	Time: 1m 23s 524ms 267us 616ns	sample: [27457788]	Result 14389832
+[2020-12-14 22:15:19] [DEBUG]		111	Schedule:  37.00%	Time: 134ms 899us 380ns	sample: [38631864]	Result 83068
+[2020-12-14 22:15:19] [DEBUG]		112	Schedule:  37.33%	Time: 2ms 93us 760ns	sample: [50808075]	Result 319
+[2020-12-14 22:15:46] [DEBUG]		113	Schedule:  37.67%	Time: 26s 687ms 994us 724ns	sample: [19130449]	Result 4373154
+[2020-12-14 22:15:47] [DEBUG]		114	Schedule:  38.00%	Time: 1s 360ms 170us 38ns	sample: [11015592]	Result 553825
+[2020-12-14 22:16:15] [DEBUG]		115	Schedule:  38.33%	Time: 27s 251ms 240us 341ns	sample: [24777262]	Result 8058690
+[2020-12-14 22:16:31] [DEBUG]		116	Schedule:  38.67%	Time: 16s 143ms 226us 349ns	sample: [14127710]	Result 3425398
+[2020-12-14 22:16:31] [DEBUG]		117	Schedule:  39.00%	Time: 1ms 902us 359ns	sample: [28570061]	Result 226
+[2020-12-14 22:16:35] [DEBUG]		118	Schedule:  39.33%	Time: 3s 705ms 79us 242ns	sample: [29941438]	Result 1975831
+[2020-12-14 22:16:36] [DEBUG]		119	Schedule:  39.67%	Time: 1s 709ms 630us 821ns	sample: [15423869]	Result 1076862
+[2020-12-14 22:16:56] [DEBUG]		120	Schedule:  40.00%	Time: 19s 786ms 919us 536ns	sample: [20804997]	Result 6386803
+[2020-12-14 22:17:04] [DEBUG]		121	Schedule:  40.33%	Time: 8s 299ms 825us 287ns	sample: [22667467]	Result 3991574
+[2020-12-14 22:17:57] [DEBUG]		122	Schedule:  40.67%	Time: 53s 100ms 996us 662ns	sample: [26589987]	Result 9251394
+[2020-12-14 22:17:57] [DEBUG]		123	Schedule:  41.00%	Time: 1ms 936us 349ns	sample: [45114047]	Result 181
+[2020-12-14 22:19:57] [DEBUG]		124	Schedule:  41.33%	Time: 1m 59s 819ms 727us 317ns	sample: [18087450]	Result 12177699
+[2020-12-14 22:19:58] [DEBUG]		125	Schedule:  41.67%	Time: 1s 234ms 141us 178ns	sample: [961081]	Result 326089
+[2020-12-14 22:21:02] [DEBUG]		126	Schedule:  42.00%	Time: 1m 3s 673ms 321us 969ns	sample: [14231321]	Result 10280760
+[2020-12-14 22:21:07] [DEBUG]		127	Schedule:  42.33%	Time: 5s 6ms 71us 46ns	sample: [14050138]	Result 2754252
+[2020-12-14 22:21:13] [DEBUG]		128	Schedule:  42.67%	Time: 6s 145ms 562us 85ns	sample: [22742142]	Result 3224990
+[2020-12-14 22:22:10] [DEBUG]		129	Schedule:  43.00%	Time: 56s 942ms 394us 183ns	sample: [36412963]	Result 12163072
+[2020-12-14 22:22:20] [DEBUG]		130	Schedule:  43.33%	Time: 9s 703ms 735us 841ns	sample: [6444062]	Result 4565989
+[2020-12-14 22:22:20] [DEBUG]		131	Schedule:  43.67%	Time: 135ms 183us 601ns	sample: [41608888]	Result 89423
+[2020-12-14 22:22:40] [DEBUG]		132	Schedule:  44.00%	Time: 20s 335ms 495us 809ns	sample: [15492329]	Result 1569474
+[2020-12-14 22:23:59] [DEBUG]		133	Schedule:  44.33%	Time: 1m 18s 952ms 721us 910ns	sample: [19632867]	Result 8527394
+[2020-12-14 22:23:59] [DEBUG]		134	Schedule:  44.67%	Time: 106ms 670us 961ns	sample: [20194683]	Result 66895
+[2020-12-14 22:24:13] [DEBUG]		135	Schedule:  45.00%	Time: 13s 504ms 668us 246ns	sample: [22286431]	Result 3729163
+[2020-12-14 22:24:35] [DEBUG]		136	Schedule:  45.33%	Time: 22s 86ms 625us 777ns	sample: [27558050]	Result 6525787
+[2020-12-14 22:25:52] [DEBUG]		137	Schedule:  45.67%	Time: 1m 16s 997ms 600us 647ns	sample: [5120691]	Result 13244312
+[2020-12-14 22:25:52] [DEBUG]		138	Schedule:  46.00%	Time: 2ms 439us 505ns	sample: [48570598]	Result 182
+[2020-12-14 22:26:00] [DEBUG]		139	Schedule:  46.33%	Time: 7s 496ms 395us 413ns	sample: [48459607]	Result 1917418
+[2020-12-14 22:26:11] [DEBUG]		140	Schedule:  46.67%	Time: 11s 408ms 972us 465ns	sample: [38407885]	Result 3003048
+[2020-12-14 22:26:12] [DEBUG]		141	Schedule:  47.00%	Time: 1s 120ms 509us 988ns	sample: [23686306]	Result 451242
+[2020-12-14 22:26:12] [DEBUG]		142	Schedule:  47.33%	Time: 276ms 711us 954ns	sample: [44807976]	Result 165146
+[2020-12-14 22:26:18] [DEBUG]		143	Schedule:  47.67%	Time: 5s 783ms 945us 288ns	sample: [17129374]	Result 3341523
+[2020-12-14 22:26:30] [DEBUG]		144	Schedule:  48.00%	Time: 12s 226ms 391us 65ns	sample: [1775731]	Result 4874742
+[2020-12-14 22:26:31] [DEBUG]		145	Schedule:  48.33%	Time: 256ms 70us 656ns	sample: [17872794]	Result 162057
+[2020-12-14 22:26:31] [DEBUG]		146	Schedule:  48.67%	Time: 2ms 546us 877ns	sample: [54491514]	Result 818
+[2020-12-14 22:27:11] [DEBUG]		147	Schedule:  49.00%	Time: 40s 849ms 793us 214ns	sample: [18812795]	Result 7676273
+[2020-12-14 22:27:12] [DEBUG]		148	Schedule:  49.33%	Time: 2ms 116us 33ns	sample: [37479006]	Result 301
+[2020-12-14 22:27:12] [DEBUG]		149	Schedule:  49.67%	Time: 2ms 130us 403ns	sample: [22281042]	Result 304
+[2020-12-14 22:27:27] [DEBUG]		150	Schedule:  50.00%	Time: 15s 85ms 769us 451ns	sample: [26116046]	Result 2121317
+[2020-12-14 22:27:27] [DEBUG]		151	Schedule:  50.33%	Time: 7ms 347us 264ns	sample: [20841950]	Result 4908
+[2020-12-14 22:27:49] [DEBUG]		152	Schedule:  50.67%	Time: 22s 816ms 577us 553ns	sample: [30244121]	Result 3301161
+[2020-12-14 22:28:02] [DEBUG]		153	Schedule:  51.00%	Time: 12s 654ms 181us 249ns	sample: [14854462]	Result 4155274
+[2020-12-14 22:28:52] [DEBUG]		154	Schedule:  51.33%	Time: 50s 278ms 680us 90ns	sample: [618593]	Result 13697864
+[2020-12-14 22:28:55] [DEBUG]		155	Schedule:  51.67%	Time: 2s 578ms 122us 146ns	sample: [19644074]	Result 929825
+[2020-12-14 22:28:55] [DEBUG]		156	Schedule:  52.00%	Time: 182ms 982us 672ns	sample: [15735493]	Result 117039
+[2020-12-14 22:29:07] [DEBUG]		157	Schedule:  52.33%	Time: 11s 413ms 982us 436ns	sample: [43283406]	Result 4295130
+[2020-12-14 22:29:07] [DEBUG]		158	Schedule:  52.67%	Time: 33ms 359us 743ns	sample: [24800750]	Result 28037
+[2020-12-14 22:29:11] [DEBUG]		159	Schedule:  53.00%	Time: 4s 777ms 244us 472ns	sample: [22872869]	Result 2170594
+[2020-12-14 22:30:08] [DEBUG]		160	Schedule:  53.33%	Time: 56s 840ms 568us 27ns	sample: [20067354]	Result 10951509
+[2020-12-14 22:30:08] [DEBUG]		161	Schedule:  53.67%	Time: 16ms 369us 978ns	sample: [15247448]	Result 12163
+[2020-12-14 22:30:11] [DEBUG]		162	Schedule:  54.00%	Time: 3s 84ms 768us 405ns	sample: [20912620]	Result 1830666
+[2020-12-14 22:30:40] [DEBUG]		163	Schedule:  54.33%	Time: 28s 694ms 609us 150ns	sample: [20590051]	Result 5946038
+[2020-12-14 22:30:58] [DEBUG]		164	Schedule:  54.67%	Time: 17s 580ms 466us 414ns	sample: [14137268]	Result 4562233
+[2020-12-14 22:30:58] [DEBUG]		165	Schedule:  55.00%	Time: 1ms 875us 603ns	sample: [20143330]	Result 47
+[2020-12-14 22:31:32] [DEBUG]		166	Schedule:  55.33%	Time: 34s 240ms 232us 213ns	sample: [18112970]	Result 8811078
+[2020-12-14 22:31:34] [DEBUG]		167	Schedule:  55.67%	Time: 2s 509ms 434us 471ns	sample: [17100967]	Result 1109707
+[2020-12-14 22:31:57] [DEBUG]		168	Schedule:  56.00%	Time: 23s 115ms 902us 685ns	sample: [16732759]	Result 5862549
+[2020-12-14 22:31:57] [DEBUG]		169	Schedule:  56.33%	Time: 6ms 666us 924ns	sample: [54466171]	Result 3864
+[2020-12-14 22:31:57] [DEBUG]		170	Schedule:  56.67%	Time: 1ms 542us 825ns	sample: [52802702]	Result 108
+[2020-12-14 22:32:11] [DEBUG]		171	Schedule:  57.00%	Time: 14s 37ms 544us 492ns	sample: [20373034]	Result 3230472
+[2020-12-14 22:32:11] [DEBUG]		172	Schedule:  57.33%	Time: 1ms 868us 562ns	sample: [32765375]	Result 133
+[2020-12-14 22:32:15] [DEBUG]		173	Schedule:  57.67%	Time: 3s 770ms 570us 117ns	sample: [24812106]	Result 1888077
+[2020-12-14 22:32:16] [DEBUG]		174	Schedule:  58.00%	Time: 507ms 799us 111ns	sample: [11894652]	Result 299379
+[2020-12-14 22:32:16] [DEBUG]		175	Schedule:  58.33%	Time: 8ms 369us 262ns	sample: [51370393]	Result 1848
+[2020-12-14 22:32:46] [DEBUG]		176	Schedule:  58.67%	Time: 29s 759ms 292us 963ns	sample: [3943871]	Result 7603798
+[2020-12-14 22:32:48] [DEBUG]		177	Schedule:  59.00%	Time: 2s 629ms 987us 663ns	sample: [53469420]	Result 560740
+[2020-12-14 22:33:48] [DEBUG]		178	Schedule:  59.33%	Time: 59s 718ms 976us 981ns	sample: [14761795]	Result 12162243
+[2020-12-14 22:33:51] [DEBUG]		179	Schedule:  59.67%	Time: 3s 7ms 755us 626ns	sample: [365]	Result 1473196
+[2020-12-14 22:33:51] [DEBUG]		180	Schedule:  60.00%	Time: 53ms 966us 510ns	sample: [46304581]	Result 37288
+[2020-12-14 22:33:56] [DEBUG]		181	Schedule:  60.33%	Time: 5s 63ms 416us 560ns	sample: [3032431]	Result 1338109
+[2020-12-14 22:34:12] [DEBUG]		182	Schedule:  60.67%	Time: 15s 648ms 90us 465ns	sample: [20977546]	Result 7230370
+[2020-12-14 22:34:12] [DEBUG]		183	Schedule:  61.00%	Time: 2ms 633us 819ns	sample: [21099347]	Result 884
+[2020-12-14 22:34:12] [DEBUG]		184	Schedule:  61.33%	Time: 171ms 435us 414ns	sample: [42399917]	Result 111163
+[2020-12-14 22:34:18] [DEBUG]		185	Schedule:  61.67%	Time: 6s 627ms 952us 870ns	sample: [796766]	Result 3274183
+[2020-12-14 22:34:19] [DEBUG]		186	Schedule:  62.00%	Time: 583ms 901us 361ns	sample: [8909522]	Result 89658
+[2020-12-14 22:34:19] [DEBUG]		187	Schedule:  62.33%	Time: 57ms 16us 869ns	sample: [16460768]	Result 48077
+[2020-12-14 22:34:19] [DEBUG]		188	Schedule:  62.67%	Time: 73ms 230us 941ns	sample: [9121432]	Result 41495
+[2020-12-14 22:35:54] [DEBUG]		189	Schedule:  63.00%	Time: 1m 34s 537ms 912us 272ns	sample: [17919972]	Result 15858813
+[2020-12-14 22:35:54] [DEBUG]		190	Schedule:  63.33%	Time: 9ms 40us 306ns	sample: [56643711]	Result 7340
+[2020-12-14 22:36:00] [DEBUG]		191	Schedule:  63.67%	Time: 6s 615ms 714us 864ns	sample: [19226267]	Result 3019884
+[2020-12-14 22:36:01] [DEBUG]		192	Schedule:  64.00%	Time: 631ms 832us 163ns	sample: [13221862]	Result 180028
+[2020-12-14 22:36:01] [DEBUG]		193	Schedule:  64.33%	Time: 87ms 215us 938ns	sample: [41259823]	Result 64428
+[2020-12-14 22:36:03] [DEBUG]		194	Schedule:  64.67%	Time: 2s 459ms 322us 317ns	sample: [28466425]	Result 693969
+[2020-12-14 22:36:31] [DEBUG]		195	Schedule:  65.00%	Time: 27s 133ms 987us 650ns	sample: [31806999]	Result 3437045
+[2020-12-14 22:37:23] [DEBUG]		196	Schedule:  65.33%	Time: 52s 416ms 538us 71ns	sample: [759251]	Result 12677623
+[2020-12-14 22:37:23] [DEBUG]		197	Schedule:  65.67%	Time: 11ms 572us 156ns	sample: [59550897]	Result 7887
+[2020-12-14 22:37:23] [DEBUG]		198	Schedule:  66.00%	Time: 15ms 655us 521ns	sample: [22422221]	Result 12026
+[2020-12-14 22:37:23] [DEBUG]		199	Schedule:  66.33%	Time: 6ms 968us 718ns	sample: [14662772]	Result 4464
+[2020-12-14 22:38:11] [DEBUG]		200	Schedule:  66.67%	Time: 48s 78ms 353us 722ns	sample: [15935591]	Result 8010419
+[2020-12-14 22:38:11] [DEBUG]		201	Schedule:  67.00%	Time: 316ms 91us 636ns	sample: [36072333]	Result 207050
+[2020-12-14 22:38:15] [DEBUG]		202	Schedule:  67.33%	Time: 3s 592ms 619us 819ns	sample: [14669432]	Result 2028210
+[2020-12-14 22:38:27] [DEBUG]		203	Schedule:  67.67%	Time: 12s 399ms 470us 248ns	sample: [14235317]	Result 4019937
+[2020-12-14 22:38:27] [DEBUG]		204	Schedule:  68.00%	Time: 2ms 940us 962ns	sample: [46587124]	Result 1287
+[2020-12-14 22:38:34] [DEBUG]		205	Schedule:  68.33%	Time: 6s 189ms 656us 21ns	sample: [33497221]	Result 1185713
+[2020-12-14 22:38:34] [DEBUG]		206	Schedule:  68.67%	Time: 2ms 447us 782ns	sample: [41173269]	Result 80
+[2020-12-14 22:38:36] [DEBUG]		207	Schedule:  69.00%	Time: 2s 503ms 953us 52ns	sample: [14462907]	Result 1459851
+[2020-12-14 22:39:02] [DEBUG]		208	Schedule:  69.33%	Time: 26s 286ms 982us 256ns	sample: [15922433]	Result 10023652
+[2020-12-14 22:39:03] [DEBUG]		209	Schedule:  69.67%	Time: 122ms 476us 64ns	sample: [22046932]	Result 81872
+[2020-12-14 22:39:39] [DEBUG]		210	Schedule:  70.00%	Time: 36s 423ms 326us 739ns	sample: [8069572]	Result 10002360
+[2020-12-14 22:39:42] [DEBUG]		211	Schedule:  70.33%	Time: 3s 352ms 236us 699ns	sample: [17073811]	Result 1282451
+[2020-12-14 22:40:53] [DEBUG]		212	Schedule:  70.67%	Time: 1m 10s 955ms 538us 888ns	sample: [19571299]	Result 12864103
+[2020-12-14 22:41:57] [DEBUG]		213	Schedule:  71.00%	Time: 1m 3s 410ms 638us 945ns	sample: [23922282]	Result 12648996
+[2020-12-14 22:41:58] [DEBUG]		214	Schedule:  71.33%	Time: 947ms 390us 674ns	sample: [37975089]	Result 386109
+[2020-12-14 22:42:05] [DEBUG]		215	Schedule:  71.67%	Time: 6s 894ms 472us 474ns	sample: [71123]	Result 3388726
+[2020-12-14 22:42:19] [DEBUG]		216	Schedule:  72.00%	Time: 14s 519ms 652us 176ns	sample: [13141932]	Result 6517724
+[2020-12-14 22:43:20] [DEBUG]		217	Schedule:  72.33%	Time: 1m 0s 927ms 454us 864ns	sample: [26784273]	Result 10493653
+[2020-12-14 22:43:27] [DEBUG]		218	Schedule:  72.67%	Time: 6s 559ms 427us 598ns	sample: [11172992]	Result 3092772
+[2020-12-14 22:43:27] [DEBUG]		219	Schedule:  73.00%	Time: 137ms 709us 866ns	sample: [23718349]	Result 106662
+[2020-12-14 22:43:32] [DEBUG]		220	Schedule:  73.33%	Time: 5s 674ms 9us 660ns	sample: [43097584]	Result 815290
+[2020-12-14 22:44:19] [DEBUG]		221	Schedule:  73.67%	Time: 46s 604ms 921us 661ns	sample: [19829645]	Result 10505576
+[2020-12-14 22:46:24] [DEBUG]		222	Schedule:  74.00%	Time: 2m 5s 52ms 892us 618ns	sample: [25365536]	Result 15418835
+[2020-12-14 22:46:24] [DEBUG]		223	Schedule:  74.33%	Time: 3ms 248us 153ns	sample: [41213114]	Result 590
+[2020-12-14 22:46:25] [DEBUG]		224	Schedule:  74.67%	Time: 815ms 489us 319ns	sample: [15683302]	Result 419965
+[2020-12-14 22:46:31] [DEBUG]		225	Schedule:  75.00%	Time: 6s 241ms 41us 313ns	sample: [19867432]	Result 996184
+[2020-12-14 22:46:31] [DEBUG]		226	Schedule:  75.33%	Time: 2ms 178us 192ns	sample: [27923061]	Result 502
+[2020-12-14 22:48:30] [DEBUG]		227	Schedule:  75.67%	Time: 1m 58s 404ms 512us 143ns	sample: [20536157]	Result 15344860
+[2020-12-14 22:49:57] [DEBUG]		228	Schedule:  76.00%	Time: 1m 27s 63ms 808us 468ns	sample: [14610275]	Result 7785487
+[2020-12-14 22:50:42] [DEBUG]		229	Schedule:  76.33%	Time: 45s 361ms 753us 17ns	sample: [32959253]	Result 9480950
+[2020-12-14 22:51:07] [DEBUG]		230	Schedule:  76.67%	Time: 24s 956ms 215us 285ns	sample: [1045141]	Result 9779302
+[2020-12-14 22:51:07] [DEBUG]		231	Schedule:  77.00%	Time: 4ms 594us 282ns	sample: [39940849]	Result 2345
+[2020-12-14 22:51:13] [DEBUG]		232	Schedule:  77.33%	Time: 6s 271ms 482us 277ns	sample: [26591593]	Result 3187018
+[2020-12-14 22:52:51] [DEBUG]		233	Schedule:  77.67%	Time: 1m 37s 788ms 430us 297ns	sample: [14293310]	Result 15703553
+[2020-12-14 22:52:51] [DEBUG]		234	Schedule:  78.00%	Time: 1ms 737us 254ns	sample: [26149262]	Result 80
+[2020-12-14 22:52:51] [DEBUG]		235	Schedule:  78.33%	Time: 13ms 3us 426ns	sample: [37889798]	Result 9811
+[2020-12-14 22:52:51] [DEBUG]		236	Schedule:  78.67%	Time: 280ms 10us 952ns	sample: [14803170]	Result 123130
+[2020-12-14 22:53:05] [DEBUG]		237	Schedule:  79.00%	Time: 13s 497ms 579us 575ns	sample: [16548466]	Result 3414529
+[2020-12-14 22:53:13] [DEBUG]		238	Schedule:  79.33%	Time: 8s 86ms 558us 455ns	sample: [761393]	Result 2277235
+[2020-12-14 22:53:13] [DEBUG]		239	Schedule:  79.67%	Time: 113ms 311us 918ns	sample: [17626181]	Result 73509
+[2020-12-14 22:54:02] [DEBUG]		240	Schedule:  80.00%	Time: 49s 227ms 754us 60ns	sample: [1418]	Result 11181053
+[2020-12-14 22:54:21] [DEBUG]		241	Schedule:  80.33%	Time: 18s 549ms 233us 452ns	sample: [16609515]	Result 1627620
+[2020-12-14 22:54:21] [DEBUG]		242	Schedule:  80.67%	Time: 626ms 102us 150ns	sample: [32629211]	Result 268530
+[2020-12-14 22:54:21] [DEBUG]		243	Schedule:  81.00%	Time: 65ms 307us 740ns	sample: [20534044]	Result 48368
+[2020-12-14 22:54:25] [DEBUG]		244	Schedule:  81.33%	Time: 4s 7ms 226us 828ns	sample: [16797810]	Result 1987666
+[2020-12-14 22:54:25] [DEBUG]		245	Schedule:  81.67%	Time: 13ms 668us 223ns	sample: [30096883]	Result 11533
+[2020-12-14 22:54:28] [DEBUG]		246	Schedule:  82.00%	Time: 2s 745ms 75us 758ns	sample: [22508419]	Result 1391394
+[2020-12-14 22:54:55] [DEBUG]		247	Schedule:  82.33%	Time: 26s 565ms 323us 215ns	sample: [19124463]	Result 6781230
+[2020-12-14 22:54:55] [DEBUG]		248	Schedule:  82.67%	Time: 1ms 990us 247ns	sample: [42532346]	Result 309
+[2020-12-14 22:54:55] [DEBUG]		249	Schedule:  83.00%	Time: 12ms 691us 515ns	sample: [492]	Result 10487
+[2020-12-14 22:55:06] [DEBUG]		250	Schedule:  83.33%	Time: 11s 709ms 925us 51ns	sample: [16278934]	Result 3583089
+[2020-12-14 22:55:10] [DEBUG]		251	Schedule:  83.67%	Time: 3s 279ms 934us 669ns	sample: [22787048]	Result 1830789
+[2020-12-14 22:55:56] [DEBUG]		252	Schedule:  84.00%	Time: 46s 59ms 19us 290ns	sample: [15163466]	Result 9017533
+[2020-12-14 22:56:03] [DEBUG]		253	Schedule:  84.33%	Time: 7s 182ms 776us 397ns	sample: [22382980]	Result 1850215
+[2020-12-14 22:56:08] [DEBUG]		254	Schedule:  84.67%	Time: 5s 405ms 422us 57ns	sample: [16557588]	Result 817330
+[2020-12-14 22:56:09] [DEBUG]		255	Schedule:  85.00%	Time: 493ms 324us 92ns	sample: [36880563]	Result 349324
+[2020-12-14 22:56:09] [DEBUG]		256	Schedule:  85.33%	Time: 15ms 110us 145ns	sample: [43146251]	Result 13042
+[2020-12-14 22:56:09] [DEBUG]		257	Schedule:  85.67%	Time: 509ms 171us 828ns	sample: [30859015]	Result 329441
+[2020-12-14 22:56:09] [DEBUG]		258	Schedule:  86.00%	Time: 2ms 125us 229ns	sample: [41716439]	Result 328
+[2020-12-14 22:56:14] [DEBUG]		259	Schedule:  86.33%	Time: 4s 447ms 607us 242ns	sample: [6102302]	Result 2149883
+[2020-12-14 22:56:14] [DEBUG]		260	Schedule:  86.67%	Time: 316ms 931us 276ns	sample: [25555552]	Result 194407
+[2020-12-14 22:56:35] [DEBUG]		261	Schedule:  87.00%	Time: 20s 419ms 725us 194ns	sample: [33370227]	Result 1974750
+[2020-12-14 22:56:35] [DEBUG]		262	Schedule:  87.33%	Time: 9ms 54us 848ns	sample: [43251483]	Result 6029
+[2020-12-14 22:56:35] [DEBUG]		263	Schedule:  87.67%	Time: 688ms 939us 429ns	sample: [32209489]	Result 339323
+[2020-12-14 22:56:41] [DEBUG]		264	Schedule:  88.00%	Time: 5s 704ms 816us 577ns	sample: [17910878]	Result 2706291
+[2020-12-14 22:56:41] [DEBUG]		265	Schedule:  88.33%	Time: 400ms 12us 694ns	sample: [23742760]	Result 271328
+[2020-12-14 22:56:52] [DEBUG]		266	Schedule:  88.67%	Time: 10s 250ms 186us 967ns	sample: [18979962]	Result 4394162
+[2020-12-14 22:58:01] [DEBUG]		267	Schedule:  89.00%	Time: 1m 9s 436ms 878us 879ns	sample: [14230524]	Result 12854179
+[2020-12-14 22:58:37] [DEBUG]		268	Schedule:  89.33%	Time: 36s 375ms 8us 274ns	sample: [24608680]	Result 7827096
+[2020-12-14 22:58:40] [DEBUG]		269	Schedule:  89.67%	Time: 2s 543ms 772us 718ns	sample: [26643090]	Result 845836
+[2020-12-14 22:58:58] [DEBUG]		270	Schedule:  90.00%	Time: 17s 830ms 716us 70ns	sample: [18659533]	Result 2773788
+[2020-12-14 22:58:59] [DEBUG]		271	Schedule:  90.33%	Time: 1s 250ms 88us 713ns	sample: [39616562]	Result 512960
+[2020-12-14 22:58:59] [DEBUG]		272	Schedule:  90.67%	Time: 1ms 634us 0ns	sample: [50848585]	Result 87
+[2020-12-14 22:58:59] [DEBUG]		273	Schedule:  91.00%	Time: 9ms 179us 147ns	sample: [22359310]	Result 4414
+[2020-12-14 22:59:09] [DEBUG]		274	Schedule:  91.33%	Time: 10s 109ms 379us 803ns	sample: [18954559]	Result 1100007
+[2020-12-14 22:59:09] [DEBUG]		275	Schedule:  91.67%	Time: 9ms 299us 952ns	sample: [37440908]	Result 6309
+[2020-12-14 22:59:09] [DEBUG]		276	Schedule:  92.00%	Time: 1ms 826us 176ns	sample: [45251595]	Result 384
+[2020-12-14 22:59:11] [DEBUG]		277	Schedule:  92.33%	Time: 1s 965ms 907us 827ns	sample: [45830702]	Result 1086962
+[2020-12-14 22:59:15] [DEBUG]		278	Schedule:  92.67%	Time: 4s 199ms 774us 369ns	sample: [29861887]	Result 810752
+[2020-12-14 23:00:18] [DEBUG]		279	Schedule:  93.00%	Time: 1m 2s 766ms 908us 747ns	sample: [2884771]	Result 12809894
+[2020-12-14 23:00:21] [DEBUG]		280	Schedule:  93.33%	Time: 3s 72ms 184us 550ns	sample: [25941311]	Result 821804
+[2020-12-14 23:00:21] [DEBUG]		281	Schedule:  93.67%	Time: 41ms 485us 388ns	sample: [46484827]	Result 10365
+[2020-12-14 23:00:34] [DEBUG]		282	Schedule:  94.00%	Time: 12s 435ms 416us 548ns	sample: [21407335]	Result 4998137
+[2020-12-14 23:00:43] [DEBUG]		283	Schedule:  94.33%	Time: 9s 407ms 631us 214ns	sample: [14987704]	Result 4412622
+[2020-12-14 23:00:44] [DEBUG]		284	Schedule:  94.67%	Time: 431ms 306us 77ns	sample: [57721125]	Result 189517
+[2020-12-14 23:00:52] [DEBUG]		285	Schedule:  95.00%	Time: 8s 598ms 600us 353ns	sample: [572]	Result 3134449
+[2020-12-14 23:00:55] [DEBUG]		286	Schedule:  95.33%	Time: 2s 836ms 469us 985ns	sample: [16350844]	Result 1510489
+[2020-12-14 23:00:55] [DEBUG]		287	Schedule:  95.67%	Time: 5ms 776us 828ns	sample: [40926141]	Result 2050
+[2020-12-14 23:00:56] [DEBUG]		288	Schedule:  96.00%	Time: 717ms 149us 9ns	sample: [54916719]	Result 192995
+[2020-12-14 23:00:58] [DEBUG]		289	Schedule:  96.33%	Time: 2s 639ms 889us 711ns	sample: [23511857]	Result 1481858
+[2020-12-14 23:00:59] [DEBUG]		290	Schedule:  96.67%	Time: 170ms 198us 85ns	sample: [25515549]	Result 124860
+[2020-12-14 23:02:24] [DEBUG]		291	Schedule:  97.00%	Time: 1m 25s 226ms 954us 474ns	sample: [18591276]	Result 9758701
+[2020-12-14 23:03:50] [DEBUG]		292	Schedule:  97.33%	Time: 1m 26s 44ms 261us 632ns	sample: [21035409]	Result 14613311
+[2020-12-14 23:05:06] [DEBUG]		293	Schedule:  97.67%	Time: 1m 16s 221ms 820us 757ns	sample: [19923144]	Result 13244415
+[2020-12-14 23:06:38] [DEBUG]		294	Schedule:  98.00%	Time: 1m 32s 193ms 381us 616ns	sample: [16841186]	Result 11021860
+[2020-12-14 23:07:13] [DEBUG]		295	Schedule:  98.33%	Time: 35s 12ms 457us 203ns	sample: [18583722]	Result 11191486
+[2020-12-14 23:07:15] [DEBUG]		296	Schedule:  98.67%	Time: 1s 892ms 305us 961ns	sample: [28335791]	Result 514580
+[2020-12-14 23:08:22] [DEBUG]		297	Schedule:  99.00%	Time: 1m 7s 182ms 732us 197ns	sample: [2557521]	Result 10957876
+[2020-12-14 23:08:22] [DEBUG]		298	Schedule:  99.33%	Time: 2ms 839us 718ns	sample: [41470461]	Result 525
+[2020-12-14 23:09:25] [DEBUG]		299	Schedule:  99.67%	Time: 1m 2s 331ms 16us 890ns	sample: [23006794]	Result 11408757
+[2020-12-14 23:10:20] [DEBUG]		300	Schedule:  100.00%	Time: 55s 95ms 399us 215ns	sample: [16418966]	Result 6414063
+[2020-12-14 23:10:20] [INFO]	-- Result Statistics
+[2020-12-14 23:10:20] [INFO]	minTime: 1ms 542us 825ns(1.54ms)
+[2020-12-14 23:10:20] [INFO]	maxTime: 2m 51s 530ms 857us 400ns(171530.86ms)
+[2020-12-14 23:10:20] [INFO]	AvgTime: 16s 749ms 203us 672ns(16749.20ms)
+[2020-12-14 23:10:20] [INFO]	P99：2m 5s 80ms 471us 68ns(125080.47ms)
+[2020-12-14 23:10:20] [INFO]	P999：2m 49s 116ms 339us 482ns(169116.34ms)
+[2020-12-14 23:10:20] [INFO]	Throughput: 0.06
+[2020-12-14 23:10:20] [INFO]	SuccessNum: 300
+[2020-12-14 23:10:20] [INFO]	vertexCount Average: 3265142.03
+[2020-12-14 23:10:20] [INFO]	-- end KNeighbor2
+[2020-12-14 23:10:20] [INFO]	***********************
+[2020-12-14 23:10:20] [INFO]	** Summary of KNeighbor2 Test 2 - 3
+[2020-12-14 23:10:20] [INFO]	minTime: 1ms 284us 730ns(1.28ms)
+[2020-12-14 23:10:20] [INFO]	maxTime: 2m 53s 277ms 352us 911ns(173277.35ms)
+[2020-12-14 23:10:20] [INFO]	AvgTime: 16s 758ms 885us 347ns(16758.89ms)
+[2020-12-14 23:10:20] [INFO]	P99：2m 5s 905ms 304us 74ns(125905.30ms)
+[2020-12-14 23:10:20] [INFO]	P999：2m 52s 231ms 202us 99ns(172231.20ms)
+[2020-12-14 23:10:20] [INFO]	Throughput: 0.06
+[2020-12-14 23:10:20] [INFO]	SuccessNum: 600
+[2020-12-14 23:10:20] [INFO]	***********************

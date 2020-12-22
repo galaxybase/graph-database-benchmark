@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "source": {
+        "sourceType": "CSV",
+        "encoding": "utf-8",
+        "filePath": "data/twitter2010/vertex.csv",
+        "delimiter": "\t",
+        "enclosingChar": "\"",
+        "hasHeader": false
+      },
+      "vertexes": [
+        {
+          "type": "person",
+          "primaryId": "id",
+          "pkColumnIndex": 0,
+          "property": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "source": {
+        "sourceType": "CSV",
+        "encoding": "utf-8",
+        "filePath": "data/twitter2010/edge.csv",
+        "delimiter": "\t",
+        "enclosingChar": "\"",
+        "hasHeader": false
+      },
+      "edges":[
+        {
+          "type": "know",
+          "fromKeyColumnIndex": 0,
+          "toKeyColumnIndex": 1,
+          "property": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

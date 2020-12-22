@@ -1,0 +1,47 @@
+﻿# 图数据库类型
+graphType: hugegraph
+# 图名称
+graphName: hugegraph
+# 默认样本文件
+sample: sample/Graph500-kn-sample.txt
+samples:
+  sp: sample/Graph500-sp-sample.txt
+# 超时时间,单位：s
+timeout: 3600
+# 超时跳过测试项
+timeoutStop: false
+# 遇到错误时跳过测试项
+errorStop: false
+# 数据库所在包名
+dataBaseClass: com.galaxybase.benchmark.hugegraph.database.Huge
+# 自定义参数
+parameters:
+  vertexType: ve
+  edgeType: ed
+  ip: localhost
+  port: 8080
+test:
+  - testClass: com.galaxybase.benchmark.hugegraph.test.KNeighborTest$KNeighbor1
+    count: 300
+    timeout: 180
+    loop: 3
+  - testClass: com.galaxybase.benchmark.hugegraph.test.KNeighborTest$KNeighbor2
+    count: 300
+    timeout: 180
+    loop: 3
+  - testClass: com.galaxybase.benchmark.hugegraph.test.KNeighborTest$KNeighbor3
+    count: 10
+    loop: 3
+  - testClass: com.galaxybase.benchmark.hugegraph.test.KNeighborTest$KNeighbor4
+    count: 10
+    loop: 3
+  - testClass: com.galaxybase.benchmark.hugegraph.test.KNeighborTest$KNeighbor5
+    count: 10
+    loop: 3
+  - testClass: com.galaxybase.benchmark.hugegraph.test.KNeighborTest$KNeighbor6
+    count: 10
+    loop: 3
+  - testClass: com.galaxybase.benchmark.hugegraph.test.ShortestPathTest
+    count: 100
+    loop: 3
+    sample: sp

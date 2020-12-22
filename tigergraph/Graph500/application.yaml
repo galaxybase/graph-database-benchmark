@@ -1,0 +1,83 @@
+#############Graph500数据集测试配置#############
+# 图数据库类型
+graphType: tigergraph
+# 图名称
+graphName: social
+# 超时时间,单位：s
+timeout: 3600
+# 遇到错误时跳过测试项
+errorStop: false
+# 超时不停止
+timeoutStop: false
+# 数据库所在包名
+dataBaseClass: com.galaxybase.benchmark.tiger.database.TigerGraph
+# 自动以参数
+parameters:
+  # tiger部署服务器IP
+  ip: 127.0.0.1
+  # 请求端口
+  port: 9000
+
+# 默认样本文件
+sample: sample/Graph500-kn-sample.txt
+samples:
+  # KN 样本集
+  bfs: sample/Graph500-kn-sample.txt
+  # ShortestPath 样本集
+  sp: sample/Graph500-sp-sample.txt
+test:
+  # WCC 算法查询
+  - testClass: com.galaxybase.benchmark.tiger.item.WeaklyConnectedComponents
+    count: 1
+    loop: 3
+  # PageRank 算法查询
+  - testClass: com.galaxybase.benchmark.tiger.item.PageRank
+    count: 1
+    loop: 3
+  # LPA 算法查询
+  - testClass: com.galaxybase.benchmark.tiger.item.LabelPropagation
+    count: 1
+    loop: 3
+
+
+
+  # 最短路径查询
+  - testClass: com.galaxybase.benchmark.tiger.item.ShortestPath
+    count: 100
+    loop: 3
+    sample: sp
+
+
+
+  # KN 1度查询
+  - testClass: com.galaxybase.benchmark.tiger.item.KNeighbor1
+    count: 300
+    loop: 3
+    sample: bfs
+    timeout: 180
+  # KN 2度查询
+  - testClass: com.galaxybase.benchmark.tiger.item.KNeighbor2
+    count: 300
+    loop: 3
+    sample: bfs
+    timeout: 180
+  # KN 3度查询
+  - testClass: com.galaxybase.benchmark.tiger.item.KNeighbor3
+    count: 10
+    loop: 3
+    sample: bfs
+  # KN 4度查询
+  - testClass: com.galaxybase.benchmark.tiger.item.KNeighbor4
+    count: 10
+    loop: 3
+    sample: bfs
+  # KN 5度查询
+  - testClass: com.galaxybase.benchmark.tiger.item.KNeighbor5
+    count: 10
+    loop: 3
+    sample: bfs
+  # KN 6度查询
+  - testClass: com.galaxybase.benchmark.tiger.item.KNeighbor6
+    count: 10
+    loop: 3
+    sample: bfs

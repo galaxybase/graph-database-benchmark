@@ -1,0 +1,80 @@
+# 图数据库类型
+graphType: neo4j
+# 图名称
+graphName: Graph500
+# 默认样本文件
+sample: sample/Graph500-kn-sample.txt
+# 样本文件
+samples:
+# 最短路径样本名称
+  sp: sample/Graph500-sp-sample.txt
+# 超时时间,单位：s
+timeout: 3600
+# 超时时停止测试
+timeoutStop: false
+# 遇到错误时停止测试
+errorStop: false
+# 数据库所在包名
+dataBaseClass: com.galaxybase.benchmark.neo4j.database.Neo4j
+parameters:
+#  点类型名称
+  vertexType: person
+#  边类型名称
+  edgeType: know
+#  IP地址
+  ip: localhost
+#  neo4j端口号
+  port: 7687
+#  用户名
+  username: neo4j
+#  密码
+  password: neo4j
+test:
+  # K-neighbor 1度查询
+  - testClass: com.galaxybase.benchmark.neo4j.item.KNeighbor1
+    count: 300
+    loop: 3
+    timeout: 180
+  # K-neighbor 2度查询
+  - testClass: com.galaxybase.benchmark.neo4j.item.KNeighbor2
+    count: 300
+    loop: 3
+    timeout: 180
+  # K-neighbor 3度查询
+  - testClass: com.galaxybase.benchmark.neo4j.item.KNeighbor3
+    count: 10
+    loop: 3
+  # K-neighbor 4度查询
+  - testClass: com.galaxybase.benchmark.neo4j.item.KNeighbor4
+    count: 10
+    loop: 3
+  # K-neighbor 5度查询
+  - testClass: com.galaxybase.benchmark.neo4j.item.KNeighbor5
+    count: 10
+    loop: 3
+  # K-neighbor 6度查询
+  - testClass: com.galaxybase.benchmark.neo4j.item.KNeighbor6
+    count: 10
+    loop: 3
+  ## 算法部分
+  # Shortest Path算法测试
+  - testClass: com.galaxybase.benchmark.neo4j.item.ShortestPath
+    count: 100
+    loop: 3
+    sample: sp
+  # PageRank算法测试
+  - testClass: com.galaxybase.benchmark.neo4j.item.PageRank
+    count: 1
+    loop: 3
+  # Weak Connected Component算法测试
+  - testClass: com.galaxybase.benchmark.neo4j.item.WeaklyConnectedComponents
+    count: 1
+    loop: 3
+  # Label Propagation Algorithm算法测试
+  - testClass: com.galaxybase.benchmark.neo4j.item.LabelPropagation
+    count: 1
+    loop: 3
+  # Label Propagation Algorithm算法测试
+  - testClass: com.galaxybase.benchmark.neo4j.item.DegreeCentrality
+    count: 1
+    loop: 3

@@ -1,0 +1,1 @@
+java -jar galaxybase-console-buildgraph-v3.0.0-developer.jar -a 127.0.0.1:18088 -u admin -p admin -g Twitter-2010 -s Twitter-2010/schema.json -m Twitter-2010/mapping.json

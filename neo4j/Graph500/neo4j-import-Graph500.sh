@@ -1,0 +1,1 @@
+neo4j-admin import -database Graph500.db --id-type=ACTUAL -nodes:person=/import/Graph500/vertex.csv -relationships:know=/import/Graph500/edge.csv --delimiter='\t'

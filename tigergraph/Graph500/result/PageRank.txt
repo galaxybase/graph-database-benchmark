@@ -1,0 +1,63 @@
+[2020-12-20 22:31:41] [INFO]	-- Start PageRank
+[2020-12-20 22:32:03] [DEBUG]		1	Schedule: 100.00%	Time: 22s 732ms 446us 857ns	Sample: [0, 10, 0.85, true, 1]	Result {"version":{"edition":"developer","api":"v2","schema":0},"error":false,"message":"","results":[{"@@maxDifference":3.14159}]}
+[2020-12-20 22:32:03] [INFO]	-- Result Statistics
+[2020-12-20 22:32:03] [INFO]	minTime: 22s 732ms 446us 857ns(22732.45ms)
+[2020-12-20 22:32:03] [INFO]	maxTime: 22s 732ms 446us 857ns(22732.45ms)
+[2020-12-20 22:32:03] [INFO]	AvgTime: 22s 732ms 446us 857ns(22732.45ms)
+[2020-12-20 22:32:03] [INFO]	P99: 22s 732ms 446us 857ns(22732.45ms)
+[2020-12-20 22:32:03] [INFO]	P999: 22s 732ms 446us 857ns(22732.45ms)
+[2020-12-20 22:32:03] [INFO]	Throughput: 0.04
+[2020-12-20 22:32:03] [INFO]	SuccessNum: 1
+[2020-12-20 22:32:03] [INFO]	SuccessRate: 100.00%
+[2020-12-20 22:32:03] [INFO]	ErrorNum: 0
+[2020-12-20 22:32:03] [INFO]	ErrorRate: 0.00%
+[2020-12-20 22:32:03] [INFO]	TimeoutNum: 0
+[2020-12-20 22:32:03] [INFO]	TimeoutRate: 0.00%
+[2020-12-20 22:32:03] [INFO]	-- End PageRank
+[2020-12-20 22:32:03] [INFO]	-- Start PageRank
+[2020-12-20 22:32:26] [DEBUG]		1	Schedule: 100.00%	Time: 22s 873ms 536us 355ns	Sample: [0, 10, 0.85, true, 1]	Result {"version":{"edition":"developer","api":"v2","schema":0},"error":false,"message":"","results":[{"@@maxDifference":3.14159}]}
+[2020-12-20 22:32:26] [INFO]	-- Result Statistics
+[2020-12-20 22:32:26] [INFO]	minTime: 22s 873ms 536us 355ns(22873.54ms)
+[2020-12-20 22:32:26] [INFO]	maxTime: 22s 873ms 536us 355ns(22873.54ms)
+[2020-12-20 22:32:26] [INFO]	AvgTime: 22s 873ms 536us 355ns(22873.54ms)
+[2020-12-20 22:32:26] [INFO]	P99: 22s 873ms 536us 355ns(22873.54ms)
+[2020-12-20 22:32:26] [INFO]	P999: 22s 873ms 536us 355ns(22873.54ms)
+[2020-12-20 22:32:26] [INFO]	Throughput: 0.04
+[2020-12-20 22:32:26] [INFO]	SuccessNum: 1
+[2020-12-20 22:32:26] [INFO]	SuccessRate: 100.00%
+[2020-12-20 22:32:26] [INFO]	ErrorNum: 0
+[2020-12-20 22:32:26] [INFO]	ErrorRate: 0.00%
+[2020-12-20 22:32:26] [INFO]	TimeoutNum: 0
+[2020-12-20 22:32:26] [INFO]	TimeoutRate: 0.00%
+[2020-12-20 22:32:26] [INFO]	-- End PageRank
+[2020-12-20 22:32:26] [INFO]	-- Start PageRank
+[2020-12-20 22:32:49] [DEBUG]		1	Schedule: 100.00%	Time: 22s 973ms 988us 517ns	Sample: [0, 10, 0.85, true, 1]	Result {"version":{"edition":"developer","api":"v2","schema":0},"error":false,"message":"","results":[{"@@maxDifference":3.14159}]}
+[2020-12-20 22:32:49] [INFO]	-- Result Statistics
+[2020-12-20 22:32:49] [INFO]	minTime: 22s 973ms 988us 517ns(22973.99ms)
+[2020-12-20 22:32:49] [INFO]	maxTime: 22s 973ms 988us 517ns(22973.99ms)
+[2020-12-20 22:32:49] [INFO]	AvgTime: 22s 973ms 988us 517ns(22973.99ms)
+[2020-12-20 22:32:49] [INFO]	P99: 22s 973ms 988us 517ns(22973.99ms)
+[2020-12-20 22:32:49] [INFO]	P999: 22s 973ms 988us 517ns(22973.99ms)
+[2020-12-20 22:32:49] [INFO]	Throughput: 0.04
+[2020-12-20 22:32:49] [INFO]	SuccessNum: 1
+[2020-12-20 22:32:49] [INFO]	SuccessRate: 100.00%
+[2020-12-20 22:32:49] [INFO]	ErrorNum: 0
+[2020-12-20 22:32:49] [INFO]	ErrorRate: 0.00%
+[2020-12-20 22:32:49] [INFO]	TimeoutNum: 0
+[2020-12-20 22:32:49] [INFO]	TimeoutRate: 0.00%
+[2020-12-20 22:32:49] [INFO]	-- End PageRank
+[2020-12-20 22:32:49] [INFO]	***********************
+[2020-12-20 22:32:49] [INFO]	** Summary of PageRank Test 2 - 3
+[2020-12-20 22:32:49] [INFO]	minTime: 22s 873ms 536us 355ns(22873.54ms)
+[2020-12-20 22:32:49] [INFO]	maxTime: 22s 973ms 988us 517ns(22973.99ms)
+[2020-12-20 22:32:49] [INFO]	AvgTime: 22s 923ms 762us 436ns(22923.76ms)
+[2020-12-20 22:32:49] [INFO]	P99: 22s 972ms 983us 995ns(22972.98ms)
+[2020-12-20 22:32:49] [INFO]	P999: 22s 973ms 888us 64ns(22973.89ms)
+[2020-12-20 22:32:49] [INFO]	Throughput: 0.04
+[2020-12-20 22:32:49] [INFO]	SuccessNum: 2
+[2020-12-20 22:32:49] [INFO]	SuccessRate: 100.00%
+[2020-12-20 22:32:49] [INFO]	ErrorNum: 0
+[2020-12-20 22:32:49] [INFO]	ErrorRate: 0.00%
+[2020-12-20 22:32:49] [INFO]	TimeoutNum: 0
+[2020-12-20 22:32:49] [INFO]	TimeoutRate: 0.00%
+[2020-12-20 22:32:49] [INFO]	***********************
